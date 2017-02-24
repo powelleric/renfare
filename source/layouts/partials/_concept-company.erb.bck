@@ -1,0 +1,9 @@
+<div class="row featurette">
+  <div class="col-md-7">
+    <h2 class="featurette-heading">Employee-owned and community-focused.</h2>
+    <p class="lead">Our corporate structure is as progressive as our business model.  Registered as a B corporation, Verde is committed to providing nutritious, affordable food and meaningful employment opportunities above corporate profits.  Our employees own 100% of the company's shares under an Employee Stock Ownership Program (ESOP).  Our company is 100% employee-owned Simply open the app to see what's cooking.  Each day is a different menu.  You can also sign up to receive the week's menu by email.</p>
+  </div>
+  <div class="col-md-5">
+    <%= image_tag "chef-meeting.jpg", :class => "img-fluid mx-auto"%>
+  </div>
+</div>

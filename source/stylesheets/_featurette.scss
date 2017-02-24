@@ -1,0 +1,83 @@
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  color: #333;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+.featurette ul {
+  font-weight: 300;
+  font-size: 18px;
+  /*text-align: left;*/
+}
+
+.divider { 
+  margin-top: 80px;
+}
+
+.green-bkgd {
+  background-color: $pea-green;
+  color: #fff;
+  padding: 0px 40px;
+  h2 {
+    color: #fff;
+  }
+}
+
+.quinoa-bkgd {
+  /*background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.4)), url("/images/quinoa-pan.jpg");*/
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url("/images/quinoa-pan.jpg");
+  background-size: cover;
+  padding: 40px 200px;
+  height: 375px;
+  color: #fff;
+  h2 {
+    color: #fff;
+  }
+  /*text-align: center;*/
+}
+  
+.image-bleed {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.farm-vector-bkgd {
+  background-image: linear-gradient(45deg, rgba(255,255,255,0), rgba(255,255,255,0.17), rgba(255,255,255,0.55), rgba(255, 255, 255,100)), url("/images/sustainable-farm2.png"), image_url("sustainable-farm2.png");
+  background-size: cover;
+  background-position-y: bottom;
+  /*height: 400px;*/
+
+}
+
+.white-gradient {
+  /*width: 100%;*/
+  background-image: linear-gradient(45deg, rgba(255,255,255,0), rgba(255,255,255,0), rgba(255, 255, 255,100)), url("/images/sustainable-farm2.png");
+  height: 100%
+  /*padding-left: 300px;*/
+}
+
+.text-floater {
+  width: 450px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 2rem;
+  }
+}
+
