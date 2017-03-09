@@ -13,5 +13,5 @@ gem "slim"
 
 # Middleman Gems
 gem 'middleman', '>= 4.0.0'
-gem 'middleman-livereload'
+gem 'middleman-livereload', '~> 3.4'
 gem 'middleman-compass', '>= 4.0.0'
