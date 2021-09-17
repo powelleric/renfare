@@ -17,7 +17,7 @@ It all started with a question that you are probably familiar with: “What shou
 
 The trouble I found was that I was always struggling to balance three factors: time, cost, and nutrition.  I wanted a quick, affordable and healthy meal, and it just wasn’t available.  If I prepared food at home, I could have a very healthy and affordable meal, but the time it would take was often more than I wanted to commit to, particularly on a weeknight when time was already scarce.  On the other hand, eating out (or getting food to-go) offered the perfect antidote for the time-starved, but it came at a severe compromise on the other fronts: the cheaper food was usually less nutritious and the more expensive food was, well, more expensive.  
 
-Over time, this very basic observation about food economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that modern society were linked to the lack of quick, affordable and healthy food.
+Over time, this very basic observation about food economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that plague modern society were linked to the lack of quick, affordable and healthy food.
 
 The second and equally captivating factor is that, in our current age of information technology, it seemed like there were more possibilities to address the issue than ever before.
 
@@ -51,27 +51,21 @@ The foremost characteristic that I will draw attention to is the fact that every
 
 The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
 
-Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is part of the standard business model in which restaurants build their brand around certain dishes and types of cuisine.
+Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is ingrained in the business model in which restaurants build their brand around certain dishes and types of cuisine.
+
+These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics of these factors, the following sections will consider some common scenarios in food service.  This will also serve as an opportunity to introduce many of the issues that have arisen 
+
 
 These three factors combine to severely limit the scale and efficiency of food service.  Were it just one of them, perhaps it could be balanced out by other considerations, but the wholesale embrace of this __modus operandi__ leaves no possibility of substantive change in the industry.
 
-It is worth noting that there can be a great deal of interplay between these three factors, so much so that one could quite convincingly argue that they are in fact a single phenomenon.  For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order might make sense if you have a variety of dishes and an unpredictable rate of sale.
+It is worth noting that there can be a great deal of interplay between these factors, so much so that one could quite convincingly argue that they are in fact a single phenomenon.  For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order can make sense if you have a variety of dishes and an unpredictable rate of sale.
 
-This, however, is more a statement of current food service than it is of any intrinsic relationship between these factors.  As will become apparent, each factor is very much an independent consideration despite the fact that they appear self-reinforcing in the industry today.
+This, however, is more a statement of current food service than it is of any intrinsic relationship between these factors.  As will become apparent, each factor is very much an independent consideration despite the fact that they appear so interconnected in the industry today.
 
-- Encouraging the consumer to customize ("Have it your way")
+== Menu & supply chain
 
-- The food service industry nearly always honors customizations, even encouraging it as a means of upselling add-on ingredients.
-
-- Customizations are a way of upselling, maximizing the current sale.  Value is a way of pursuing profit.
-
-- Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
-
-- App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
-
-
-This line of reasoning is 
-- capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
+This line of reasoning 
+- is capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
 -serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
 
 == Home economics
@@ -135,11 +129,7 @@ In this regard, one of the implicit assumptions running through nearly every pol
 
 This assumption leaves no room for the possibility that the choices available to us today are not, as is widely assumed, the result of deterministic forces in the free market but instead are artifacts of history.  And by extension, there are potentially great possibilities laying dormant. 
 
-A careful study of the obesity policies reveals 
-
 only solutions to the problem are seen through the framing of the issue by these .  in an attempt to understand the underlying factors, those factors themselves are viewed as absolute. One the one hand, this is imminently reasonable. It reflects a basic understanding of society that things are the way they are for a reason.  In turn, this basic understanding can trace its origins to capitalism and even back to the development of logical thinking.
-
-In this case
 
 _Again, this finding mirrors what was observed in the campaign against smoking._
 
@@ -158,8 +148,6 @@ During this time, smaller families and more work.  This left less time to prepar
 
 In a very real sense, to even suggest that a cheaper, healthier meal might be readily available risks coming off as naive.  We all know the power of the free markets and their ability to deliver goods and services to meet virtually any imaginable desire.
 
-
-The problem of a quick, healthy and affordable meal boils 
 
 The canonical value-oriented restaurant is the soup kitchen. Known from the depression years, soup kitchens are society's response to difficult times.
 
@@ -389,6 +377,13 @@ quintescential fast-food item
 
 vertical integration as a disruptive change
 
+- Encouraging the consumer to customize ("Have it your way")
+
+- Customizations are a way of upselling, maximizing the current sale.  Value is a way of pursuing profit.
+
+- Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
+
+- App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
 
 What I am proposing is the $3 meal. 
 
