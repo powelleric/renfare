@@ -1,0 +1,417 @@
+= Food for Thought
+
+== Outline
+
+* How it all started
+** The question: what to have for dinner
+* How did we come to have an unhealthy diet and what is it doing to us?
+** most meals were cooked at home in the 1960s
+** processed foods, subsidies and marketing
+
+
+Blank section
+
+== What to have for dinner?
+
+It all started with a question that you are probably familiar with: “What should I have for dinner?”.  I wasn’t asking it any sense of food security, like whether I would have dinner at all.  No, this was more about what to choose amongst a multitude of options.  On the surface, it almost seems like a dream come true (and to many less fortunate it is), but in actuality it was marked by a note of frustration, frustration that even amidst a sea of options, none seemed to offer what I was looking for.
+
+The trouble I found was that I was always struggling to balance three factors: time, cost, and nutrition.  I wanted a quick, affordable and healthy meal, and it just wasn’t available.  If I prepared food at home, I could have a very healthy and affordable meal, but the time it would take was often more than I wanted to commit to, particularly on a weeknight when time was already scarce.  On the other hand, eating out (or getting food to-go) offered the perfect antidote for the time-starved, but it came at a severe compromise on the other fronts: the cheaper food was usually less nutritious and the more expensive food was, well, more expensive.  
+
+Over time, this very basic observation about food economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that modern society were linked to the lack of quick, affordable and healthy food.
+
+The second and equally captivating factor is that, in our current age of information technology, it seemed like there were more possibilities to address the issue than ever before.
+
+_To bring that altogether in a more relatable way, if you have a busy schedule, are on a tight budget and also wanting to eat healthy (or worse, keep to a diet), you very well may find yourself in a precarious situation come dinner-time, and that realization was what initially captivated my interest in this topic.  Because the unfortunate truth is that that trio of conditions describes a great deal of Americans, and the ramifications of this little, innocent question about what to have for dinner are actually tied to some of the most serious health and environmental concerns of our day._
+
+_That in itself was not very interesting, but the fact that this problem affected so many other people and that it tied into so many serious health and environmental concerns is what really captivated me._
+
+== Opportunities for quick, affordable and healthy meals
+
+In a very real sense, to even suggest that a quicker, cheaper and healthier meal might be possible risks coming off as naive, even more so to suggest that it is possible without any dramatic intervention in the economy.  We all know the power of the free markets and their ability to deliver goods and services at competitive prices to meet virtually any imaginable desire.  And, surely, there is plenty of competition in today's food service industry as well as plenty of demand for quicker, cheaper and healthier food in society. Therefore, if the necessary market conditions exist and yet we do not see quicker, cheaper and healthier food being offered, then theory tells us that there is something else, some other constraint on the system, that is preventing the market from meeting the demand.
+
+Thus, when it comes to the question of creating dramatically quicker, cheaper and healthier food, many would say it's impossible, that you could not operate a business on such margins. They would point to the sophisticated logistics of just-in-time supply chains, the competition in the industry, and the ever-expanding offerings of "light" menu items as evidence that the full weight of the industry is already behind this effort.
+
+All of these things are true, but the argument is based on a flawed assumption: that (given sufficient time) the market will always find a way to supply a demand.  This is a pretty safe assumption for most things, but food is not most things.  
+
+For one thing, food, or more specifically, the value of food, is a highly subjective measure.  It is intertwined with culture, causing some foods to be valued higher due to tradition.  Even within the same person, the value placed on a certain type of food is far greater when they are craving it versus 20 minutes after they have eaten it. 
+
+In turn, this subjectivity has clouded the waters just enough to prevent a careful assessment of the food-service landscape.  This is a major problem because the landscape has changed dramatically over the past 50 years.
+
+We are caught in what is sometimes referred to as path dependency, a phenomenon in history where society continues to do something despite a change in the prevailing conditions.  It most often arises when there are considerable costs associated with changing the practice.  However, it can also be caused by less tangible factors like culture and tradition.  
+
+Ultimately, regardless of the forces driving it, path dependency manifests itself as a sociological phenomenon such that even individuals without any ties or investment in the existing practice will not attempt to alter it.  In other words, the practice persists because it is the accepted way of doing things, not because it is necessarily the best way, almost as though there were a collective blind-spot in the market.
+
+In what follows, I will make the case for the claims above, showing not only that quicker, cheaper and healthier food is possible but that it would have enormous benefits to society.
+
+== Spoiled for choice
+
+If the ultimate goal of this book is to change the reader's perception of the existing food service landscape, then there is no better way to start than to juxtapose it with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several characteristics that are pertinent in our discussion.
+
+The foremost characteristic that I will draw attention to is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food-service industry, in which each person (even at the same table) is able to choose from many different items.
+
+The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
+
+Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is part of the standard business model in which restaurants build their brand around certain dishes and types of cuisine.
+
+These three factors combine to severely limit the scale and efficiency of food service.  Were it just one of them, perhaps it could be balanced out by other considerations, but the wholesale embrace of this __modus operandi__ leaves no possibility of substantive change in the industry.
+
+It is worth noting that there can be a great deal of interplay between these three factors, so much so that one could quite convincingly argue that they are in fact a single phenomenon.  For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order might make sense if you have a variety of dishes and an unpredictable rate of sale.
+
+This, however, is more a statement of current food service than it is of any intrinsic relationship between these factors.  As will become apparent, each factor is very much an independent consideration despite the fact that they appear self-reinforcing in the industry today.
+
+- Encouraging the consumer to customize ("Have it your way")
+
+- The food service industry nearly always honors customizations, even encouraging it as a means of upselling add-on ingredients.
+
+- Customizations are a way of upselling, maximizing the current sale.  Value is a way of pursuing profit.
+
+- Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
+
+- App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
+
+
+This line of reasoning is 
+- capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
+-serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
+
+== Home economics
+
+To better understand what a quick, healthy and affordable meal could mean to us today, it is helpful to look at how our diet has changed over the past 50 years.  In doing so, what becomes apparent is that a quick, healthy and affordable meal was not necessarily available to prior generations either.  Yet, at the same time, it arguably did not present the same issue that it is for us today.
+
+Prior to the seventies, the majority of meals were prepared in the home. At that time, a typical household would have working-age males part of the labor force, while their female counterparts stayed at home attending to domestic duties.  Of these duties, preparing meals for the family would have been at the forefront.  It is estimated that the average house-wife spent upwards of three hours per day in the kitchen.  This was before the advent of processed foods so meals were based around whole foods.
+While we certainly wouldn't call these meals "quick", on the whole it was still a very reasonable proposition because home ownership and all the other trappings of middle-class life were perfectly attainable for a single-income family.  Furthermore, families were larger during those days, and because cooking for more people often requires only a marginal amount of extra work, the home cooked meal was an eminently economical option.
+
+_There are several key trends that occurred over the past fifty years that impacted our relationship with food.  These are smaller family sizes, a declining middle-class, and the rise of the processed foods industry._
+
+Beginning in the 1970's, processed foods began to enter the scene. These foods were high in sugar, fat. These foods were addictive, concentrated with highly refined ingredients. The companies manufacturing them were powerful and were subsidized by the government. The food could stay on the shelf for a long time.The quality of food declined and Americans became obese. During this time the price of bad ingredients like grain dropped while the price for fresh fruits and vegetables doubled.
+
+Over a relatively short period of time, the United States experienced an explosion in obesity with its myriad associated health complications close behind _began to dominate the medical industry_.  The needref declared that non-communicable diseases were the number one cause of death in the United States. The problem was further compounded by the business tactics employed by the food producers themselves.  In a relentless pursuit of greater profits (and, in turn, shareholder value), these companies used aggressive marketing tactics targeting children and encouraging consumption. They also increased portion sizes, further encouraging consumption.
+
+By the late nineties, the obesity epidemic and the cadre of powerful companies driving it prompted comparisons between another major public-health campaign of the times: cigarette smoking.  _the public health efforts engaged in the fight_ against smoking _and the tobacco companies_. 
+
+The parallels are indeed chilling.  Researchers drew striking similarities between cravings for junk food and the cravings experienced by drug addicts and likened compulsive eating to behaviors exhibited by addicts, even demonstrating via MRI that the cravings for sugary items such as a chocolate milkshake stimulate similar brain pathways as those of alcohol and narcotic addiction.
+
+Further, advertising and marketing targeting children and youth was a key strategy of both industries.
+
+Not surprisingly, then, many of the same tactics that were successfully employed in the public health campaign against smoking have been proposed in the battle against obesity.
+
+In the _Lancet_ series on obesity in 2011: "Policy and regulatory actions were identified as the most effective and cost-effective means of tackling the problem."
+
+Sadly, just seven years after this careful assessment and its accompanying recommendations were put forth, the _Lancet_ organized a second series on obesity.  The key motivation this time was to "ask what else is needed" to combat the rising trends in obesity that had continued largely unperturbed during the intervening years. 
+
+The second _Lancet_ meeting did not actually propose new approaches to tackling the situation as much as it identified the existing ones which had shown promise and refined the overall framing of the issue. 
+
+What perplexes policy-makers is the varied nature of obesity drivers.  With tobacco the issue was black-and-white.  Cigarette smoking was an evil in the truest sense, without any redeeming qualities of its own.  Cravings for cigarettes are driven by nicotine addiction and not any innate biological process. 
+
+But junk food is not the same as cigarettes, nor is the body's natural preference for energy-dense foods the same as nicotine addiction.  While smoking represents a clearly defined risk, unhealthy foods are generally only a risk when consumed in excess.  Furthermore, whereas nothing can satiate a smoker except a cigarette - even nicotine patches are not effective, cravings for junk food can be virtually nullified simply be eating something else.  As such, a continual challenge in addressing obesity is doing it in a targeted and effective manner.
+
+Consistent with this assessment, the areas where policy-makers have been able to make headway are distinguished by the presence of a narrowly defined threat in an institutional setting _with high-risk groups_.  For example, the banning of junk food in schools has been instituted in many schools throughout the world with great success.  It consistently receives strong support from stakeholders due to the fact that childhood obesity has been shown to be particularly damaging to long-term health and the recognition that schools have a custodial duty to provide a healthy environment for the students. 
+
+By contrast, in broader society many like-minded policy efforts are met with fierce resistance from industry groups or are diluted to such an extent as to be almost ineffectual.  As critics have pointed out, these policies are often applied inconsistently.  For example, while it may seem easy enough to propose a tax on candy bars due to their high sugar content, does that tax also apply to a wedding cake?  Goodhart's law states that "when a measure becomes a target, it ceases to be a good measure", and is a sobering reminder of the difficulty in this matter.  
+
+Perhaps what is most perplexing is not the failed attempts of policy-makers but the fact that they were needed in the first place.  In the words of one researcher, why do people "fail to make decisions in their own self-interest"?
+
+From the extensive analysis of the issue and comparisons of different interventions, we can gather that economic interventions are particularly effective.
+
+When reading any of the literature on the subject it is a foregone conclusion that the private sector does not have what it takes to stem the obesity epidemic, or at least not without being incentivized to do so.
+
+A key summary to emerge from this second meeting was titled "Pockets of progress" in reference to the "flattening of childhood
+obesity in some cities and countries where rates were already high". Apart from those "pockets", the obesity epidemic had proceeded largely unperturbed.
+
+When approaching a challenging issue like obesity, a natural way to seek to understand it is to dissect the different _risk_ factors at play.  As we've already seen changes in everything from home-cooked meals and smoking all the way to labor wages and government subsidies can be correlated with obesity. Oftentimes a detailed study of such factors can yield insights and ideas for solutions, or ways to augment the system.
+
+However, sometimes solutions are not _apparent_ to be found in these factors. And in the process of increasingly detailed interrogation of these factors, there is the danger that these factors become absolutes in the mind of the researcher.
+
+
+there is not an immediately actionable.  it does not yield immediately apparent 
+
+
+factor vs underlying factor
+
+One of the dangers of working on a complex problem like obesity is that we try to find solutions through a process of increasingly detailed dissection of the underlying factors.  Increasingly detailed interrogation of these factors becomes the vehicle by new which solutions are identified.  However, with a complex issue such as obesity, there is a danger the look for solutions _attempt to solve the issue_ through an _understand the issue by dissecting the underlying factors. 
+While this is eminently reasonable (and arguably even necessary/requisite), it carries with it the danger that these very same factors become _tendency to view those very same factors as_ absolutes in the mind of the researcher, such that the only available solutions are those seen through the window of these constraints. In other words, the framing of the issue creates (seemingly unbeknowst) limitations on how it can be addressed.
+
+In this regard, one of the implicit assumptions running through nearly every policy is the role of restaurants as purveyors of calorie-dense foods. In fairness, this is precisely what we've seen over the past several decades.  Yet at the same time, there are marked anomalies to this pattern. Australian study found that healthy food was 17% cheaper than unhealthy. How not to diet notes that commodities such as beans have razor-thin margins and are often sold as loss-leaders.
+
+This assumption leaves no room for the possibility that the choices available to us today are not, as is widely assumed, the result of deterministic forces in the free market but instead are artifacts of history.  And by extension, there are potentially great possibilities laying dormant. 
+
+A careful study of the obesity policies reveals 
+
+only solutions to the problem are seen through the framing of the issue by these .  in an attempt to understand the underlying factors, those factors themselves are viewed as absolute. One the one hand, this is imminently reasonable. It reflects a basic understanding of society that things are the way they are for a reason.  In turn, this basic understanding can trace its origins to capitalism and even back to the development of logical thinking.
+
+In this case
+
+_Again, this finding mirrors what was observed in the campaign against smoking._
+
+_While this serves to explain the rise in obesity at the end of the twentieth century, the continuing, and indeed worsening, epidemic of obesity in the twenty-first century bears further examination.  For while the previous generation had very little experience of obesity, we are consumed by it.  While households in the 1970's could not have fathomed the toll that the new processed foods would take on society, it has been documented ad-nauseum in today's society.  To declare that fast food is bad for you is trite and universally accepted.  Why then does it persist?  Is it really just that carbs are addictive, advertising frighteningly effective and government-subsidized mega-industries are omnipotent?_
+
+I contend that the situation is not as simple as that.  All of these factors are powerful but what has also contributed to the issue is the failure of society to adapt to the emerging issues.
+
+In this sense, a parallel is frequently drawn between the tobacco industry.  Both ever-present temptations driven by powerful industries. But they are not the same. While nothing can satiate a smoker quite like a cigarette, hunger and cravings can be neutralized with healthy food and cravings greatly diminish.  another way of putting this is that the risk of eating junk food is much greater when a person is hungry. the Corollary is that ensuring the availability of quick healthy and affordable food undercuts junk food.  junk food thrives in environments where there is not competition  for value.  this points to the idea that a cheaper healthier product could supplant the dominance of junk food.
+
+_The principal hypothesis to be tested is that an increase in the prevalence of obesity is the result of several economic changes that have altered the lifestyle choices of Americans. One important economic change is the increase in the value of time, particularly of women, which is reflected by the growth in their labor force participation rates and in their hours of work. The reduction in home time, due in part to the slow growth in income among certain groups, has been associated with an increase in the demand for convenience food. Another important change is the rise in the real cost of cigarette smoking due to increases in the money price of cigarettes, the diffusion of information concerning the harmful effects of smoking, and the enactment of state statutes that restrict smoking in public places and in the workplace. This relative price change may have reduced smoking, which tends to increase weight. A final set of relative price changes revolves around the increasing availability of fast food, which reduces search and travel time and changes in the relative costs of meals consumed in fast-food restaurants, full-service restaurants, and meals prepared at home._ Chou 2002
+
+Most households had a single working parent who was able to provide for the entire family.
+During this time, smaller families and more work.  This left less time to prepare food at home and made the benefits of doing so less.  At a similar time, the processed foods industry was gearing up.
+
+== Soup kitchen
+
+In a very real sense, to even suggest that a cheaper, healthier meal might be readily available risks coming off as naive.  We all know the power of the free markets and their ability to deliver goods and services to meet virtually any imaginable desire.
+
+
+The problem of a quick, healthy and affordable meal boils 
+
+The canonical value-oriented restaurant is the soup kitchen. Known from the depression years, soup kitchens are society's response to difficult times.
+
+Perhaps it is a desire to push the memory of these difficult times into the past that keeps us from recognizing the lessons they can teach us even in more fortunate times.
+
+The soup kitchen format is eminently efficient. Born of tough times, when food was a matter of survival, the soup kitchen was the social intervention tasked with closing the gap.
+
+
+== Fluff
+
+Make no mistake, the idea I am proposing is ambitious.  _Both in its scope and in its implementation, there are numerous challenges to be addressed._  At its core, it represents a true paradigm shift in our approach to food service.   Nevertheless, in the remainder of this article, I hope to convince you not just of the potential for such an idea but also of its necessity.
+
+== Limited Menu
+
+While there are numerous facets to cover and complex dynamics to be understood, the core concept itself is deceptively simple: a restaurant that serves only a couple dishes each day.  To be clear, a limited menu alone is not going to lead to anything revolutionary.  However, in the context of the other factors we will consider, it becomes a powerful catalyst.  First, though, let's review the concept of a limited menu and the significance it has for us moving forward.
+
+The choice of a limited menu is driven by efficiency. _"The adoption of a limited menu is motivated by efficiency"._ By focusing on just a few dishes, a restaurant can produce those dishes on a larger scale, and with larger scale comes lower prices for raw materials, greater efficiencies in labor, as well as a suite of other related benefits.  For example, such a restaurant could serve their customers faster, resulting in a quicker table turn-around and ultimately allowing it to serve more customers. 
+
+The trade-off for the efficiency enjoyed by a limited menu is, of course, the lack of variety.  It is a straight-forward assertion that a restaurant with more items to offer will - all other things being equal - attract more customers by being able to satisfy a wider variety of preferences.  That is what theory would tell us, at least.
+
+However, in practice we know that the size of the menu rarely ever factors into our decision about whether or not to go to a particular restaurant.  This apparent disparity between theory and practice arises from the theoretical requirement that "all other things" be equal between the restaurants, a condition that is never satisfied in reality.  Quite to the contrary, in reality there are dozens of more prominent factors distinguishing one restaurant from the next, such that the relative number of items on the menu never factors highly into the decision.
+
+Still, there is something to be said for having a reasonable amount of variety.  If nothing else, the dominant restaurant model - to offer dozens of items across different courses - suggests that variety is an important factor.  
+
+Having broadly framed the idea of menu variety as a trade-off between customer appeal[1] and production efficiency, _in further chapters we will examine this dynamic in greater detail._ we will now turn to the topic of what type of dishes are served by our restaurant.
+
+== Fast food
+
+The previous section looked at costs of production as a function of how many items are offered by the restaurant, with less menu items equating to lower costs of production.
+
+But as far as costs of production are concerned, what is actually being served is a far greater determinant than the number of menu items.  To examine this in greater detail, we will assess the costs of production in terms of three distinct factors: the ingredients, the prep time and the length of freshness.
+
+== Ingredients
+
+The most obvious factor in the cost of a dish is the ingredients. A prime cut of steak will cost significantly more than a piece of bread. In turn, menu items that are comprised of higher cost ingredients come at a higher cost to the consumer.
+
+In terms of efficiency, however, ingredient price is not very relevant.  On the other hand, the shelf life of the ingredients is a huge consideration. Ingredients that keep well result in less spoilage and can be bought in greater bulk. Notably, this favors the use of processed foods over whole foods, meat over vegetables.  Anything that can be frozen or sit for weeks on a shelf offers a distinct advantage to the restaurant in terms of streamlined operation and insulation from fluctuations in demand.
+
+== Prep time
+
+Preparation time quite often follows a similar pattern as ingredients.  Namely, that ingredients with longer shelf life tend to go hand-in-hand with quicker preparation.  This is because processed foods often contain high amounts of fat, sugar and/or salt, all things that are proven to tantalize the taste buds.  Meat also follows a similar path, as it is calorie-dense and contains fat that accentuates flavors.  This allows a satisfying dish to be attained simply with a nice sear on the grill.  
+
+Furthermore, the same dynamics of shelf-life again present themselves in terms of preparation.  You wouldn't want to make a salad the day before because the vegetables would wilt and get soggy. However, you wouldn't have any qualms about making dough or marinating meat the day before.
+
+Taken together, this gives the clear distinction of items using processed foods and meat as being easier to prepare.
+
+== Freshness (Optimal serve time)
+
+Having laid out the overwhelming advantages of processed foods, and knowing that these ingredients are ubiquitous in modern food service, the issue of freshness (or optimal serve time) surprisingly runs almost completely counter to what we've seen earlier.
+
+We would expect that the same restaurants that adopted processed foods and streamlined prep would also favor menu items that can be prepared in advance.  However, this is the distinct opposite of what we observe.  To an almost pathological degree, such restaurants favor items that must be served almost immediately lest their appeal be lost. _decline precipitously in their desirability once they are prepared._
+
+Consider a typical burger restaurant. The fries, although cheap and easy to prepare, quickly lose their crispiness as they sit and cool.  The burgers are an even bigger challenge.  Apart from their obvious flavor compatibility, the ingredients seems to be incompatible in almost every other aspect: The ketchup and other condiments make the bun soggy, the warm patty wilts the lettuce. 
+
+Such are challenges in the high-stakes game of made-to-order food.
+
+== Ready when you are - "Just-in-time" delivery and advanced logistics
+
+In earlier sections we noted that menus designed around fresh, whole foods were at a disadvantage to more calorie-dense, processed foods in terms of storage needs.  Fresh produce is bulky, which is to say that after peeling, coring, slicing, etc. you are often left with considerably less volume than what you started with.  Furthermore, they often cook down due to their high water content.
+
+A second challenge with fresh ingredients is that they are perishable.  Again, compared to calorie-dense, processed foods, this is a significant disadvantage.
+
+Taken together, this means that a restaurant with a menu designed around fresh, whole foods must have significantly greater storage area to account the bulkiness of fresh produce and must "turn over" the inventory much faster to avoid it going bad.  
+
+These seem like rather big implications, and they do.  But what I will argue here is that the implications/consequences are not absolute, that there are strategies to mitigate these issues and that those strategies play into the same overall direction as the existing strategy.
+
+=== Professionalism/education
+
+"The only way to end poverty is through education".  But what about the costs of education and the time to attain it. 
+
+"The first of these pitfalls of professionalism is that the people with the highest status aren't necessarily creative or original thinkers."
+
+"The peril of orthodoxy is the second great pitfall of professionalism"
+
+FDR's cabinet was composed of people who had not been professionals. The new deal had a "heavy reliance upon organizer labor and its tendency to see issues through the lens of social class".
+
+=== Diet
+
+"I can't stress enough is becoming overweight is a normal, natural response to the abnormal, unnatural ubiquity of calorie dense, sugary, and fatty foods."
+
+=== Policy
+
+" *Link private sector action to incentives.*
+Each incentive policy should include a private sector action paired with an incentive, or package of incentives, that reduces the cost to businesses to implement it. For example, to offer fresh produce, corner store owners may need to purchase refrigeration equipment and pay higher utility bills to run that equipment. Store owners will also need to advertise the fresh produce to customers. Local agencies could offer loans or grants to help purchase refrigeration equipment, or offer tax credits or reduced fees for business licenses. The economic development agency or public health department could provide free advertising materials, such as signs or advertisements in local media, to help promote the new healthy selections." <<6>>
+
+== Ideas
+
+Shop for calories like you shop for price. search and filter
+
+
+What role does perceived variety play, in which a restaurant can use different toppings to make a base ingredient further and understand the exact nature of 
+
+_This is because the marginal benefits of more menu variety have greatly diminishing returns.  That is to say, a restaurant has a strong incentive to offer a baseline level of variety in their offerings. Yet on the other hand, there is very little to be gained by exceeding that threshold._
+
+This trade-off between selection (or variety) and value is the first key differentiator to take note of.  Generally speaking, food service caters to the selection side of the spectrum, leaving the value side of the spectrum a relatively uncharted landscape.  Indeed, the entirety of what follows could be considered an exploration of this value-oriented landscape.  Within this exploration, we will highlight new features/what factors are most prominent in this new landscape as well as value itself and what our expectations should be.
+
+One caveat is that a person only eats one meal, such that no matter how many items are on the menu, a given person will rarely ever order more than one.  
+
+Yet what I will attempt to show is that something so basic on the surface could have far-reaching implications within the context of our modern society. 
+
+Nevertheless, the simple concept of a limited menu and the dynamics of food service in this context will arguably be the key shift in the fundamentals. 
+
+I hope to convince you that this style of food service is qualitatively different than anything we have now, not just offering an incremental improvement to the issues at hand but a whole new landscape of possibility.
+
+As you may have guessed, there is a bit more to it than just a restaurant with a limited menu - that’s a bit reductive, but I needed a good teaser for the article and there are just too many facets to this idea to do them all justice in this brief introduction.
+
+In what follows, I will expand on this idea and attempt to paint a picture of a new food service paradigm that can not only deliver on the quick, healthy and affordable meal but also on environmental, social, and economic issues to boot.  But we’re getting ahead of ourselves now, let’s back up to that imaginary restaurant with its limited menu and talk some basic economics.
+
+== Consumer power
+
+
+== Home economics
+
+It is not worth peoples' time to reduce waste in the kitchen, or even necessarily to eat healthy; the costs are too high and the other demands of life too great.
+
+Americans do not even get enough sleep. No one says they don't like sleep.
+
+== Illegal migrants used for labor
+
+
+In _Perilous Bounty_ the author recounts an interview with a farmer in then Central Valley.  The farmer tells how his business is uncertain due to increasing labor costs.
+
+Argument for illegal immigrants is that cannot pay a good wage and simultaneously meet the demands of the American populace. In fact, unlike all other industries, the federal law mandating additional pay for more than 40 hours per week does not apply to agriculture.  However, this has been changed by the state legislature effective 2022 and in 2023 the state's minimum wage increases.
+
+If the increased cost of labor translates to higher costs of fruits and vegetables then that makes it harder to provide healthy food.  The obvious - and perhaps only - answer is to remove the middleman from the system.
+
+== Camp for teenagers
+
+Need people to do excess work during summertime.  _Perilous Bounty_ recounts how growing an older variety of melons yields a better tasting melon, however it requires multiple passes during harvest because the melons do not all ripen at the same time.  By contrast, other growers use conventional varieties that all ripen at roughly the same time but do not taste as good.  This is just one example of a compromise due to cost constraints at the farm level.
+
+
+
+
+Americans do not want to do not want to do the work because it is too hard and pays too little.  Work is too sporadic.
+
+If work is sporadic then points to the ability of internet to bridge the gap.  If pay is too little, then trim waste downstream and increase pay upstream.
+
+== Marketing
+
+Need better marketing to convey the benefits.
+
+== New frontier of ethics
+
+Unions are part of the new frontier. Would you trust a company to not cut corners and to be honest with you as a consumer if they are not honest with their employees.
+
+== Efficiency of food service
+
+Perhaps one of the most important questions for any restaurant is what food they are going to serve.  And for a restaurant with a limited menu that question is arguably even more relevant.
+
+We have already noted that one of the shortcomings of the existing food service industry is that more nutritious food tends to be more expensive.  To that end, one of the first concerns ought to be efficiency, and even more specifically, the marginal cost of the menu items.
+
+== My way or the highway
+
+This brings us to one of the first realizations of the food industry: made-to-order menu items restrict opportunities for greater efficiency, creating a “floor” that the marginal cost cannot go below.
+
+A common theme is the food service industry is the customization of your dish.  Restaurants offer all manner of add-ons and substitutions to cater to a variety of different preferences and dietary needs.
+
+These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements.  Moreover, these customizations often come at little of no additional cost in terms of the ingredients; The difference between white or whole wheat bread, cheddar or Swiss cheese or a dollop of extra ketchup are inconsequential.
+
+The central thesis is that many of our issues are ingrained in our current relationship with food service - ("the food service paradigm"), such that trying to alleviate these issues by changing our behaviors and making more informed choices - as noble as that might be - will only ever amount to incremental improvements.
+
+restaurant that serves two to three, ever-varying dishes
+
+The catch, however, is in the effect of these customizations on overall operations.
+
+This concept is easier to understand with an example.  Consider a classic, made-to-order item such as a burger as compared to a prepare-ahead food such as soup.  The first apparent difference is that the made-to-order food tends to suffer in quality the longer it sits, hence why it was made-to-order in the first place.  In the case of the burger, it is a veritable train wreck of diminishing quality.  Starting with the toasted bun that arrives warm and toasty only to begin cooling and hardening.  The condiments that make that very same bun soggy the longer they sit.  The delicate lettuce that is sandwiched between the warm bun and the meat, beginning the wilting process almost on contact.  And let us not forget the accompanying side, which is almost certainly french fries and which begin to lose their crispy delicious texture as they cool.  Nearly every single aspect of the unassuming burger and fries is actually a precarious combination of ingredients that rapidly change in texture and desirability as they sit.  If that weren’t enough, it also happens that mitigating or recovering some of the desirability is near impossible.  You can't just toss it in the microwave and make it more appetizing.  
+
+== Delivery
+
+What can we learn from the humble delivery driver? For decades, pizza delivery has represented a sector of the employment market.  It is so ubiquitous and it takes such a familiar form that is easy to take it for granted.  Yet, delivery is a somewhat unusual niche of the market.  The first thing to note is that delivery drivers always drive a normal civilian vehicle, not a specialized truck.  The second thing to note is that the drivers themselves own the vehicles, not the company.
+
+The first aspect should be a dead giveaway that something is off about the situation.  In virtually every other industry with a significant delivery component, drivers use specialized vehicles that allow them to efficiently transport large quantities.  
+
+The lack of specialized delivery vehicles is not an oversight of the industry.  Rather, it is an admission of its overall inefficiency.  A specialized vehicle that could hold more meals would be of no benefit because there is no way to know in advance what meals will be ordered.  Each order is effectively unique and there are so many possible combinations that you could not hope to load a truck with hundreds of pre-made meals and thereby avoid return trips to the depot; Eventually you would run out of one of the varieties necessitating a return to the depot.
+
+Compare this situation with expect to deliver them all  each order is effectively unique.  we take It's not necessarily the food or the restaurant that is the give away.
+
+== Conclusion (Part 1)
+
+This section has shown that a different style of food service, one that favors a limited menu, can have dramatically different potential.  In particular, by virtue of lower production cost, such a restaurant would be capable of serving hundreds more meals.
+
+== Part 3 - Renaissance
+
+== Rehabilitating our kitchens
+
+Years of menu-based, made-to-order food service have ravaged our kitchens. The relentless pressure to deliver freshly prepared food as fast as possible has created a truly dysfunctional culture of stress and strain.
+
+That so many of us dine out regularly and yet take this fact for granted is a testament to the insidiousness of the culture that has taken hold.  Indeed, it is at the higher-end, gourmet restaurants that this dysfunction is most pronounced.
+
+Consider the recent peer-reviewed study entitled _Alcohol and other drug use in Michelin-starred kitchen brigades_.  The highlights from the very first page of article should be enough to give everyone pause:
+
+* Alcohol and other drug (AOD) use appear to be part of the everyday life in Michelin-starred kitchen brigades in Britain and Ireland.
+
+* AOD were found to be used as a means of self-medication and as a coping strategy for most chefs regardless their ranking.
+
+* Alcohol is used to unwind after work and cope with the harsh working environment.
+
+* Drugs and other substances are mainly used to maintain or improve performance. 
+
+That these findings come from the most prestigious establishments in the world implies that this situation arises not for lack of money or expertise.  It cannot be dismissed as a symptom of the low socio-economic standing of the chefs themselves, much less the diners.  It is quite simply a dysfunctional culture of its own creation.  
+
+The idea that this arose from within industry itself is an important realization because it underscores the fact that this dysfunctional system is often rewarded and is seen as a necessary sacrifice, the price of working at the world's finest kitchens.
+
+not easily explained away as a what sociologists would refer to as coexisting factor, which is to say
+
+made-to-order item.   
+
+== Renaissance
+
+The Renaissance is best remembered for the stunning works of art and sculpture and paintings by the likes of Rembrandt.  However the Renaissance is best understood as a shift in thinking about life itself, with the paintings that have been handed down to us from that time representing a manifestation of that new way of thinking.
+
+Similarly, the food Renaissance I have been arguing for transcends the ingredients, the recipes and the restaurant itself and is an expression of the connection between human life and the environment. 
+
+a second key understanding about the Renaissance is that this shift in thinking did not represent a new way of thinking. in fact the term Renaissance means rebirth and refers to the fact that these ideas were prevalent in Greek society. similarly the food Renaissance is not a new idea. ancient civilizations, culture researchers, and many others
+
+A further parallel to the renaissance is in how the ideas were applied in new mediums and with the benefit of new technologies.  For example, sculptures from the classic antiquity were carved out of marble.  The renaissance saw a revival of the classical antiquity style in bronze.  Bronze was much stronger than marble and could be cast to produce a hollow sculpture.  This allowed stronger and lighter sculptures to be produced that captured dramatic movements.  In a similar sense, today's renaisssance draws from the ways of ancient cultures that had a sustainable lifestyle and complements that with modern technology.
+
+
+== Opportunity at large
+
+Scaling these concepts to the point that you have a relationship with the customer so you can use reusable metal packaging and have an account with them.
+
+
+quintescential fast-food item 
+
+== Brainstorming
+
+vertical integration as a disruptive change
+
+
+What I am proposing is the $3 meal. 
+
+I am proposing a style restaurant is qualitatively different than virtually any other restaurant.  
+
+The word qualitative has particular significance in the previous sentence.  It means something with more fundamental differences, something that is bound by different rules, and something that, ultimately, has dramatically different possibilities.
+
+The first thing to note about the current food situation is that there is a peculiar absence of any real scale in the freshly prepared foods category.  
+
+Specialization 
+
+What follows is a business concept that aims to address this very issue and so much more.  The motivating force behind this concept are the basic economic principles of specialization and scalability.  If you want to improve your margins, you need to increase in scale.
+
+To have a variety of customizable, made-to-order meals available in under an hour at virtually all hours of the day is a luxury. It is simply not at all frugal or resourceful. If this is the dominant mode of food service and people are increasingly turning to the food service industry rather than cook themselves. 
+
+[1] Perceived variety and the idea of many items derived from one base ingredient allowing many items to be made, like with pizza.
+
+[bibliography]
+== References
+
+[[[5]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Food Spending of Middle-Income Households Hardest Hit by the Great Recession. https://www.ers.usda.gov/amber-waves/2018/september/food-spending-of-middle-income-households-hardest-hit-by-the-great-recession/
+
+[[[6]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Putting Business to Work for Health - Incentive Policies for the Private Sector. ChangeLab Solutions.
+
+
+
