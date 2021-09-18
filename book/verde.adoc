@@ -47,14 +47,15 @@ In what follows, I will make the case for the claims above, showing not only tha
 
 If the ultimate goal of this book is to change the reader's perception of the existing food service landscape, then there is no better way to start than to juxtapose it with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several characteristics that are pertinent in our discussion.
 
-The foremost characteristic that I will draw attention to is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food-service industry, in which each person (even at the same table) is able to choose from many different items.
+The foremost characteristic that I will draw attention to is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food service industry, in which each person is able to choose from many different items.
 
 The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
 
-Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is ingrained in the business model in which restaurants build their brand around certain dishes and types of cuisine.
+Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is ingrained in the business model and encourages restaurants build their brand around certain dishes and types of cuisine.
 
-These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics of these factors, the following sections will consider some common scenarios in food service.  This will also serve as an opportunity to introduce many of the issues that have arisen 
+These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics, the following sections will consider their role in some common scenarios in food service.  This will also serve as an opportunity to introduce some of the issues that have arisen as a consequence.
 
+=== Alternative ending
 
 These three factors combine to severely limit the scale and efficiency of food service.  Were it just one of them, perhaps it could be balanced out by other considerations, but the wholesale embrace of this __modus operandi__ leaves no possibility of substantive change in the industry.
 
@@ -64,9 +65,13 @@ This, however, is more a statement of current food service than it is of any int
 
 == Menu & supply chain
 
-This line of reasoning 
-- is capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
--serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
+Most restaurants in America have a menu with a variety of items and that menu stays largely the same year after year. This is the concept of the static menu that was introduced earlier.
+
+The challenge of a static menu is obtaining the fresh produce year round. A given ingredient will only be in season for part of the year, so to keep the menu consistent, restaurants rely on distributors that can source ingredients from different parts of the globe. 
+
+This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors serve as a single point of contact for a variety of ingredients, beyond just the produce that necessitates them.
+
+
 
 == Home economics
 
@@ -384,6 +389,10 @@ vertical integration as a disruptive change
 - Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
 
 - App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
+
+This line of reasoning 
+- is capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
+-serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
 
 What I am proposing is the $3 meal. 
 
