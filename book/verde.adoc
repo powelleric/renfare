@@ -67,12 +67,24 @@ This, however, is more a statement of current food service than it is of any int
 
 Most restaurants in America have a menu with a variety of items and that menu stays largely the same year after year. This is the concept of the static menu that was introduced earlier.
 
-The challenge of a static menu is obtaining the fresh produce year round. A given ingredient will only be in season for part of the year, so to keep the menu consistent, restaurants rely on distributors that can source ingredients from different parts of the globe. 
+The challenge of a static menu is obtaining the fresh produce year-round. A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
 
 This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors serve as a single point of contact for a variety of ingredients, beyond just the produce that necessitates them.
 
+The catch is that produce sourced from a different part of the world is not the same as locally-grown produce. At the minimum, there are the costs of transport, sometimes called "food miles", to consider. But more often this is accompanied by other factors, such as waste and diminished quality.  As a rule, the more perishable the produce, the more likely it is that the upstream growing techniques will be altered to mitigate spoilage, such as picking produce early.  These techniques almost always result in lower quality.
 
+Thus, the convenience of obtaining an off-season ingredient from a distributor comes at an added cost, which is in turn passed on to the consumer.  Moreover, this cost fluctuates throughout the year. __doesn't mean that they are insulated from price fluctuations__.  Ultimately, the additional costs and their inherent volatility discourage the use of fresh produce in a static menu.
 
+Neither is the trouble over once the produce is in hand.  Spoilage is a big factor in restaurants and the static menu prevents changing the menu nor the price, leaving restaurants with little means to combat impending spoilage and further discouraging incorporation of fresh produce in the menu.
+
+== Plan to fail
+
+Another common characteristic of the food service industry is prepared-to-order food.  Before going on to discuss the impact of this, it's implicit meaning must be stated.  Criticism of prepared-to-order food is not suggesting that there is an overlooked opportunity to prepare dishes in advance.  The issue is that the foods chosen for the menu __cannot__ be prepared in advance otherwise they will deteriorate in quality.  Therefore, it is a criticism of the menu planning, a core component of the business model itself. 
+
+The consequences of preparing food to order come in the form of scale and efficiency.  It limits the number of people that can be served (rate of sale)
+
+On it's face, to say that a food was not prepared to order seems to suggest that the restaurant failed to prepare itself it bears is important to  about what is being implied 
+Despite the fact that I 
 == Home economics
 
 To better understand what a quick, healthy and affordable meal could mean to us today, it is helpful to look at how our diet has changed over the past 50 years.  In doing so, what becomes apparent is that a quick, healthy and affordable meal was not necessarily available to prior generations either.  Yet, at the same time, it arguably did not present the same issue that it is for us today.
