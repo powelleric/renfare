@@ -94,6 +94,10 @@ Compare this to a restaurant with a single, ready-to-serve dish. There is no com
 - __experiences none of the issues of the common, prepared-to-order restaurant.__
 - __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
 
+== Ain't nothing like the real thing
+
+When flanked by biological systems on both the beginning and the end of the system, there is dramatically less room for industrial creativity.
+
 == Floating upstream
 
 - Normally swimming upstream is hard work, going against the current but the change in scale makes economic possibilities of replacing stakeholders in the supply chain.
