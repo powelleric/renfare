@@ -45,15 +45,15 @@ In what follows, I will make the case for the claims above, showing not only tha
 
 == Spoiled for choice
 
-If the ultimate goal of this book is to change the reader's perception of the existing food service landscape, then there is no better way to start than to juxtapose it with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several characteristics that are pertinent in our discussion.
+If the ultimate goal of this book is to change the reader's perception of the existing food service landscape, then there is no better way to start than to juxtapose it with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several important characteristics.
 
-The foremost characteristic that I will draw attention to is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food service industry, in which each person is able to choose from many different items.
+The foremost characteristic is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food service industry, in which each person is able to choose from many different items.
 
 The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
 
 Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is ingrained in the business model and encourages restaurants build their brand around certain dishes and types of cuisine.
 
-These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics, the following sections will consider their role in some common scenarios in food service.  This will also serve as an opportunity to introduce some of the issues that have arisen as a consequence.
+These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics, the following sections will consider their role in some common food service scenarios.  This will also serve as an opportunity to introduce some of the issues that have arisen as a consequence.
 
 === Alternative ending
 
@@ -65,23 +65,49 @@ This, however, is more a statement of current food service than it is of any int
 
 == Menu & supply chain
 
-Most restaurants in America have a menu with a variety of items and that menu stays largely the same year after year. This is the concept of the static menu that was introduced earlier.
+Most restaurants in America have a menu with a variety of items, and that menu stays largely the same year after year. This is what will be referred to as a static menu.  __This is the concept of the static menu that was introduced earlier.__
+- This is evident in fancy menus with photography and professional printing. They intend to keep the menu the same.
 
 The challenge of a static menu is obtaining the fresh produce year-round. A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
 
-This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors serve as a single point of contact for a variety of ingredients, beyond just the produce that necessitates them.
+This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them.
 
 The catch is that produce sourced from a different part of the world is not the same as locally-grown produce. At the minimum, there are the costs of transport, sometimes called "food miles", to consider. But more often this is accompanied by other factors, such as waste and diminished quality.  As a rule, the more perishable the produce, the more likely it is that the upstream growing techniques will be altered to mitigate spoilage, such as picking produce early.  These techniques almost always result in lower quality.
 
-Thus, the convenience of obtaining an off-season ingredient from a distributor comes at an added cost, which is in turn passed on to the consumer.  Moreover, this cost fluctuates throughout the year. __doesn't mean that they are insulated from price fluctuations__.  Ultimately, the additional costs and their inherent volatility discourage the use of fresh produce in a static menu.
+Neither is the trouble over once the produce is in hand.  Spoilage is a big factor in restaurants and the static menu prevents changing the menu or the price, leaving restaurants with little means to combat impending spoilage __and further discouraging incorporation of fresh produce in the menu__.
 
-Neither is the trouble over once the produce is in hand.  Spoilage is a big factor in restaurants and the static menu prevents changing the menu nor the price, leaving restaurants with little means to combat impending spoilage and further discouraging incorporation of fresh produce in the menu.
+Thus, the convenience of obtaining an off-season ingredient comes at an added cost.  Moreover, this cost fluctuates throughout the year. Combined with concerns of spoilage, these factors discourage the use of fresh produce in a static menu.
+
+__static menu marginalizes fresh produce__
+
+__Ultimately, the additional costs and their inherent volatility discourage the use of __
+
+__, which is in turn passed on to the consumer__ __doesn't mean that they are insulated from price fluctuations__.  
 
 == Plan to fail
 
-Another common characteristic of the food service industry is prepared-to-order food.  Before going on to discuss the impact of this, it's implicit meaning must be stated.  Criticism of prepared-to-order food is not suggesting that there is an overlooked opportunity to prepare dishes in advance.  The issue is that the foods chosen for the menu __cannot__ be prepared in advance otherwise they will deteriorate in quality.  Therefore, it is a criticism of the menu planning, a core component of the business model itself. 
+Another common characteristic of the food service industry is prepared-to-order food.  Before going on to discuss the impact of this, it is important to clarify what is being implied.  implicit meaning must be stated.  To criticize prepared-to-order food is not to suggest that there is an overlooked opportunity to prepare dishes in advance.  Rather, the issue is that the foods in question __cannot__ be prepared in advance, otherwise they will deteriorate in quality.  Therefore, it is a criticism of one of the core components of the business model itself, the menu planning.
 
-The consequences of preparing food to order come in the form of scale and efficiency.  It limits the number of people that can be served (rate of sale) because each dish must be prepared individually no matter how many customers are waiting.  This contrasts sharply with Compare this to a dish that can be prepared in advance and it is appThis also drives up the labor costs because while food that can be prepared in advance  prevents the operation some foods can be prepared in large quantities  vulnerable to waste of from dishes going cold. It increases the labor costs of the 
+The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
+
+Compare this to a restaurant with a single, ready-to-serve dish. There is no comparison, so to speak. This approach is so much more efficient that it  not only has the potential for massive reductions in marginal cost, it also does not suffer from long waits at peak times because, by definition, the food requires minimal prep before serving and there is no question about what will be ordered. 
+- __experiences none of the issues of the common, prepared-to-order restaurant.__
+- __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
+
+== Floating upstream
+
+- Normally swimming upstream is hard work, going against the current but the change in scale makes economic possibilities of replacing stakeholders in the supply chain.
+
+While compelling, the benefits of marginal-cost and efficiency that occur between the restaurant and the consumer are only a fraction of the benefits to be found upstream of the restaurant. So, what does the supply-chain of such a restaurant look like?
+
+Recall that a typical, static menu restaurant relies on a distributor for most of its raw ingredients.  This is convenient because
+
+
+enjoy massive reductions in marginal cost per dish
+- Benefit from different equipment e.g. larger pots, ovens, etc.
+- Not as vulnerable to short-term labor fluctuations like someone calling in sick.
+
+ Moreover, in  limits the number of people that can be served (rate of sale) because each dish must be prepared individually no matter how many customers are waiting.  By contrast. Compare this to a dish that can be prepared in advance and the  it is appThis also drives up the labor costs because while food that can be prepared in advance  prevents the operation some foods can be prepared in large quantities  vulnerable to waste of from dishes going cold. It increases the labor costs of the 
 
 == Home economics
 
