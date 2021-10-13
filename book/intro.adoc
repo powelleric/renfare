@@ -78,8 +78,6 @@ Neither is the trouble over once the produce is in hand.  Spoilage is a big fact
 
 Thus, the convenience of obtaining an off-season ingredient comes at an added cost.  Moreover, this cost fluctuates throughout the year. Combined with concerns of spoilage, these factors discourage the use of fresh produce in a static menu.
 
-__static menu marginalizes fresh produce__
-
 __Ultimately, the additional costs and their inherent volatility discourage the use of __
 
 __, which is in turn passed on to the consumer__ __doesn't mean that they are insulated from price fluctuations__.  
@@ -94,9 +92,6 @@ Compare this to a restaurant with a single, ready-to-serve dish. There is no com
 - __experiences none of the issues of the common, prepared-to-order restaurant.__
 - __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
 
-== Ain't nothing like the real thing
-
-When flanked by biological systems on both the beginning and the end of the system, there is dramatically less room for industrial creativity.
 
 == Floating upstream
 
@@ -107,18 +102,34 @@ Perhaps the most important insight of this book is the opportunities that presen
 
 Amazingly, the new paradigm flips all of this on its head, turning what was once a liability into a strength.  The turning point of this transformation  __catalyst of this dramatic change__ __this dramatic change stems from__ is the ability of farmers to directly supply restaurants __rather than via distributors__.  This is made possible because a restaurant in the new paradigm has the capability of processing and serving enormous quantities of fresh produce.  __is streamlined in critical respects allowing it to In the existing food service industry__,Whereas the average restaurants would be hopeless if given a truckload of a random seasonal vegetable, the new paradigm of food service allows tailoring the menu to specific ingredients and the streamlined operation offers significant opportunity for savings in preparation.  
 
-The importance of the connection between food-service and the farmer cannot be overstated.  Indeed, nearly everything in the remaining book hinges on it.  The closer the relationship that can be forged between these two parties, the more benefits there are to be reaped.
+The importance of this new connection between food-service and the farmer cannot be overstated.  Indeed, nearly everything in the remaining book hinges on it.  The closer the relationship that can be forged between these two parties, the more benefits there are to be reaped.
 
 The most immediate benefit of this relationship is in the cost of the goods themselves. In today's food system, nearly 60 cents of every dollar spent on produce is accounted for by the distributors/integrators. This leaves an enormous margin to be redistributed between the farmer and the restaurant, equating to higher profits for the farmer and lower costs for food service, and in turn the consumer; a classic case of case of cutting out the middleman. And while it is true that certain costs once born by the distributor, such as transportation, must now be paid from this margin, these costs do not account for nearly the full amount.  Furthermore, these costs are not fixed. Transactions with local farmers may have significantly reduced transport costs, for example.
 
-While notable, pricing is one of the most superficial benefits.  Far more profound benefits are to be found by re-imagining the nature of farming in the context of the new food service paradigm.  On that note, one of the most fundamental questions is: what should be grown?
+While notable, pricing is one of the most superficial benefits.  Far more profound benefits are to be found by re-imagining the nature of farming in the context of the new food service paradigm, and to that end, one of the most fundamental questions is: what to grow?
 
-This rather basic question alludes to an important observation about the current food system: that what is grown is influenced by the distributors and is not necessarily in the best interest of the other stakeholders, sometimes much to their detriment.  This is driven by the basic nature of the distributors' business model, a model that closely mirrors that of other industrial distribution.  This model is designed to increase the scale of production of a standardized commodity.  But, as noted once already, food is not like other commodities.
+This rather basic question alludes to an important characteristic of the current food system: that what is grown is not necessarily in the best interest of the farmer or the consumer.  Rather, the decision is influenced by the distributors who seek to _commodify_ the output.  That is, to produce it in ever-more consistent quantities and qualities and under an ever-widening range of conditions.  Such that a tomato from one grower is effectively the same as the next.
 
-In the never-ending pursuit of more standardized agricultural commodities, the following negative practices have become endemic in conventional agriculture: "single crop production, heavy use of synthetic fertilizers and pesticides, and intense tillage" <<confi>>.  These techniques can swiftly and reliably transform the landscape into a highly productive (and profitable) fields.  However, in a long-term these techniques often ravage the native ecosystem and can result in a precarious livelihood for the farmer.
+This is driven by the basic nature of the distributors' business model, which is to increase the scale of production of a standardized commodity. But, as noted once already, food is not like other commodities, much less a standardized one.
 
+- a model that closely mirrors that of other industrial distribution.
 
-is also of this will need to be allocated towards services that the distributors once altered balance of power in their respective transactions.  
+In the never-ending pursuit of more standardized agricultural commodities, the following negative practices have become endemic in conventional agriculture: "single crop production, heavy use of synthetic fertilizers and pesticides, and intense tillage" <<yale>>.  These techniques can swiftly and reliably transform the landscape into a highly productive (and profitable) fields.  However, in a long-term these techniques ravage the native ecosystem and result in a precarious livelihood for the farmer.
+
+As the flaws of conventional agriculture have come into clearer focus, a competing approach known as regenerative agriculture has emerged as a strong contender for a more sustainable future. Regenerative agriculture employs a "systems-approach to farming that seeks to improve natural resources rather than depleting them."<<yale>>
+
+With backing from industry-giants like General Mills to renowned-institutions like Yale University, it is widely recognized that it has the potential to remedy so many of the issues plaguing conventional agriculture. The one problem is figuring out who is going to buy the outputs.
+
+RA farms face two challenges when bringing their crop to market. The first is that because RA generally has lower yields than conventional agriculture, the products are more expensive. Second, RA has more diversified outputs, meaning smaller quantities of a given item and greater lengths of time between its next planting <<holden-circle>>.  This does not jive well with an industry that has become accustomed to sourcing large quantities of relatively cheap products.<<circ>>
+
+The new food service paradigm offers a welcome alternative to the existing downstream markets and the challenges they pose.  As noted previously, selling directly to food service, rather than to a distributor, opens up huge margins for the farmer.  Furthermore, the specific production practices used by the farmer can be accounted for in the price, whereas distributors are accustomed to thinking in terms of undifferentiated commodities and struggle to incorporate production practices in their pricing <<yale>>.  Finally, the specialty crops can expect a much warmer reception from food service in the new paradigm as restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
+
+For this reason, when assessing the barriers to the RA industry, they identified downstream markets as a major barrier <<yale>>. For example, a farmer interviewed for the piece recounted "a friend who contacted over 100 potential buyers for a single specialty crop". 
+
+The new food service paradigm offers a unique solution to both of the challenges RA faces with downstream markets. As noted previously, selling directly to food service, rather than to a distributor opens up huge margins for the farmer. Likewise, the specialty crops can expect a much warmer reception from food service in the new paradigm as restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
+
+Beyond these
+altered balance of power in their respective transactions.  
 
 (It is important to note that farmer-restaurant relationships already exist. However, I would argue that essentially those farmers have simply become distributors themselves, along with all of the additional operational complexity that that entails.) __do__ sometimes supply ingredients di
 
@@ -169,11 +180,6 @@ The canonical value-oriented restaurant is the soup kitchen. Known from the depr
 Perhaps it is a desire to push the memory of these difficult times into the past that keeps us from recognizing the lessons they can teach us even in more fortunate times.
 
 The soup kitchen format is eminently efficient. Born of tough times, when food was a matter of survival, the soup kitchen was the social intervention tasked with closing the gap.
-
-
-== Fluff
-
-Make no mistake, the idea I am proposing is ambitious.  _Both in its scope and in its implementation, there are numerous challenges to be addressed._  At its core, it represents a true paradigm shift in our approach to food service.   Nevertheless, in the remainder of this article, I hope to convince you not just of the potential for such an idea but also of its necessity.
 
 == Limited Menu
 
@@ -320,25 +326,10 @@ This brings us to one of the first realizations of the food industry: made-to-or
 
 A common theme is the food service industry is the customization of your dish.  Restaurants offer all manner of add-ons and substitutions to cater to a variety of different preferences and dietary needs.
 
-These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements.  Moreover, these customizations often come at little of no additional cost in terms of the ingredients; The difference between white or whole wheat bread, cheddar or Swiss cheese or a dollop of extra ketchup are inconsequential.
+These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements. 
 
-The central thesis is that many of our issues are ingrained in our current relationship with food service - ("the food service paradigm"), such that trying to alleviate these issues by changing our behaviors and making more informed choices - as noble as that might be - will only ever amount to incremental improvements.
-
-restaurant that serves two to three, ever-varying dishes
-
-The catch, however, is in the effect of these customizations on overall operations.
 
 This concept is easier to understand with an example.  Consider a classic, made-to-order item such as a burger as compared to a prepare-ahead food such as soup.  The first apparent difference is that the made-to-order food tends to suffer in quality the longer it sits, hence why it was made-to-order in the first place.  In the case of the burger, it is a veritable train wreck of diminishing quality.  Starting with the toasted bun that arrives warm and toasty only to begin cooling and hardening.  The condiments that make that very same bun soggy the longer they sit.  The delicate lettuce that is sandwiched between the warm bun and the meat, beginning the wilting process almost on contact.  And let us not forget the accompanying side, which is almost certainly french fries and which begin to lose their crispy delicious texture as they cool.  Nearly every single aspect of the unassuming burger and fries is actually a precarious combination of ingredients that rapidly change in texture and desirability as they sit.  If that weren’t enough, it also happens that mitigating or recovering some of the desirability is near impossible.  You can't just toss it in the microwave and make it more appetizing.  
-
-== Delivery
-
-What can we learn from the humble delivery driver? For decades, pizza delivery has represented a sector of the employment market.  It is so ubiquitous and it takes such a familiar form that is easy to take it for granted.  Yet, delivery is a somewhat unusual niche of the market.  The first thing to note is that delivery drivers always drive a normal civilian vehicle, not a specialized truck.  The second thing to note is that the drivers themselves own the vehicles, not the company.
-
-The first aspect should be a dead giveaway that something is off about the situation.  In virtually every other industry with a significant delivery component, drivers use specialized vehicles that allow them to efficiently transport large quantities.  
-
-The lack of specialized delivery vehicles is not an oversight of the industry.  Rather, it is an admission of its overall inefficiency.  A specialized vehicle that could hold more meals would be of no benefit because there is no way to know in advance what meals will be ordered.  Each order is effectively unique and there are so many possible combinations that you could not hope to load a truck with hundreds of pre-made meals and thereby avoid return trips to the depot; Eventually you would run out of one of the varieties necessitating a return to the depot.
-
-Compare this situation with expect to deliver them all  each order is effectively unique.  we take It's not necessarily the food or the restaurant that is the give away.
 
 == Conclusion (Part 1)
 
@@ -427,7 +418,8 @@ To have a variety of customizable, made-to-order meals available in under an hou
 
 [[[6]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Putting Business to Work for Health - Incentive Policies for the Private Sector. ChangeLab Solutions.
 
-[[[confi]]]  The State of Regenerative Agriculture: Growing With Room to Grow More. Cortney Ahern Renton, Claire Huntley Lafave, Kathryn Sierks.  March 24, 2020. https://conservationfinancenetwork.org/2020/03/24/the-state-of-regenerative-agriculture-growing-with-room-to-grow-more
+[[[yale]]]  The State of Regenerative Agriculture: Growing With Room to Grow More. Cortney Ahern Renton, Claire Huntley Lafave, Kathryn Sierks.  March 24, 2020. https://conservationfinancenetwork.org/2020/03/24/the-state-of-regenerative-agriculture-growing-with-room-to-grow-more
 
+[[[holden-circle]]]  Regenerating nature in a circular economy. https://youtu.be/VQaOBzBZ6us.  
 
 
