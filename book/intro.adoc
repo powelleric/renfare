@@ -65,18 +65,25 @@ This, however, is more a statement of current food service than it is of any int
 
 == Menu & supply chain
 
-Most restaurants in America have a menu with a variety of items, and that menu stays largely the same year after year. This is what will be referred to as a static menu.  __This is the concept of the static menu that was introduced earlier.__
+Most restaurants in America have a menu with a variety of items and it stays mostly the same year after year. This is what will be referred to as a static menu.  __This is the concept of the static menu that was introduced earlier.__
 - This is evident in fancy menus with photography and professional printing. They intend to keep the menu the same.
 
-The challenge of a static menu is obtaining the fresh produce year-round. A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
+The popularity of the static menu is because it facilitate a simple business strategy, specializing in a handful of dishes. The inventory and the recipes are always the same and customers know what to expect. It makes the business manageable at a very small scale, even with just a single person.
 
-This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them.
+__The challenge of a static menu is obtaining the fresh produce year-round.__ Where the static menu falls short is in relation to fresh produce. A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
 
-The catch is that produce sourced from a different part of the world is not the same as locally-grown produce. At the minimum, there are the costs of transport, sometimes called "food miles", to consider. But more often this is accompanied by other factors, such as waste and diminished quality.  As a rule, the more perishable the produce, the more likely it is that the upstream growing techniques will be altered to mitigate spoilage, such as picking produce early.  These techniques almost always result in lower quality.
+This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors often serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them.
+
+The catch is that produce sourced from a different part of the world is not the same as locally-grown produce; It is likely to be more expensive and less fresh.
+
+__At the minimum, there are the costs of transport, sometimes called "food miles", to consider. But more often this is accompanied by other factors, such as waste and diminished quality.  As a rule, the more perishable the produce, the more likely it is that the upstream growing techniques will be altered to mitigate spoilage, such as picking produce early.  These techniques almost always result in lower quality.__
 
 Neither is the trouble over once the produce is in hand.  Spoilage is a big factor in restaurants and the static menu prevents changing the menu or the price, leaving restaurants with little means to combat impending spoilage __and further discouraging incorporation of fresh produce in the menu__.
 
-Thus, the convenience of obtaining an off-season ingredient comes at an added cost.  Moreover, this cost fluctuates throughout the year. Combined with concerns of spoilage, these factors discourage the use of fresh produce in a static menu.
+In summary, fresh produce introduces variability in cost and quality into the static menu business model.  Moreover, the static menu leaves little opportunities to adapt to the variability. Thus, on a theoretical level, we would expect the role of fresh produce to be minimized/limited in static menus. This is consistent with what is observed in reality in which processed ingredients form the bulk of what is served.
+
+
+__the convenience of obtaining an off-season ingredient comes at an added cost.  Moreover, this cost fluctuates throughout the year. Combined with concerns of spoilage, these factors discourage the use of fresh produce in a static menu.__
 
 __Ultimately, the additional costs and their inherent volatility discourage the use of __
 
@@ -89,18 +96,74 @@ Another common characteristic of the food service industry is prepared-to-order 
 The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
 
 Compare this to a restaurant with a single, ready-to-serve dish. There is no comparison, so to speak. This approach is so much more efficient that it not only has the potential for massive reductions in marginal cost, it also does not suffer from long waits at peak times because, by definition, the food requires minimal prep before serving and there is no question about what will be ordered. 
+
 - __experiences none of the issues of the common, prepared-to-order restaurant.__
 - __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
 
 
 == Floating upstream
 
-The previous section used common restaurant scenarios as a point of comparison for a new paradigm of quicker, cheaper and healthier food, and it did so primarily by focusing on the weaknesses in the existing system.  This served as an excellent starting point because it is a system we are all familiar with.  The current section will continue to explore this new paradigm, but instead through the lens of new possibilities and the benefits that they could yield.
+The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and use of produce. If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+
+When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice that time of year, but in practice even that is not so. 
+
+The trouble with getting produce from local growers is that the additional transaction costs can outweigh the benefits. Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
+
+This is not only a reflection of how much convenience is offered by distributors; It is also a reflection of how little fresh produce is used and how rigidly it fits into a static menu.  If, on the other hand, we consider a restaurant in the new paradigm, one that is able to tailor their day's menu to a given ingredient and is capable of serving large volumes of food, the benefits of sourcing local ingredients could be enormous, even despite the transaction costs.  This is because a large enough quantity of a single ingredient is being used that the savings from cutting out the distributor outweigh the increased transaction costs. 
+
+== More vegetables, less grains
+
+The previous section introduced a tipping point of sorts, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower.
+
+The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
+
+This marks the point where we are firmly on the road to healthy, affordable and convenient food service.  Up until this point, the principles discussed (e.g. efficiency) could be applied to any food service, but it is the application of these principles in order facilitate the use of fresh produce that represents the beginning of possibilities in the new paradigm. 
+
+
+== Farmer
+
+Thus far, discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level.
+
+Moving forward, we will broaden the discussion to consider the economics of other stakeholders.  First and foremost of these is the farmer.
+
+The farmer was introduced in the context of the static menu and it was noted that the transaction costs made farmer-direct produce minimal. What was not mentioned is that high transaction costs are also incurred by the farmer. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. 
+
+This serves to display the immense value provided by distributors in the old paradigm.  Without distributors, sellers and buyers would be faced with huge transaction costs and farmers would face tremendous business pressure to develop improved distribution systems. Distributors fulfill this need and allow the farmer to focus on food production and the chef to focus on food service.  This could be described as specialization and is generally a good thing in economies.
+
+While distributors are
+growers would be incentivized to invest in sales and inventory systems as much or more.  would push are faced with challenging market conditions 
+
+, that is a shared experience of the farmer
+
+the business towards a  the adoption of fresh produce just as easily have been applied towards 
+We would expect that  It would mean that  It would greatly increase the fresh produce intake for the average person's meal, a long sought goal.be a significant achievement in dietary goals The average meal in the old paradigm is heavy on carbohydrates and proteins and the It means that a large proportionThe fact that a restaurant could incorporate that quantity into their meals was taken as a prerequisite. However, this is a notable achievement in and of itself.
+
+
+
+In addition to the economics, this opens the possibility for other important benefits, benefits that accrue to society at large in the form of positive externalities.  These are the health benefits that come from a diet 
+
+
+This is a pivotal in a number of respects, not only does this represent a 
+
+
+that item makes the  cost-of-goods for that ingredient is  a given type of fresh producOn the other hand, it is not hard to a restaurant in the new paradigm When a given ingredient represents a
+
+
+With this new appreciation for transaction costs, we begin to see the essence of the issue.  The static menu, having already marginalized fresh produce, now is unable to optimize its supply because it represents 
+They correctly recognize that their core competency is in food service and do not want to invest effort in supply chain optimization for 
+
+be working with a distributor and thetransaction costs can often be very high.  Compared to a food distributor, the time required to coordinate an order with a local grower can be  from ordering to delivery will be By contrast, distributors provide an extremely convenient one-stop-shop is that there can be high transaction costs of sourcing produce directly from the 
+However, that omitted an even more  there is added complexity even to that and reasons why locally grown produce  food was  
+This showed that basic business decisions made at the individual level can have far-reaching impacts.  This section will expand on these concepts by considering the restaurant supply-chain in the context of the new food service paradigm. 
+
+made by businesses points of comparison for a new paradigm of quicker, cheaper and healthier food, and it did so primarily by focusing on the weaknesses in the existing system.  This served as an excellent starting point because it is a system we are all familiar with.  The current section will continue to explore this new paradigm, but instead through the lens of new possibilities and the benefits that they could yield.
 
 Perhaps the most important insight of this book is the opportunities that present themselves in the restaurant supply-chain.  Recall that a typical, static menu restaurant relies on a distributor for most of its raw ingredients and that this approach ultimately discourages the incorporation of fresh produce in the menu.
 - This is convenient, but comes at an added cost and often compromised quality
 
-Amazingly, the new paradigm flips all of this on its head, turning what was once a liability into a strength.  The turning point of this transformation  __catalyst of this dramatic change__ __this dramatic change stems from__ is the ability of farmers to directly supply restaurants __rather than via distributors__.  This is made possible because a restaurant in the new paradigm has the capability of processing and serving enormous quantities of fresh produce.  __is streamlined in critical respects allowing it to In the existing food service industry__,Whereas the average restaurants would be hopeless if given a truckload of a random seasonal vegetable, the new paradigm of food service allows tailoring the menu to specific ingredients and the streamlined operation offers significant opportunity for savings in preparation.  
+Amazingly, the new paradigm flips all of this on its head, making fresh produce the focal point of the menu.  The turning point of this transformation  __catalyst of this dramatic change__ __this dramatic change stems from__ is the ability of farmers to directly supply restaurants __rather than via distributors__. 
+
+This is made possible because a restaurant in the new paradigm has the capability of processing and serving enormous quantities of fresh produce. In turn, this opens new possibilities in the supply chain. Whereas the average restaurants would be hopeless if given a truckload of a random seasonal vegetable, the new paradigm of food service allows tailoring the menu to specific ingredients and the streamlined operation offers significant opportunity for savings in preparation.  
 
 The importance of this new connection between food-service and the farmer cannot be overstated.  Indeed, nearly everything in the remaining book hinges on it.  The closer the relationship that can be forged between these two parties, the more benefits there are to be reaped.
 
@@ -118,17 +181,15 @@ In the never-ending pursuit of more standardized agricultural commodities, the f
 
 As the flaws of conventional agriculture have come into clearer focus, a competing approach known as regenerative agriculture has emerged as a strong contender for a more sustainable future. Regenerative agriculture employs a "systems-approach to farming that seeks to improve natural resources rather than depleting them."<<yale>>
 
-With backing from industry-giants like General Mills to renowned-institutions like Yale University, it is widely recognized that it has the potential to remedy so many of the issues plaguing conventional agriculture. The one problem is figuring out who is going to buy the outputs.
+With backing from industry-giants like General Mills to renowned-institutions like Yale University, it is widely recognized that it has the potential to remedy the issues plaguing conventional agriculture. The one problem is figuring out who is going to buy the outputs.
 
 RA farms face two challenges when bringing their crop to market. The first is that because RA generally has lower yields than conventional agriculture, the products are more expensive. Second, RA has more diversified outputs, meaning smaller quantities of a given item and greater lengths of time between its next planting <<holden-circle>>.  This does not jive well with an industry that has become accustomed to sourcing large quantities of relatively cheap products.<<circ>>
 
-The new food service paradigm offers a welcome alternative to the existing downstream markets and the challenges they pose.  As noted previously, selling directly to food service, rather than to a distributor, opens up huge margins for the farmer.  Furthermore, the specific production practices used by the farmer can be accounted for in the price, whereas distributors are accustomed to thinking in terms of undifferentiated commodities and struggle to incorporate production practices in their pricing <<yale>>.  Finally, the specialty crops can expect a much warmer reception from food service in the new paradigm as restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
+The new food service paradigm offers a welcome alternative to the existing downstream markets and the challenges they pose.  As noted previously, selling directly to food service, rather than to a distributor, opens up huge margins for the farmer. Furthermore, the specific production practices used by the farmer can be accounted for in the price, whereas distributors are accustomed to thinking in terms of undifferentiated commodities and struggle to incorporate production practices in their pricing <<yale>>.  Finally, the specialty crops can expect a much warmer reception from food service in the new paradigm because the menu can be designed around the ingredient. 
+- restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
 
 For this reason, when assessing the barriers to the RA industry, they identified downstream markets as a major barrier <<yale>>. For example, a farmer interviewed for the piece recounted "a friend who contacted over 100 potential buyers for a single specialty crop". 
 
-The new food service paradigm offers a unique solution to both of the challenges RA faces with downstream markets. As noted previously, selling directly to food service, rather than to a distributor opens up huge margins for the farmer. Likewise, the specialty crops can expect a much warmer reception from food service in the new paradigm as restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
-
-Beyond these
 altered balance of power in their respective transactions.  
 
 (It is important to note that farmer-restaurant relationships already exist. However, I would argue that essentially those farmers have simply become distributors themselves, along with all of the additional operational complexity that that entails.) __do__ sometimes supply ingredients di
