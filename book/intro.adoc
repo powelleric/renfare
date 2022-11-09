@@ -66,9 +66,9 @@ This, however, is more a statement of current food service than it is of any int
 == Menu & supply chain
 
 Most restaurants in America have a menu with a variety of items and it stays mostly the same year after year. This is what will be referred to as a static menu.  __This is the concept of the static menu that was introduced earlier.__
-- This is evident in fancy menus with photography and professional printing. They intend to keep the menu the same.
+- This intent is evident in fancy menus with photography and professional printing; They intend to keep the menu the same for a while.
 
-The popularity of the static menu is because it facilitate a simple business strategy, specializing in a handful of dishes. The inventory and the recipes are always the same and customers know what to expect. It makes the business manageable at a very small scale, even with just a single person.
+The static menu is popular because it facilitate a simple business strategy: specializing in a handful of dishes. The inventory and the recipes are always the same and customers know what to expect. It makes the business manageable at a very small scale, even with just a single person.
 
 __The challenge of a static menu is obtaining the fresh produce year-round.__ Where the static menu falls short is in relation to fresh produce. A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
 
@@ -91,7 +91,10 @@ __, which is in turn passed on to the consumer__ __doesn't mean that they are in
 
 == Plan to fail
 
-Another common characteristic of the food service industry is prepared-to-order food.  Before going on to discuss the impact of this, it is important to clarify what is being implied.  implicit meaning must be stated.  To criticize prepared-to-order food is not to suggest that there is an overlooked opportunity to prepare dishes in advance.  Rather, the issue is that the foods in question __cannot__ be prepared in advance, otherwise they will deteriorate in quality.  Therefore, it is a criticism of one of the core components of the business model itself, the menu planning.
+Another common characteristic of the food service industry is a menu of prepared-to-order food.  
+
+Before going on to discuss the impact of this, it is important to clarify what is being implied.  To criticize prepared-to-order food is not to suggest that there is an overlooked opportunity to prepare dishes in advance.  Rather, the issue is that the foods in question __cannot__ be prepared in advance, otherwise they will deteriorate in quality.  Therefore, it is a criticism of one of the core components of the business model itself, the menu planning.
+
 
 The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
 
@@ -101,11 +104,22 @@ Compare this to a restaurant with a single, ready-to-serve dish. There is no com
 - __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
 
 
-== Floating upstream
+== Upstream effects of menu choice
 
-The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and use of produce. If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and disincentives towards fresh produce. Finally, it contrasted that with a RF-inspired restaurant that serves only a single, ready-to-serve dish.
 
-When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice that time of year, but in practice even that is not so. 
+It has already been noted that this style of restaurant will be much more efficient at preparing and serving the food. This section goes further and considers the unique opportunities that arise before the food is even delivered, opportunities to dramatically shape up the supply chain.
+
+The supply chain of a static menu restaurant was discussed earlier and it was noted that distributors play a critical role in that business model. It follows that a restaurant that does not rely on a static menu, therefore does not rely as much on distributors. 
+
+To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs will require an investment of time to arrange and execute the sale. The amount of time it requires can vary widely. For example, getting produce direct from the grower often involves a high-investment in transaction costs relative to a distributor.  Everything from availability, to ordering to billing will likely be much more streamlined with the latter.
+
+For a static-menu restaurant in particular, sourcing each type of fresh produce directly from the farmer would result in extremely high transaction costs relative to the distributors.  This is a combination of several factors.  In truth, for almost any restaurant sourcing from a distributor it is probably cheaper 
+
+an RF restaurant   introduced earlier in conjunction with distributors and
+If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+
+When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
 
 The trouble with getting produce from local growers is that the additional transaction costs can outweigh the benefits. Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
 
@@ -122,21 +136,56 @@ This marks the point where we are firmly on the road to healthy, affordable and 
 
 == Farmer
 
-Thus far, discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level.
+Thus far, the discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level.
 
 Moving forward, we will broaden the discussion to consider the economics of other stakeholders.  First and foremost of these is the farmer.
 
-The farmer was introduced in the context of the static menu and it was noted that the transaction costs made farmer-direct produce minimal. What was not mentioned is that high transaction costs are also incurred by the farmer. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. 
+The farmer was introduced in the context of the static menu and it was noted that the transaction costs made farmer-direct produce not attractive to food service. What was not mentioned is that high transaction costs are also incurred by the farmer. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
+
+Financially speaking, the price for this facilitation is enormous. Farmers earn just XX for every dollar of retail produce sales.  Compare that to the XX taken home by distributors and wholesalers.  Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
+
+In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes in the context of the new food paradigm, and increasing the profits of farmers is only the beginning of that.
+
+== Unseen forces
+
+== Homogenized food supply
+
+The static menu has a profound influence on agricultural practices. At a very fundamental level, it can be said that the static menu is at odds with nature; It seeks a steady stream of select ingredients, something that goes against the dynamic and seasonal nature of life. 
+
+Recall that a static menu demands access to certain fresh produce year-round.To efficiently provide this, the market seeks to grow the same item in various parts of the world. That way, the item can be freely traded and mixed in the wholesale and distribution channels. This is the essence of a commodities market.
+
+There can be no doubt about the efficiency of the market for those items. However, this has the side-effect of making the market for other less-commodified items appear relatively less robust. Thus, farmers will choose what to grow and even what varieties to grow based on the relative strength of the underlying commodity market. This has the effect of homogenizing of food supply because specialized or niche crops will always have a weaker (and thus riskier) market.
+
+== Irregularities
+
+Another problem with highly commodified produce is the needless waste of irregularly shaped items. Again, because the market seeks a uniform supply that can be freely traded, items with irregularities are seen as breaking the uniformity of the supply and are discarded or downgraded. This is a heavy-handed approach towards dealing with a relatively minor inconvenience.
+
+== Mass-produced produce
+
+Another effect of commodification is that it offers farmers an (effectively) unlimited market. They have confidence in being able to sell what they produce, even if they produce a lot of it, because they can reach consumers in other regions.
+
+To maximize their earnings potential in the commodities market, farmers are incentized to produce ever larger quantities of a select few ingredients. As already noted, this is not consistent with the laws of nature, and in order to achieve this they must adopt intensive agricultural practices.
+
+While effective at producing high-yields, these practices are often destructive. Farms who use intensive agricultural practices have much higher rates of soil degredation. Neighboring regions can be impacted by fertilizer runoff and pesticide spray. These practices cause in soil destruction this is clearly evident in the quality of the said farmland.
+
+Soil destruction is a major issue in the industry because due to modern agricultural practices
+
+
+If they can produce more, they can rely on 
+Much of the trouble can be traced back to the commodification of food.
+
+
+
+The static menu seeks to control and subdue nature itself, a constant power  manifests in a number of ways completely 
+
+If the impact of distributors was only felt in the profit margins of the farmer, the situation would be less concerning.
+
+
+Much like breaking from a static menu changes the entire nature of food service, so too is the potential for change in the agricultural industry. 
 
 This serves to display the immense value provided by distributors in the old paradigm.  Without distributors, sellers and buyers would be faced with huge transaction costs and farmers would face tremendous business pressure to develop improved distribution systems. Distributors fulfill this need and allow the farmer to focus on food production and the chef to focus on food service.  This could be described as specialization and is generally a good thing in economies.
 
-While distributors are
-growers would be incentivized to invest in sales and inventory systems as much or more.  would push are faced with challenging market conditions 
-
-, that is a shared experience of the farmer
-
-the business towards a  the adoption of fresh produce just as easily have been applied towards 
-We would expect that  It would mean that  It would greatly increase the fresh produce intake for the average person's meal, a long sought goal.be a significant achievement in dietary goals The average meal in the old paradigm is heavy on carbohydrates and proteins and the It means that a large proportionThe fact that a restaurant could incorporate that quantity into their meals was taken as a prerequisite. However, this is a notable achievement in and of itself.
+  It would greatly increase the fresh produce intake for the average person's meal,  The average meal in the old paradigm is heavy on carbohydrates and proteins and the It means that a large proportionThe fact that a restaurant could incorporate that quantity into their meals was taken as a prerequisite. However, this is a notable achievement in and of itself.
 
 
 
