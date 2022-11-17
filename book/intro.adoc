@@ -134,7 +134,17 @@ Within this context, it is obvious that having a constant price for the dishes p
 
 Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower for a bargain in-season and getting it from half-way around the world a few months later.
 
-In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu framework. Recall, the motivating force behind the static-menu is simplicity and predictability. 
+In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu framework. Recall, the motivating force behind the static-menu is simplicity and predictability. Changing the price would first require calculating the price - likely requiring a spreadsheet, at minimum - then the price change must be updated on the menu, and still the customer would not know any of this until visiting.
+
+One might argue that you could simply average of cost of the produce for the year and then keep the price consistent. In practice, this is likely to be rather difficult.  First off, the price cannot be perfectly predicted. A cursory look at commodities markets should convince someone that prices are far from predictable. Second, the more perishable and seasonal the ingredient, the more it can be affected by aberrations such as natural disasters. Finally, if there is any seasonality in the sales of the food, then a simple average will not be appropriate.
+
+Finally, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year and turning a business model that could be otherwise be modeled on a monthly (or shorter) basis into a year-long analysis.
+
+For a business model driven by simplicity and pred
+
+Therefore, to achieve the final piece of the static menu business model, fresh produce is marginalized. 
+
+Would a complicated 
 
 Generally speaking, offering a same price for the same 
 
