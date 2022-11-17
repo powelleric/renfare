@@ -89,16 +89,13 @@ __Ultimately, the additional costs and their inherent volatility discourage the 
 
 __, which is in turn passed on to the consumer__ __doesn't mean that they are insulated from price fluctuations__.  
 
-== Plan to fail
+== Plan to fail or plan to scale
 
-Another common characteristic of the food service industry is a menu of prepared-to-order food.  
-
-Before going on to discuss the impact of this, it is important to clarify what is being implied.  To criticize prepared-to-order food is not to suggest that there is an overlooked opportunity to prepare dishes in advance.  Rather, the issue is that the foods in question __cannot__ be prepared in advance, otherwise they will deteriorate in quality.  Therefore, it is a criticism of one of the core components of the business model itself, the menu planning.
-
+Another common characteristic of the food service industry is a menu of prepared-to-order food.  Indeed, preparing food to order is often seen as a symbol of quality in the operation. Furthermore, preparing food to order often offers the opportunity to customize the dish. 
 
 The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
 
-Compare this to a restaurant with a single, ready-to-serve dish. There is no comparison, so to speak. This approach is so much more efficient that it not only has the potential for massive reductions in marginal cost, it also does not suffer from long waits at peak times because, by definition, the food requires minimal prep before serving and there is no question about what will be ordered. 
+Compare this to a restaurant with a single, ready-to-serve dish. There is no comparison, so to speak. This approach is so much more efficient that it not only has the potential for massive reductions in marginal cost, it also does not suffer from long waits at peak times because, by definition, the food requires minimal prep before serving and there is no question about what will be ordered nor customizations to it. 
 
 - __experiences none of the issues of the common, prepared-to-order restaurant.__
 - __Certain dishes can even take advantage of industrial-scale equipment, offering enormous reductions in marginal cost.  Further more, there is no requirement that the equipment even be located at the point-of-sale.  It could just as easily be located off-site with the point of sale responsible only for minimal final preparation and serving.__
@@ -108,26 +105,56 @@ Compare this to a restaurant with a single, ready-to-serve dish. There is no com
 
 The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and disincentives towards fresh produce. Finally, it contrasted that with a RF-inspired restaurant that serves only a single, ready-to-serve dish.
 
-It has already been noted that this style of restaurant will be much more efficient at preparing and serving the food. This section goes further and considers the unique opportunities that arise before the food is even delivered, opportunities to dramatically shape up the supply chain.
+It has already been noted that the RF-style of restaurant will be much more efficient at preparing and serving the food. This section goes further and considers the unique opportunities that arise before the food is even delivered, opportunities in the supply chain.
 
-The supply chain of a static menu restaurant was discussed earlier and it was noted that distributors play a critical role in that business model. It follows that a restaurant that does not rely on a static menu, therefore does not rely as much on distributors. 
+The supply chain of a static menu restaurant was touched upon earlier and it was noted that distributors play a critical role in their supply chains due the static menu business model. By the same token, a restaurant that does not rely on a static menu also does not need to rely as much on distributors. 
 
-To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs will require an investment of time to arrange and execute the sale. The amount of time it requires can vary widely. For example, getting produce direct from the grower often involves a high-investment in transaction costs relative to a distributor.  Everything from availability, to ordering to billing will likely be much more streamlined with the latter.
+To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs requires an investment of time to arrange and execute the sale. This is the transaction cost. The amount of time it requires can vary widely. Transaction costs can vary widely between different vendors. For example, getting produce direct from the grower often entails high transaction costs relative to a distributor.  Everything from availability, to ordering to billing will likely be much more streamlined with the latter.
 
-For a static-menu restaurant in particular, sourcing each type of fresh produce directly from the farmer would result in extremely high transaction costs relative to the distributors.  This is a combination of several factors.  In truth, for almost any restaurant sourcing from a distributor it is probably cheaper 
+For a static-menu restaurant, in particular, sourcing each type of fresh produce directly from the farmer would result in extremely high transaction costs relative to a distributor.  This is a combination of two factors.  
 
-an RF restaurant   introduced earlier in conjunction with distributors and
-If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+- The static menu requires a consistent supply of produce year-round, requiring multiple growers in different geographic regions to achieve a consistent supply of each ingredient.
+- The static menu offers a wide variety of dishes, which increases the number of different ingredients, requiring additional growers to obtain all the different types.
 
-When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
+Finally, it is important to emphasize that despite the variety of produce required by the static menu, the overall amount of produce used in the menu is minimal relative to meat and grains. Because transaction costs are often fixed costs, they can quickly outweigh other factors when quantities are small. This is important because a grower __can__ offer substantially lower prices, however the static menu restaurant likely cannot purchase a large enough quantity for the cost savings to outweigh the transaction costs.
 
-The trouble with getting produce from local growers is that the additional transaction costs can outweigh the benefits. Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
+Effectively, it is a case of cutting out the middle-man. This may not mean much to a static menu restaurant, but an RF restaurant could leverage the reduced cost of raw ingredients very effectively.  It would be able to tailor the dishes specifically to those ingredients and to adjust the price to incentivize sales. 
 
-This is not only a reflection of how much convenience is offered by distributors; It is also a reflection of how little fresh produce is used and how rigidly it fits into a static menu.  If, on the other hand, we consider a restaurant in the new paradigm, one that is able to tailor their day's menu to a given ingredient and is capable of serving large volumes of food, the benefits of sourcing local ingredients could be enormous, even despite the transaction costs.  This is because a large enough quantity of a single ingredient is being used that the savings from cutting out the distributor outweigh the increased transaction costs. 
+Another advantage of an RF restaurant is that is relies on prepare-in-advance dishes.  In general, such dishes have significantly lower marginal labor cost, meaning that raw ingredients account for a larger proportion of the cost.  In turn, savings in this area are more significant.  Therefore, savings in produce cost by sourcing directly from the grower can more substantially reduce the marginal cost of the final product in an RF-style restaurant. For a high-volume business, this could be much more valuable than even increased sales. 
+
+== Why static menu dislikes fresh produce
+
+It has been noted that static menus do not incentivize the use of fresh produce. This section explores this phenomenon through a chain of cause-effect relationships.
+
+The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change. 
+
+The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Everything is predictable.
+
+Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. It is also natural to expect the same item to cost the same thing from day-to-day; Most goods behave in this manner.
+
+Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower for a bargain in-season and getting it from half-way around the world a few months later.
+
+In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu framework. Recall, the motivating force behind the static-menu is simplicity and predictability. 
+
+Generally speaking, offering a same price for the same 
+
+
+can be done  
+
+
+
+
+ If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+
+ When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
+
+ The trouble with getting produce from local growers is that the additional transaction costs can outweigh the benefits. Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
+
+ This is not only a reflection of how much convenience is offered by distributors; It is also a reflection of how little fresh produce is used and how rigidly it fits into a static menu.  If, on the other hand, we consider a restaurant in the new paradigm, one that is able to tailor their day's menu to a given ingredient and is capable of serving large volumes of food, the benefits of sourcing local ingredients could be enormous, even despite the transaction costs.  This is because a large enough quantity of a single ingredient is being used that the savings from cutting out the distributor outweigh the increased transaction costs. 
 
 == More vegetables, less grains
 
-The previous section introduced a tipping point of sorts, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower.
+The previous section introduced a tipping-point of sorts, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower.
 
 The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
 
