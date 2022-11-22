@@ -128,33 +128,29 @@ It has been noted that static menus do not incentivize the use of fresh produce.
 
 The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change. 
 
-The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Everything is predictable.
+The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Things are predictable.
 
-Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. It is also natural to expect the same item to cost the same thing from day-to-day; Most goods behave in this manner.
+Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same thing from day-to-day; Most goods behave in this manner.
 
 Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower for a bargain in-season and getting it from half-way around the world a few months later.
 
-In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu framework. Recall, the motivating force behind the static-menu is simplicity and predictability. Changing the price would first require calculating the price - likely requiring a spreadsheet, at minimum - then the price change must be updated on the menu, and still the customer would not know any of this until visiting.
+In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu mindset. Recall, the motivating force behind the static-menu is simplicity and predictability, but changing the price according to market rates is far from trivial. It would first require calculating the price - surely entailing a spreadsheet, at minimum - then the price change must be updated on the menu, and still the customer would not know any of this until visiting. And then how often would this need to be done?
 
-One might argue that you could simply average of cost of the produce for the year and then keep the price consistent. In practice, this is likely to be rather difficult.  First off, the price cannot be perfectly predicted. A cursory look at commodities markets should convince someone that prices are far from predictable. Second, the more perishable and seasonal the ingredient, the more it can be affected by aberrations such as natural disasters. Finally, if there is any seasonality in the sales of the food, then a simple average will not be appropriate.
+One might argue that you could simply average of cost of the produce for the year and then keep the price consistent. In practice, this is likely to be rather difficult.  First off, the price cannot be perfectly predicted. A cursory look at commodities markets should convince anyone that prices are far from predictable. Second, the more perishable and seasonal the ingredient, the more it can be affected by aberrations such as natural disasters. Finally, if there is any seasonality in the sales of the food, then that too must be predicted and incorporated in the calculation. 
 
-Finally, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year and turning a business model that could be otherwise be modeled on a monthly (or shorter) basis into a year-long analysis.
+Finally, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year and complicating financial analyses.
 
-For a business model driven by simplicity and pred
+Therefore, to achieve the final piece of the static menu business model, a consistent price, fresh produce is marginalized because it represents financial risk and complexity. 
 
-Therefore, to achieve the final piece of the static menu business model, fresh produce is marginalized. 
+=== Always in stock
 
-Would a complicated 
+The situation gets worse when we compare fresh produce to meat and grains in terms of preparation.
 
-Generally speaking, offering a same price for the same 
+The nail in the coffin is perishability.
 
+Another hallmark of the static menu business model is that all items are always in stock. It may even give the impression of a poorly run establishment if menu items are sold out.  Therefore, if you wish to keep all items in stock, you must always have adequate inventory for your highest sales.  This is not a may be no problem at all
 
-can be done  
-
-
-
-
- If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. This section explores how these changes would also open new opportunities in the supply chain.
+ If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. 
 
  When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
 
@@ -164,7 +160,10 @@ can be done
 
 == More vegetables, less grains
 
-The previous section introduced a tipping-point of sorts, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower.
+== The tipping point
+
+ Not really a tipping point
+The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
 
 The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
 
@@ -195,34 +194,36 @@ There can be no doubt about the efficiency of the market for those items. Howeve
 
 == Irregularities
 
-Another problem with highly commodified produce is the needless waste of irregularly shaped items. Again, because the market seeks a uniform supply that can be freely traded, items with irregularities are seen as breaking the uniformity of the supply and are discarded or downgraded. This is a heavy-handed approach towards dealing with a relatively minor inconvenience.
+Another problem with highly commodified produce is the waste of irregularly shaped items. One might think that these identically-tasting discounted items would be a desirable commodity, but evidence suggests otherwise.
+
+First, it is important to discuss the nature of the irregular items. These are perfectly edible items that don't have the typical shape of that item. This can be undesirable from several aspects. First, the ratio of edible portion may be lower (e.g. more skin to peel off). Second, the preparation may be inconvenient or incompatible. For example, it may be difficult to cut it into cubes or to get adequately thick slices. Finally, it may be aesthetically unpleasing for the consumer, particularly if it is served in whole form. Therefore, it is clear that even though they may taste the same, irregular produce __does__ have some negative aspects.
+
+Thus, although irregularity in produce is never a desirable characteristic, exactly how bad it is is a function of the way it is prepared, with some forms of preparation not suffering in the slightest.
+
+In such a situation, the static menu leaves no opportunity for capitalizing on the discounted produce. It cannot adapt the menu to preparations that aren't affected by the irregularity nor can it adapt the menu to feature greater portions of the discounted item. 
+
+ RF is inherently opportunistic. It does not seek to control what and when, instead it recognizes that a suitably adaptable operation can make the best the best of whatever is available. 
+ 
+ Again, because the market seeks a uniform supply that can be freely traded, items with irregularities are seen as breaking the uniformity of the supply and are discarded or downgraded. This is a heavy-handed approach towards dealing with a relatively minor inconvenience.
+ - what is the problem with downgrading? waste is the issue
 
 == Mass-produced produce
 
 Another effect of commodification is that it offers farmers an (effectively) unlimited market. They have confidence in being able to sell what they produce, even if they produce a lot of it, because they can reach consumers in other regions.
 
-To maximize their earnings potential in the commodities market, farmers are incentized to produce ever larger quantities of a select few ingredients. As already noted, this is not consistent with the laws of nature, and in order to achieve this they must adopt intensive agricultural practices.
+To maximize their earnings potential in the commodities market, farmers are incentivized to produce ever larger quantities of a select few ingredients. As already noted, this is not consistent with the laws of nature, and in order to achieve this they must adopt intensive agricultural practices.
 
-While effective at producing high-yields, these practices are often destructive. Farms who use intensive agricultural practices have much higher rates of soil degredation. Neighboring regions can be impacted by fertilizer runoff and pesticide spray. These practices cause in soil destruction this is clearly evident in the quality of the said farmland.
+While effective at producing high-yields, these practices are often destructive. Farms that use intensive agricultural practices have much higher rates of soil degradation. Neighboring regions can be impacted by fertilizer runoff and pesticide spray. These practices cause in soil destruction this is clearly evident in the quality of the said farmland.
 
-Soil destruction is a major issue in the industry because due to modern agricultural practices
+Soil destruction is a major issue in the industry due to modern agricultural practices
 
-
-If they can produce more, they can rely on 
-Much of the trouble can be traced back to the commodification of food.
-
-
-
-The static menu seeks to control and subdue nature itself, a constant power  manifests in a number of ways completely 
-
-If the impact of distributors was only felt in the profit margins of the farmer, the situation would be less concerning.
-
+The static menu seeks to control and subdue nature
 
 Much like breaking from a static menu changes the entire nature of food service, so too is the potential for change in the agricultural industry. 
 
-This serves to display the immense value provided by distributors in the old paradigm.  Without distributors, sellers and buyers would be faced with huge transaction costs and farmers would face tremendous business pressure to develop improved distribution systems. Distributors fulfill this need and allow the farmer to focus on food production and the chef to focus on food service.  This could be described as specialization and is generally a good thing in economies.
+Without distributors, sellers and buyers would be faced with huge transaction costs and farmers would face tremendous business pressure to develop improved distribution systems. Distributors fulfill this need and allow the farmer to focus on food production and the chef to focus on food service.  This could be described as specialization and is generally a good thing in economies.
 
-  It would greatly increase the fresh produce intake for the average person's meal,  The average meal in the old paradigm is heavy on carbohydrates and proteins and the It means that a large proportionThe fact that a restaurant could incorporate that quantity into their meals was taken as a prerequisite. However, this is a notable achievement in and of itself.
+  It would greatly increase the fresh produce intake for the average person's meal,  The average meal in the old paradigm is heavy on carbohydrates and proteins It means that a large proportion. The fact that a restaurant could incorporate that quantity into their meals was taken as a prerequisite. However, this is a notable achievement in and of itself.
 
 
 
