@@ -1,0 +1,43 @@
+
+= Organic is not enough
+
+The organic food movement has brought many benefits to society.  Accompanied by a much larger interest in the content of products eg. non-gmo.
+
+Driven by a desire for healthier food and better ecological practices, the rise in organic products allows consumers to exercise their preferences when purchasing products.
+
+==== Raising awareness
+
+Beyond the actual measurable market for these products, the mere preponderance of products containing certified ingredients has prompted many consumers to be more discerning in their choices and simultaneously empowered with the ability to act on their new-found preferences.
+
+Furthermore, these new preferences are motivated by virtuous desires of health and ecological sustainability.  Therefore, it is hard to criticize a system that empowers consumers to act on such noble sentiments.  This heightened awareness of production practices and greater scrutiny of producers is motivated by concerns over health and environmental impacts.
+
+==== Certification
+
+One of the single biggest factors that has catalyzed this movement is the creation of official certifications for organic products.  This allowed consumers to trust what was being marketed to them and signaled that it was safe to factor their preferences in their buying decisions.  It addressed major concerns over the authenticity of the products that they were buying.
+
+==== Certification downsides
+
+If we consider certification at a macro economic level, its value derives from its ability to ameliorate a deficiency in information at the consumer level.
+
+The driving factor concerns trust between the consumer and the producer.  Put simply, consumers (rightfully) felt that they could not trust the claims made by manufacturers.  The term "organic" was being used loosely and in a way that consumers found misleading.  This mistrust caused otherwise willing consumers to shy away from organic products for fear of deception. Having a certification by a third-party acted as a bridge between this trust gap and allowed the market to function again. 
+
+At a much more subtle level, certification has had the (perhaps unintended) effect of simplifying decisions over inherently complex matters.  If we consider the environmental impacts of agricultural production, there are numerous factors that must be considered and the specifics often vary between products.
+
+For example, xxx publishes an annual report entitled "The Dirty Dozen".  This is a list of the 12 produce items with the highest pesticide content.  The takeaway is that consumers should consider purchasing organic or pesticide-free varieties of these products relatively more than products not on this list. 
+
+Keeping track of relative rankings such as this and factoring this into purchasing decisions in addition to universal factors such as cost and availability is incredibly taxing.  There is truly no end to the optimization of these factors across the changing seasons and market fluctuations.
+
+In the context of such complex multi-faceted decisions, organic certification acts as a de facto stamp of approval. The consumer does not need to understand any of the intricacies and can simply trust that products with this certification are "good".
+
+==== Shortcomings
+
+The previous discussion of certification's role in the market likely raised a few red flags in the minds of readers.  If consumers feel that they cannot trust manufacturers, then to what extent does third-party approval actually remedy this dysfunction?  If environmental impacts from agricultural production is really such a complex topic, then to what extent can it be reduced to a dualistic good vs bad stamp of approval?
+
+If we view certification as a tool to facilitate consumers health and environmental preferences, then there are several areas in which certification falls short.
+
+The first category of short-comings is that of products which comply with organic certification.  To what extent has the attainment of this certification caused producers to change agricultural practices that were not in fact problems to begin with.  Use of fertilizers is a prime example.  If a producer adheres to every organic practice apart from the use of an inorganic fertilizer, does that truly merit their barring from the premium shelf?  What if that fertilizer was only used during a small window of the life cycle or if the organic alternative was many times more expensive?  Knowing that organic products can often sell for much more than conventional ones, does that mean that this producer's crop should be relegated to the lower price point for this sole decision?  This actually undermines consumers desire for healthy and sustainable food in its draconian application.  What we see then is that the certification designed to ameliorate the information gap has actually only created a narrow bridge across the gap and anything that falls through that gap.
+
+==== Trust and transparency
+
+Having reviewed the role of certification at the macro economic level and its inherent shortcomings, it now begs the question of what a better system would look like.  From a theoretical perspective, the (apparent) need for certification arose from a deficiency of information at the consumer level.  Yet by the same token, we see that even in cases where ample information is available, evaluating all of that information in the context of daily meals is unrealistic.  Neither is this how we operate in other sectors of the economy.  The consumer trusts a professional for healthcare, financial planning and even more mundane things like car repair.
+

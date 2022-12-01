@@ -108,7 +108,7 @@ Compare this to a restaurant with a single, ready-to-serve dish. There is no com
 
 == Upstream effects of menu choice
 
-The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and disincentives towards fresh produce. Finally, it contrasted that with a RF-inspired restaurant that serves only a single, ready-to-serve dish.
+The previous section examined common restaurant characteristics and their shortcomings in regards to efficiency and disincentives towards fresh produce. Finally, it contrasted that with an RF-inspired restaurant that serves only a single, ready-to-serve dish.
 
 It has already been noted that the RF-style of restaurant will be much more efficient at preparing and serving the food. This section goes further and considers the unique opportunities that arise before the food is even delivered, opportunities in the supply chain.
 
@@ -125,17 +125,25 @@ Finally, it is important to emphasize that despite the variety of produce requir
 
 Effectively, it is a case of cutting out the middle-man. This may not mean much to a static menu restaurant, but an RF restaurant could leverage the reduced cost of raw ingredients very effectively.  It would be able to tailor the dishes specifically to those ingredients and to adjust the price to incentivize sales. 
 
-Another advantage of an RF restaurant is that is relies on prepare-in-advance dishes.  In general, such dishes have significantly lower marginal labor cost, meaning that raw ingredients account for a larger proportion of the cost.  In turn, savings in this area are more significant.  Therefore, savings in produce cost by sourcing directly from the grower can more substantially reduce the marginal cost of the final product in an RF-style restaurant. For a high-volume business, this could be much more valuable than even increased sales. 
+Another advantage of an RF restaurant is that is relies on prepare-in-advance dishes.  In general, such dishes have significantly lower marginal labor cost, meaning that the ingredients account for a larger proportion of the overall cost.  Therefore, savings in produce cost by sourcing directly from the grower can more substantially reduce the marginal cost of the final product in an RF-style restaurant. For a high-volume business, this could be even be more valuable than increased sales. 
+
+ In turn, savings in this area are more significant.  
+
+ This is not only a reflection of how much convenience is offered by distributors; It is also a reflection of how little fresh produce is used and how rigidly it fits into a static menu.  If, on the other hand, we consider a restaurant in the new paradigm, one that is able to tailor their day's menu to a given ingredient and is capable of serving large volumes of food, the benefits of sourcing local ingredients could be enormous, even despite the transaction costs.  This is because a large enough quantity of a single ingredient is being used that the savings from cutting out the distributor outweigh the increased transaction costs. 
+
+ When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
+
+ Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
 
 == Why static menu dislikes fresh produce
 
 It has been noted that static menus do not incentivize the use of fresh produce. This section explores this phenomenon through a chain of cause-effect relationships.
 
-The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change. 
+The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change.
 
 The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Things are predictable.
 
-Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same thing from day-to-day; Most goods behave in this manner.
+Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same from day-to-day; Most goods behave in this manner.
 
 Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower for a bargain in-season and getting it from half-way around the world a few months later.
 
@@ -145,28 +153,19 @@ One might argue that you could simply average of cost of the produce for the yea
 
 Finally, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year and complicating financial analyses.
 
-Therefore, to achieve the final piece of the static menu business model, a consistent price, fresh produce is marginalized because it represents financial risk and complexity. 
+Therefore, to achieve the final piece of the static menu business model, a consistent price, fresh produce is marginalized because it represents financial uncertainty and complexity. 
 
 === Always in stock
 
+Another hallmark of the static menu business model is that all items are always in stock.  Of course, this is desirable for a consumer because they never have to worry that their favorite dish will be sold out. It can even risk giving the impression of a poorly run establishment if menu items are sold out. 
+
+But to keep all items in stock means having sufficient inventory at all times for your highest possible sales.  This may be a trivial requirement or a crushing burden depending on the model of the restaurant.  The two key factors that determine the impact are 1) how perishable the ingredients are and 2) how many items are on the menu.
+
+We have already established that the static menu almost always offers a variety of different dishes.  Therefore, to achieve the "always available" component of the business model, the static menu favors meat and grains and other processed ingredients, which are less perishable than fresh produce. This translates into less waste when sales aren't at their peak. As an added benefit, meat, grains and other processed foods tend to be more nutrient dense, meaning less storage space is required for the excess inventory.
+
+== Prep times
+
 The situation gets worse when we compare fresh produce to meat and grains in terms of preparation.
-
-The nail in the coffin is perishability.
-
-Another hallmark of the static menu business model is that all items are always in stock. It may even give the impression of a poorly run establishment if menu items are sold out.  Therefore, if you wish to keep all items in stock, you must always have adequate inventory for your highest sales.  This is not a may be no problem at all
-
-
- While compelling, the benefits of marginal-cost and efficiency that occur between the restaurant and the consumer are only a fraction of the benefits to be found upstream of the restaurant. 
-
- If these practices are changed, it would allow for a higher-volume of sales and could more effectively incorporate fresh produce into the menu. 
-
- When the static menu was introduced, the distinction between globally sourced produce versus locally grown produce was made.  I also emphasized that a given ingredient would only be available locally for part of the year.  This made it seem as though the locally grown produce would be an obvious choice when available, but in practice even that is not so. 
-
- The trouble with getting produce from local growers is that the additional transaction costs can outweigh the benefits. Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
-
- This is not only a reflection of how much convenience is offered by distributors; It is also a reflection of how little fresh produce is used and how rigidly it fits into a static menu.  If, on the other hand, we consider a restaurant in the new paradigm, one that is able to tailor their day's menu to a given ingredient and is capable of serving large volumes of food, the benefits of sourcing local ingredients could be enormous, even despite the transaction costs.  This is because a large enough quantity of a single ingredient is being used that the savings from cutting out the distributor outweigh the increased transaction costs. 
-
-== More vegetables, less grains
 
 == The tipping point
 
@@ -176,369 +175,4 @@ The previous section introduced a tipping-point, the point at which a restaurant
 The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
 
 This marks the point where we are firmly on the road to healthy, affordable and convenient food service.  Up until this point, the principles discussed (e.g. efficiency) could be applied to any food service, but it is the application of these principles in order facilitate the use of fresh produce that represents the beginning of possibilities in the new paradigm. 
-
-
-== Farmer
-
-Thus far, the discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level.
-
-Moving forward, we will broaden the discussion to consider the economics of other stakeholders.  First and foremost of these is the farmer.
-
-The farmer was introduced in the context of the static menu and it was noted that the transaction costs made farmer-direct produce not attractive to food service. What was not mentioned is that high transaction costs are also incurred by the farmer. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
-
-Financially speaking, the price for this facilitation is enormous. Farmers earn just XX for every dollar of retail produce sales.  Compare that to the XX taken home by distributors and wholesalers.  Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
-
-In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes in the context of the new food paradigm, and increasing the profits of farmers is only the beginning of that.
-
-== Unseen forces
-
-== Homogenized food supply
-
-The static menu has a profound influence on agricultural practices. At a very fundamental level, it can be said that the static menu is at odds with nature; It seeks a steady stream of select ingredients, something that goes against the dynamic and seasonal nature of life. 
-
-Recall that a static menu demands access to certain fresh produce year-round.To efficiently provide this, the market seeks to grow the same item in various parts of the world. That way, the item can be freely traded and mixed in the wholesale and distribution channels. This is the essence of a commodities market.
-
-There can be no doubt about the efficiency of the market for those items. However, this has the side-effect of making the market for other less-commodified items appear relatively less robust. Thus, farmers will choose what to grow and even what varieties to grow based on the relative strength of the underlying commodity market. This has the effect of homogenizing of food supply because specialized or niche crops will always have a weaker (and thus riskier) market.
-
-== Irregularities
-
-Another problem with highly commodified produce is the waste of irregularly shaped items. One might think that these identically-tasting discounted items would be a desirable commodity, but evidence suggests otherwise.
-
-First, it is important to discuss the nature of the irregular items. These are perfectly edible items that don't have the typical shape of that item. This can be undesirable from several aspects. First, the ratio of edible portion may be lower (e.g. more skin to peel off). Second, the preparation may be inconvenient or incompatible. For example, it may be difficult to cut it into cubes or to get adequately thick slices. Finally, it may be aesthetically unpleasing for the consumer, particularly if it is served in whole form. Therefore, it is clear that even though they may taste the same, irregular produce __does__ have some negative aspects.
-
-Thus, although irregularity in produce is never a desirable characteristic, exactly how bad it is is a function of the way it is prepared, with some forms of preparation not suffering in the slightest.
-
-In such a situation, the static menu leaves no opportunity for capitalizing on the discounted produce. It cannot adapt the menu to preparations that aren't affected by the irregularity nor can it adapt the menu to feature greater portions of the discounted item. 
-
- RF is inherently opportunistic. It does not seek to control what and when, instead it recognizes that a suitably adaptable operation can make the best the best of whatever is available. 
- 
- Again, because the market seeks a uniform supply that can be freely traded, items with irregularities are seen as breaking the uniformity of the supply and are discarded or downgraded. This is a heavy-handed approach towards dealing with a relatively minor inconvenience.
- - what is the problem with downgrading? waste is the issue
-
-== Mass-produced produce
-
-Another effect of commodification is that it offers farmers an (effectively) unlimited market. They have confidence in being able to sell what they produce, even if they produce a lot of it, because they can reach consumers in other regions.
-
-To maximize their earnings potential in the commodities market, farmers are incentivized to produce ever larger quantities of a select few ingredients. As already noted, this is not consistent with the laws of nature, and in order to achieve this they must adopt intensive agricultural practices.
-
-While effective at producing high-yields, these practices are often destructive. Farms that use intensive agricultural practices have much higher rates of soil degradation. Neighboring regions can be impacted by fertilizer runoff and pesticide spray. These practices cause in soil destruction this is clearly evident in the quality of the said farmland.
-
-Soil destruction is a major issue in the industry due to modern agricultural practices
-
-The static menu seeks to control and subdue nature
-
-Much like breaking from a static menu changes the entire nature of food service, so too is the potential for change in the agricultural industry. 
-
-Without distributors, sellers and buyers would be faced with huge transaction costs and farmers would face tremendous business pressure to develop improved distribution systems. Distributors fulfill this need and allow the farmer to focus on food production and the chef to focus on food service.  This could be described as specialization and is generally a good thing in economies.
-
- The average meal in the old paradigm is heavy on carbohydrates and proteins. It would greatly increase the fresh produce intake for the average person's meal.
-
-
-
-In addition to the economics, this opens the possibility for other important benefits, benefits that accrue to society at large in the form of positive externalities. 
-
-
-that item makes the  cost-of-goods for that ingredient is  a given type of fresh producOn the other hand, it is not hard to a restaurant in the new paradigm When a given ingredient represents a
-
-
- They correctly recognize that their core competency is in food service and do not want to invest effort in supply chain optimization for 
-
-be working with a distributor and thetransaction costs can often be very high.  Compared to a food distributor, the time required to coordinate an order with a local grower can be 
-
-By contrast, distributors provide an extremely convenient one-stop-shop.
-
-This showed that basic business decisions made at the individual level can have far-reaching impacts.  This section will expand on these concepts by considering the restaurant supply-chain in the context of the new food service paradigm. 
-
-made by businesses points of comparison for a new paradigm of quicker, cheaper and healthier food, and it did so primarily by focusing on the weaknesses in the existing system.  This served as an excellent starting point because it is a system we are all familiar with.  The current section will continue to explore this new paradigm, but instead through the lens of new possibilities and the benefits that they could yield.
-
-Perhaps the most important insight of this book is the opportunities that present themselves in the restaurant supply-chain.  Recall that a typical, static menu restaurant relies on a distributor for most of its raw ingredients and that this approach ultimately discourages the incorporation of fresh produce in the menu.
-- This is convenient, but comes at an added cost and often compromised quality
-
-Amazingly, the new paradigm flips all of this on its head, making fresh produce the focal point of the menu.  The turning point of this transformation  __catalyst of this dramatic change__ __this dramatic change stems from__ is the ability of farmers to directly supply restaurants __rather than via distributors__. 
-
-This is made possible because a restaurant in the new paradigm has the capability of processing and serving enormous quantities of fresh produce. In turn, this opens new possibilities in the supply chain. Whereas the average restaurants would be hopeless if given a truckload of a random seasonal vegetable, the new paradigm of food service allows tailoring the menu to specific ingredients and the streamlined operation offers significant opportunity for savings in preparation.  
-
-The importance of this new connection between food-service and the farmer cannot be overstated.  Indeed, nearly everything in the remaining book hinges on it.  The closer the relationship that can be forged between these two parties, the more benefits there are to be reaped.
-
-The most immediate benefit of this relationship is in the cost of the goods themselves. In today's food system, nearly 60 cents of every dollar spent on produce is accounted for by the distributors/integrators. This leaves an enormous margin to be redistributed between the farmer and the restaurant, equating to higher profits for the farmer and lower costs for food service, and in turn the consumer; a classic case of case of cutting out the middleman. And while it is true that certain costs once born by the distributor, such as transportation, must now be paid from this margin, these costs do not account for nearly the full amount.  Furthermore, these costs are not fixed. Transactions with local farmers may have significantly reduced transport costs, for example.
-
-While notable, pricing is one of the most superficial benefits.  Far more profound benefits are to be found by re-imagining the nature of farming in the context of the new food service paradigm, and to that end, one of the most fundamental questions is: what to grow?
-
-This rather basic question alludes to an important characteristic of the current food system: that what is grown is not necessarily in the best interest of the farmer or the consumer.  Rather, the decision is influenced by the distributors who seek to _commodify_ the output.  That is, to produce it in ever-more consistent quantities and qualities and under an ever-widening range of conditions.  Such that a tomato from one grower is effectively the same as the next.
-
-This is driven by the basic nature of the distributors' business model, which is to increase the scale of production of a standardized commodity. But, as noted once already, food is not like other commodities, much less a standardized one.
-
-- a model that closely mirrors that of other industrial distribution.
-
-In the never-ending pursuit of more standardized agricultural commodities, the following negative practices have become endemic in conventional agriculture: "single crop production, heavy use of synthetic fertilizers and pesticides, and intense tillage" <<yale>>.  These techniques can swiftly and reliably transform the landscape into a highly productive (and profitable) fields.  However, in a long-term these techniques ravage the native ecosystem and result in a precarious livelihood for the farmer.
-
-As the flaws of conventional agriculture have come into clearer focus, a competing approach known as regenerative agriculture has emerged as a strong contender for a more sustainable future. Regenerative agriculture employs a "systems-approach to farming that seeks to improve natural resources rather than depleting them."<<yale>>
-
-With backing from industry-giants like General Mills to renowned-institutions like Yale University, it is widely recognized that it has the potential to remedy the issues plaguing conventional agriculture. The one problem is figuring out who is going to buy the outputs.
-
-RA farms face two challenges when bringing their crop to market. The first is that because RA generally has lower yields than conventional agriculture, the products are more expensive. Second, RA has more diversified outputs, meaning smaller quantities of a given item and greater lengths of time between its next planting <<holden-circle>>.  This does not jive well with an industry that has become accustomed to sourcing large quantities of relatively cheap products.<<circ>>
-
-The new food service paradigm offers a welcome alternative to the existing downstream markets and the challenges they pose.  As noted previously, selling directly to food service, rather than to a distributor, opens up huge margins for the farmer. Furthermore, the specific production practices used by the farmer can be accounted for in the price, whereas distributors are accustomed to thinking in terms of undifferentiated commodities and struggle to incorporate production practices in their pricing <<yale>>.  Finally, the specialty crops can expect a much warmer reception from food service in the new paradigm because the menu can be designed around the ingredient. 
-- restaurants seek to diversify their offerings and lure customers with "exotic" seasonal ingredients.
-
-For this reason, when assessing the barriers to the RA industry, they identified downstream markets as a major barrier <<yale>>. For example, a farmer interviewed for the piece recounted "a friend who contacted over 100 potential buyers for a single specialty crop". 
-
-(It is important to note that farmer-restaurant relationships already exist. However, I would argue that essentially those farmers have simply become distributors themselves, along with all of the additional operational complexity that that entails.) __do__ sometimes supply ingredients di
-
-
-enjoy massive reductions in marginal cost per dish
-- Benefit from different equipment e.g. larger pots, ovens, etc.
-- Not as vulnerable to short-term labor fluctuations like someone calling in sick.
-
-include::home_economics.adoc[]
-
-
-One of the dangers of working on a complex problem like obesity is that we try to find solutions through a process of increasingly detailed dissection of the underlying factors.  Increasingly detailed interrogation of these factors becomes the vehicle by new which solutions are identified.  However, there is a danger...
-
-While this is eminently reasonable (and arguably even necessary/requisite), it carries with it the danger that these very same factors become _tendency to view those very same factors as_ absolutes in the mind of the researcher, such that the only available solutions are those seen through the window of these constraints. In other words, the framing of the issue creates (seemingly unbeknowst) limitations on how it can be addressed.
-
-In this regard, one of the implicit assumptions running through nearly every policy is the role of restaurants as purveyors of calorie-dense foods. In fairness, this is precisely what we've seen over the past several decades.  Yet at the same time, there are marked anomalies to this pattern. Australian study found that healthy food was 17% cheaper than unhealthy. How not to diet notes that commodities such as beans have razor-thin margins and are often sold as loss-leaders.
-
-This assumption leaves no room for the possibility that the choices available to us today are not, as is widely assumed, the result of deterministic forces in the free market but instead are artifacts of history.  And by extension, there are potentially great possibilities laying dormant. 
-
-In an attempt to understand the underlying factors, those factors themselves are viewed as absolute. 
-
-It reflects a basic understanding of society that things are the way they are for a reason.  In turn, this basic understanding can trace its origins to capitalism and even back to the development of logical thinking.
-
-_While this serves to explain the rise in obesity at the end of the twentieth century, the continuing, and indeed worsening, epidemic of obesity in the twenty-first century bears further examination.  For while the previous generation had very little experience of obesity, we are consumed by it.  While households in the 1970's could not have fathomed the toll that the new processed foods would take on society, it has been documented ad-nauseum in today's society.  To declare that fast food is bad for you is trite and universally accepted.  Why then does it persist?  Is it really just that carbs are addictive, advertising frighteningly effective and government-subsidized mega-industries are omnipotent?_
-
-I contend that the situation is not as simple as that.  All of these factors are powerful but what has also contributed to the issue is the failure of society to adapt to the emerging issues.
-
-In this sense, a parallel is frequently drawn between the tobacco industry.  Both ever-present temptations driven by powerful industries. But they are not the same. While nothing can satiate a smoker quite like a cigarette, hunger and cravings can be neutralized with healthy food and cravings greatly diminish.  another way of putting this is that the risk of eating junk food is much greater when a person is hungry. the Corollary is that ensuring the availability of quick healthy and affordable food undercuts junk food.  junk food thrives in environments where there is not competition  for value.  this points to the idea that a cheaper healthier product could supplant the dominance of junk food.
-
-
-Most households had a single working parent who was able to provide for the entire family.
-During this time, smaller families and more work.  This left less time to prepare food at home and made the benefits of doing so less.  At a similar time, the processed foods industry was gearing up.
-
-== Soup kitchen
-
-In a very real sense, to even suggest that a cheaper, healthier meal might be readily available risks coming off as naive.  We all know the power of the free markets and their ability to deliver goods and services to meet virtually any imaginable desire.
-
-
-The canonical value-oriented restaurant is the soup kitchen. Known from the depression years, soup kitchens are society's response to difficult times.
-
-Perhaps it is a desire to push the memory of these difficult times into the past that keeps us from recognizing the lessons they can teach us even in more fortunate times.
-
-The soup kitchen format is eminently efficient. Born of tough times, when food was a matter of survival, the soup kitchen was the social intervention tasked with closing the gap.
-
-== Limited Menu
-
-While there are numerous facets to cover and complex dynamics to be understood, the core concept itself is deceptively simple: a restaurant that serves only a couple dishes each day.  To be clear, a limited menu alone is not going to lead to anything revolutionary.  However, in the context of the other factors we will consider, it becomes a powerful catalyst.  First, though, let's review the concept of a limited menu and the significance it has for us moving forward.
-
-The choice of a limited menu is driven by efficiency. By focusing on just a few dishes, a restaurant can produce those dishes on a larger scale, and with larger scale comes lower prices for raw materials, greater efficiencies in labor, as well as a suite of other related benefits.  For example, such a restaurant could serve their customers faster, resulting in a quicker table turn-around and ultimately allowing it to serve more customers. 
-
-=== Menu size
-
-It is a straight-forward assertion that a restaurant with more items to offer will - all other things being equal - attract more customers by being able to satisfy a wider variety of preferences.  That is what theory would tell us, at least.
-
-However, in practice we know that the size of the menu rarely ever factors into our decision about whether or not to go to a particular restaurant.  This apparent disparity between theory and practice arises from the theoretical requirement that "all other things" be equal between the restaurants, a condition that is never satisfied in reality.  Quite to the contrary, in reality there are dozens of more prominent factors distinguishing one restaurant from the next, such that the relative number of items on the menu never factors highly into the decision.
-
-Still, there is something to be said for having a reasonable amount of variety.  If nothing else, the dominant restaurant model - to offer dozens of items across different courses - suggests that variety is an important factor.  
-
-Having broadly framed the idea of menu variety as a trade-off between customer appeal[1] and production efficiency, 
-
-== Fast food
-
-The previous section looked at costs of production as a function of how many items are offered by the restaurant, with less menu items equating to lower costs of production.
-
-we will assess the costs of production in terms of three distinct factors: the ingredients, the prep time and the length of freshness.
-
-== Ingredients
-
-The most obvious factor in the cost of a dish is the ingredients. A prime cut of steak will cost significantly more than a piece of bread. In turn, menu items that are comprised of higher cost ingredients come at a higher cost to the consumer.
-
-In terms of efficiency, however, ingredient price is not very relevant.  On the other hand, the shelf life of the ingredients is a huge consideration. Ingredients that keep well result in less spoilage and can be bought in greater bulk. Notably, this favors the use of processed foods over whole foods, meat over vegetables.  Anything that can be frozen or sit for weeks on a shelf offers a distinct advantage to the restaurant in terms of streamlined operation and insulation from fluctuations in demand.
-
-== Prep time
-
-Preparation time quite often follows a similar pattern as ingredients.  Namely, that ingredients with longer shelf life tend to go hand-in-hand with quicker preparation.  This is because processed foods often contain high amounts of fat, sugar and/or salt, all things that are proven to tantalize the taste buds.  Meat also follows a similar path, as it is calorie-dense and contains fat that accentuates flavors.  This allows a satisfying dish to be attained simply with a nice sear on the grill.  
-
-Furthermore, the same dynamics of shelf-life again present themselves in terms of preparation.  You wouldn't want to make a salad the day before because the vegetables would wilt and get soggy. However, you wouldn't have any qualms about making dough or marinating meat the day before.
-
-== Freshness (Optimal serve time)
-
-Having laid out the overwhelming advantages of processed foods, and knowing that these ingredients are ubiquitous in modern food service, the issue of freshness (or optimal serve time) surprisingly runs almost completely counter to what we've seen earlier.
-
-We would expect that the same restaurants that adopted processed foods and streamlined prep would also favor menu items that can be prepared in advance.  However, this is the distinct opposite of what we observe.  To an almost pathological degree, such restaurants favor items that must be served almost immediately lest their appeal be lost.
-
-Consider a typical burger restaurant. The fries, although cheap and easy to prepare, quickly lose their crispiness as they sit and cool.  The burgers are an even bigger challenge, with each ingredient posing a threat to the next: The ketchup and other condiments make the bun soggy, the warm patty wilts the lettuce. Such are challenges in the high-stakes game of made-to-order food.
-
-== Ready when you are - "Just-in-time" delivery and advanced logistics
-
-In earlier sections we noted that menus designed around fresh, whole foods were at a disadvantage to more calorie-dense, processed foods in terms of storage needs.  Fresh produce is bulky, which is to say that after peeling, coring, slicing, etc. you are often left with considerably less volume than what you started with.  Furthermore, they often cook down due to their high water content.
-
-A second challenge with fresh ingredients is that they are perishable.  Again, compared to calorie-dense, processed foods, this is a significant disadvantage.
-
-Taken together, this means that a restaurant with a menu designed around fresh, whole foods must have significantly greater storage area to account the bulkiness of fresh produce and must "turn over" the inventory much faster to avoid it going bad.  
-
-These seem like rather big implications, and they do.  But what I will argue here is that the implications/consequences are not absolute, that there are strategies to mitigate these issues and that those strategies play into the same overall direction as the existing strategy.
-
-=== Professionalism/education
-
-FDR's cabinet was composed of people who had not been professionals. The new deal had a "heavy reliance upon organizer labor and its tendency to see issues through the lens of social class".
-
-=== Diet
-
-"I can't stress enough is becoming overweight is a normal, natural response to the abnormal, unnatural ubiquity of calorie dense, sugary, and fatty foods."
-
-=== Policy
-
-" *Link private sector action to incentives.*
-Each incentive policy should include a private sector action paired with an incentive, or package of incentives, that reduces the cost to businesses to implement it. For example, to offer fresh produce, corner store owners may need to purchase refrigeration equipment and pay higher utility bills to run that equipment. Store owners will also need to advertise the fresh produce to customers. Local agencies could offer loans or grants to help purchase refrigeration equipment, or offer tax credits or reduced fees for business licenses. The economic development agency or public health department could provide free advertising materials, such as signs or advertisements in local media, to help promote the new healthy selections." <<6>>
-
-== Ideas
-
-_This is because the marginal benefits of more menu variety have greatly diminishing returns.  That is to say, a restaurant has a strong incentive to offer a baseline level of variety in their offerings. Yet on the other hand, there is very little to be gained by exceeding that threshold._
-
-This trade-off between selection (or variety) and value is the first key dynamic to take note of.  Generally speaking, food service caters to the selection side of the spectrum, leaving the value side of the spectrum a relatively uncharted landscape.  Indeed, the entirety of what follows could be considered an exploration of this value-oriented landscape.  Within this exploration, we will highlight new features/what factors are most prominent in this new landscape as well as value itself and what our expectations should be.
-
-One caveat is that a person only eats one meal, such that no matter how many items are on the menu, a given person will rarely ever order more than one.  
-
-Yet what I will attempt to show is that something so basic on the surface could have far-reaching implications within the context of our modern society. 
-
-Nevertheless, the simple concept of a limited menu and the dynamics of food service in this context will arguably be the key shift in the fundamentals. 
-
-I hope to convince you that this style of food service is qualitatively different than anything we have now, not just offering an incremental improvement to the issues at hand but a whole new landscape of possibility.
-
-In what follows, I will expand on this idea and attempt to paint a picture of a new food service paradigm that can not only deliver on the quick, healthy and affordable meal but also on environmental, social, and economic issues to boot.  But we’re getting ahead of ourselves now, let’s back up to that imaginary restaurant with its limited menu and talk some basic economics.
-
-== Home economics
-
-It is not worth peoples' time to reduce waste in the kitchen, or even necessarily to eat healthy; the costs are too high and the other demands of life too great.
-
-Americans do not even get enough sleep. No one says they don't like sleep.
-
-== Illegal migrants used for labor
-
-
-In _Perilous Bounty_ the author recounts an interview with a farmer in then Central Valley.  The farmer tells how his business is uncertain due to increasing labor costs.
-
-Argument for illegal immigrants is that cannot pay a good wage and simultaneously meet the demands of the American populace. In fact, unlike all other industries, the federal law mandating additional pay for more than 40 hours per week does not apply to agriculture.  However, this has been changed by the state legislature effective 2022 and in 2023 the state's minimum wage increases.
-
-If the increased cost of labor translates to higher costs of fruits and vegetables then that makes it harder to provide healthy food.  The obvious - and perhaps only - answer is to remove the middleman from the system.
-
-== Camp for teenagers
-
-Need people to do excess work during summertime.  _Perilous Bounty_ recounts how growing an older variety of melons yields a better tasting melon, however it requires multiple passes during harvest because the melons do not all ripen at the same time.  By contrast, other growers use conventional varieties that all ripen at roughly the same time but do not taste as good.  This is just one example of a compromise due to cost constraints at the farm level.
-
-
-
-
-Americans do not want to do not want to do the work because it is too hard and pays too little.  Work is too sporadic.
-
-If work is sporadic then points to the ability of internet to bridge the gap.  If pay is too little, then trim waste downstream and increase pay upstream.
-
-== New frontier of ethics
-
-Unions are part of the new frontier. Would you trust a company to not cut corners and to be honest with you as a consumer if they are not honest with their employees.
-
-== Efficiency of food service
-
-Perhaps one of the most important questions for any restaurant is what food they are going to serve.  And for a restaurant with a limited menu that question is arguably even more relevant.
-
-We have already noted that one of the shortcomings of the existing food service industry is that more nutritious food tends to be more expensive.  To that end, one of the first concerns ought to be efficiency, and even more specifically, the marginal cost of the menu items.
-
-== My way or the highway
-
-This brings us to one of the first realizations of the food industry: made-to-order menu items restrict opportunities for greater efficiency, creating a “floor” that the marginal cost cannot go below.
-
-A common theme is the food service industry is the customization of your dish.  Restaurants offer all manner of add-ons and substitutions to cater to a variety of different preferences and dietary needs.
-
-These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements. 
-
-
-This concept is easier to understand with an example.  Consider a classic, made-to-order item such as a burger as compared to a prepare-ahead food such as soup.  The first apparent difference is that the made-to-order food tends to suffer in quality the longer it sits, hence why it was made-to-order in the first place.  In the case of the burger, it is a veritable train wreck of diminishing quality.  Starting with the toasted bun that arrives warm and toasty only to begin cooling and hardening.  The condiments that make that very same bun soggy the longer they sit.  The delicate lettuce that is sandwiched between the warm bun and the meat, beginning the wilting process almost on contact.  And let us not forget the accompanying side, which is almost certainly french fries and which begin to lose their crispy delicious texture as they cool.  Nearly every single aspect of the unassuming burger and fries is actually a precarious combination of ingredients that rapidly change in texture and desirability as they sit.  If that weren’t enough, it also happens that mitigating or recovering some of the desirability is near impossible.  You can't just toss it in the microwave and make it more appetizing.  
-
-== Conclusion (Part 1)
-
-This section has shown that a different style of food service, one that favors a limited menu, can have dramatically different potential.  In particular, by virtue of lower production cost, such a restaurant would be capable of serving hundreds more meals.
-
-== Part 3 - Renaissance
-
-== Rehabilitating our kitchens
-
-Years of menu-based, made-to-order food service have ravaged our kitchens. The relentless pressure to deliver freshly prepared food as fast as possible has created a truly dysfunctional culture of stress and strain.
-
-That so many of us dine out regularly and yet take this fact for granted is a testament to the insidiousness of the culture that has taken hold.  Indeed, it is at the higher-end, gourmet restaurants that this dysfunction is most pronounced.
-
-Consider the recent peer-reviewed study entitled _Alcohol and other drug use in Michelin-starred kitchen brigades_.  The highlights from the very first page of article should be enough to give everyone pause:
-
-* Alcohol and other drug (AOD) use appear to be part of the everyday life in Michelin-starred kitchen brigades in Britain and Ireland.
-
-* AOD were found to be used as a means of self-medication and as a coping strategy for most chefs regardless their ranking.
-
-* Alcohol is used to unwind after work and cope with the harsh working environment.
-
-* Drugs and other substances are mainly used to maintain or improve performance. 
-
-That these findings come from the most prestigious establishments in the world implies that this situation arises not for lack of money or expertise.  It cannot be dismissed as a symptom of the low socio-economic standing of the chefs themselves, much less the diners.  It is quite simply a dysfunctional culture of its own creation.  
-
-The idea that this arose from within industry itself is an important realization because it underscores the fact that this dysfunctional system is often rewarded and is seen as a necessary sacrifice, the price of working at the world's finest kitchens.
-
-not easily explained away as a what sociologists would refer to as coexisting factor, which is to say
-
-made-to-order item.   
-
-== Renaissance
-
-The Renaissance is best remembered for the stunning works of art and sculpture and paintings by the likes of Rembrandt.  However the Renaissance is best understood as a shift in thinking about life itself, with the paintings that have been handed down to us from that time representing a manifestation of that new way of thinking.
-
-Similarly, the food Renaissance I have been arguing for transcends the ingredients, the recipes and the restaurant itself and is an expression of the connection between human life and the environment. 
-
-a second key understanding about the Renaissance is that this shift in thinking did not represent a new way of thinking. in fact the term Renaissance means rebirth and refers to the fact that these ideas were prevalent in Greek society. similarly the food Renaissance is not a new idea. ancient civilizations, culture researchers, and many others
-
-A further parallel to the renaissance is in how the ideas were applied in new mediums and with the benefit of new technologies.  For example, sculptures from the classic antiquity were carved out of marble.  The renaissance saw a revival of the classical antiquity style in bronze.  Bronze was much stronger than marble and could be cast to produce a hollow sculpture.  This allowed stronger and lighter sculptures to be produced that captured dramatic movements.  In a similar sense, today's renaisssance draws from the ways of ancient cultures that had a sustainable lifestyle and complements that with modern technology.
-
-
-== Opportunity at large
-
-Scaling these concepts to the point that you have a relationship with the customer so you can use reusable metal packaging and have an account with them.
-
-
-quintescential fast-food item 
-
-== Brainstorming
-
-- Encouraging the consumer to customize ("Have it your way")
-
-- Customizations are a way of upselling, maximizing the current sale.  Value is a way of pursuing profit.
-
-- Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
-
-- App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
-
-- App called Open Season for meeting farmers to buy produce from
-
-This line of reasoning 
-- is capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
--serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
-
-I am proposing a style restaurant is qualitatively different than virtually any other restaurant.  
-
-The word qualitative has particular significance in the previous sentence.  It means something with more fundamental differences, something that is bound by different rules, and something that, ultimately, has dramatically different possibilities.
-
-There is a peculiar absence of any real scale in the freshly prepared foods category.  
-
-What follows is a business concept that aims to address this very issue and so much more.  The motivating force behind this concept are the basic economic principles of specialization and scalability. 
-
-To have a variety of customizable, made-to-order meals available in under an hour at virtually all hours of the day is a luxury. It is simply not at all frugal or resourceful. 
-
-[1] Perceived variety and the idea of many items derived from one base ingredient allowing many items to be made, like with pizza.
-
-[bibliography]
-== References
-
-[[[5]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Food Spending of Middle-Income Households Hardest Hit by the Great Recession. https://www.ers.usda.gov/amber-waves/2018/september/food-spending-of-middle-income-households-hardest-hit-by-the-great-recession/
-
-[[[6]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Putting Business to Work for Health - Incentive Policies for the Private Sector. ChangeLab Solutions.
-
-[[[yale]]]  The State of Regenerative Agriculture: Growing With Room to Grow More. Cortney Ahern Renton, Claire Huntley Lafave, Kathryn Sierks.  March 24, 2020. https://conservationfinancenetwork.org/2020/03/24/the-state-of-regenerative-agriculture-growing-with-room-to-grow-more
-
-[[[holden-circle]]]  Regenerating nature in a circular economy. https://youtu.be/VQaOBzBZ6us.  
-
 
