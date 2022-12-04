@@ -24,15 +24,19 @@ A second factor is that family-size has shrunk over time. This discourages cooki
 
 Likely in response to these factors, we have observed an increasing percentage of FAFH consumption. People are increasingly choosing food service over cooking themselves. Studies like the one citing divorces due to washing dishes indicate that people view it as a chore.
 
-In this context, RF offers a perfect antidote because it offers the convenience that people are seeking but with healthier and more affordable offerings than currently available.  What's more, it does not rely on any government involvement. 
+In this context, RF offers a perfect antidote because it offers the convenience that people are seeking but with healthier and more affordable offerings than currently available.  What's more, it does not rely on any government involvement.
+
+It is also perfect that RF acts via financial incentives because this means that lower socio-economic people will be more incentivized to choose RF.  (Not so) coincidentally, lower socio-economic people are disproportionately affected by obesity.  Therefore, when the market offers a cheap and healthy dish, the people who stand to benefit the most are also incentivized the most. This is a very desirable quality in any proposed solution.
 
  Finally, I would add that due to our relatively high standard of living our expectations for cuisine have increased to the point that many may not be willing (to devote the time) or able (to execute the recipe) to cook to their own satisfaction once becoming accustomed to FAFH.
 
 === Farm economics
 
-The farmer was introduced in the context of the static menu and it was noted that the transaction costs made farmer-direct produce not attractive to food service. What was not mentioned is that high transaction costs are also incurred by the farmer. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
+The farmer was introduced in the context of the static menu and it was noted that transaction costs made farmer-direct produce not attractive to the static menu. What was not discussed is that high transaction costs are also incurred by the farmer in this arrangement. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
 
-Financially speaking, the price for this facilitation is enormous. Farmers earn just XX for every dollar of retail produce sales.  Compare that to the XX taken home by distributors and wholesalers.  Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
+Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for XX.
+
+Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
 
 In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes in the context of the new food paradigm, and increasing the profits of farmers is only the beginning of that.
 
@@ -311,29 +315,6 @@ Consider the recent peer-reviewed study entitled _Alcohol and other drug use in 
 That these findings come from the most prestigious establishments in the world implies that this situation arises not for lack of money or expertise.  It cannot be dismissed as a symptom of the low socio-economic standing of the chefs themselves, much less the diners.  It is quite simply a dysfunctional culture of its own creation.  
 
 The idea that this arose from within industry itself is an important realization because it underscores the fact that this dysfunctional system is often rewarded and is seen as a necessary sacrifice, the price of working at the world's finest kitchens.
-
-== Renaissance
-
-The Renaissance is best remembered for the stunning works of art and sculpture and paintings by the likes of Rembrandt.  However the Renaissance is best understood as a shift in thinking about life itself, with the paintings that have been handed down to us from that time representing a manifestation of that new way of thinking.
-
-Similarly, the food Renaissance I have been arguing for transcends the ingredients, the recipes and the restaurant itself and is an expression of the connection between human life and the environment. 
-
-a second key understanding about the Renaissance is that this shift in thinking did not represent a new way of thinking. in fact the term Renaissance means rebirth and refers to the fact that these ideas were prevalent in Greek society. similarly the food Renaissance is not a new idea. ancient civilizations, culture researchers, and many others
-
-A further parallel to the renaissance is in how the ideas were applied in new mediums and with the benefit of new technologies.  For example, sculptures from the classic antiquity were carved out of marble.  The renaissance saw a revival of the classical antiquity style in bronze.  Bronze was much stronger than marble and could be cast to produce a hollow sculpture.  This allowed stronger and lighter sculptures to be produced that captured dramatic movements.  In a similar sense, today's renaisssance draws from the ways of ancient cultures that had a sustainable lifestyle and complements that with modern technology.
-
-Food service is thrust into the driver's seat by RF. It must straddle two complex systems, agriculture and the consumer.
-
-=== Rome wasn't built in a day
-
-Having discussed RF at a very theoretical level, what it will look like in practice is major question. Clearly, if an establishment set out to adopt all the principles discussed here, it would look far different from anything we have seen before.  That's exciting, but would it be successful?
-
-Thankfully, such questions never need arise in practice.  If a business owner felt such risk from making a sweeping change in their business model, then they could simply adopt the changes incrementally.  Freed from the arbitrary stigmas of a dynamic menu, business owners can explore different ingredients and dishes without committing to them.  It is fine to source from a nearby grower one day and then to use a distributor the next.  A vegetarian dish can be offered one day but not the next.  The RF consumer does not see deviations from a static menu as disorganization or mismanagement.  It is the opposite.  It is creativity, shrewd calculation at the level of the balance sheet and the recipe. 
-
-In truth, the idea of a business owner perfectly gauging the tastes of their clientele is a false notion, for consumer taste itself is a moving target.  Therefore, it is wonderful that RF businesses can iterate on their menu to develop dishes that appeal more to their customer base, but the important part is not that the businesses get a second chance but that we all get a second chance.  Vegetarian dishes may not sell well in the beginning but gain traction down the road.  Nor is this a matter only of chance.  Marketing has a long and successful history of influencing consumer behavior,and there is no reason to think anything is different this time.  To the extent that RF does offer new possibilities to consumers, one must assume that it will take time for the. it is  to hit the mark.  The important part is that the mark itself can change.  
-
-All of this is to say that the first twinklings of RF are likely to be rather anti-climatic.  And that is wonderful!  There is no real benefit for business owners to dive into uncertain waters when they could just as easily wade in slowly.
-
 Apart from the question of how a business owner
 A model that allows evolution and dynamism in the menu planning is eminently superior to a model with rigidity in menu planning.  
 
@@ -388,5 +369,6 @@ To have a variety of customizable, made-to-order meals available in under an hou
 
 [[[holden-circle]]]  Regenerating nature in a circular economy. https://youtu.be/VQaOBzBZ6us.  
 
+[[[sustain-profit]]] Unpicking food prices - Where does your food pound go, and why do farmers get so little?
 
 
