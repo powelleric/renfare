@@ -13,21 +13,23 @@ Blank section
 
 == What to have for dinner?
 
-It all started with a question that you are probably familiar with: “What should I have for dinner?”.  I wasn’t asking it any sense of food security, like whether I would have dinner at all.  No, this was more about what to choose amongst a multitude of options.  On the surface, it almost seems like a dream come true (and to many less fortunate it is), but in actuality it was marked by a note of frustration, frustration that even amidst a sea of options, none seemed to offer what I was looking for.
+It all started with a question that you are probably familiar with: “What should I have for dinner?”.  I wasn’t asking it any sense of food security, like whether I would have dinner at all.  No, this was more about what to choose among a multitude of options.  On the surface, it almost seems like a dream come true (and to many less fortunate it is), but in actuality it was marked by a note of frustration, frustration that even amidst a sea of options, none seemed to offer what I was looking for.
 
 The trouble I found was that I was always struggling to balance three factors: time, cost, and nutrition.  I wanted a quick, affordable and healthy meal, and it just wasn’t available.  If I prepared food at home, I could have a very healthy and affordable meal, but the time it would take was often more than I wanted to commit to, particularly on a weeknight when time was already scarce.  On the other hand, eating out (or getting food to-go) offered the perfect antidote for the time-starved, but it came at a severe compromise on the other fronts: the cheaper food was usually less nutritious and the more expensive food was, well, more expensive.  
 
-Over time, this very basic observation about food economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that plague modern society were linked to the lack of quick, affordable and healthy food.
+Over time, this very basic observation about home economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that plague modern society were linked to the lack of quick, affordable and healthy food.
 
-The second and equally captivating factor is that, in our current age of information technology, it seemed like there were more possibilities to address the issue than ever before.
+The second and equally captivating factor is that, in the current digital, it seemed that there were more possibilities to address the issue than ever before.
 
-_To bring that altogether in a more relatable way, if you have a busy schedule, are on a tight budget and also wanting to eat healthy (or worse, keep to a diet), you very well may find yourself in a precarious situation come dinner-time, and that realization was what initially captivated my interest in this topic.  Because the unfortunate truth is that that trio of conditions describes a great deal of Americans, and the ramifications of this little, innocent question about what to have for dinner are actually tied to some of the most serious health and environmental concerns of our day._
+ This little, innocent question about what to have for dinner are actually tied to some of the most serious health and environmental concerns of our day._
 
 _That in itself was not very interesting, but the fact that this problem affected so many other people and that it tied into so many serious health and environmental concerns is what really captivated me._
 
 == Opportunities for quick, affordable and healthy meals
 
 In a very real sense, to even suggest that a quicker, cheaper and healthier meal might be possible risks coming off as naive, even more so to suggest that it is possible without any dramatic intervention in the economy.  We all know the power of the free markets and their ability to deliver goods and services at competitive prices to meet virtually any imaginable desire.  And, surely, there is plenty of competition in today's food service industry as well as plenty of demand for quicker, cheaper and healthier food in society. Therefore, if the necessary market conditions exist and yet we do not see quicker, cheaper and healthier food being offered, then theory tells us that there is something else, some other constraint on the system, that is preventing the market from meeting the demand.
+ 
+ For example, some may argue that is is not possible because healthy ingredients are too expensive. (This is not the case but could be mistaken as such.) 
 
 Thus, when it comes to the question of creating dramatically quicker, cheaper and healthier food, many would say it's impossible, that you could not operate a business on such margins. They would point to the sophisticated logistics of just-in-time supply chains, the competition in the industry, and the ever-expanding offerings of "light" menu items as evidence that the full weight of the industry is already behind this effort.
 
@@ -41,7 +43,7 @@ We are caught in what is sometimes referred to as path dependency, a phenomenon 
 
 Ultimately, regardless of the forces driving it, path dependency manifests itself as a sociological phenomenon such that even individuals without any ties or investment in the existing practice will not attempt to alter it.  In other words, the practice persists because it is the accepted way of doing things, not because it is necessarily the best way, almost as though there were a collective blind-spot in the market.
 
-In what follows, I will make the case for the claims above, showing not only that quicker, cheaper and healthier food is possible but that it would have enormous benefits to society.
+ In what follows, I will make the case for the claims above, showing not only that quicker, cheaper and healthier food is possible but that it would have enormous benefits to society.
 
 == Spoiled for choice
 
@@ -57,16 +59,9 @@ These three factors, seemingly rather innocuous, shape the food service landscap
 
  Moreover, in limits the number of people that can be served (rate of sale) because each dish must be prepared individually no matter how many customers are waiting.  This also drives up the labor costs because while food that can be prepared in advance  prevents the operation some foods can be prepared in large quantities  vulnerable to waste of from dishes going cold. 
 
+ These three factors combine to severely limit the scale and efficiency of food service.  Were it just one of them, perhaps it could be balanced out by other considerations, but the wholesale embrace of this __modus operandi__ leaves no possibility of substantive change in the industry.
 
-
-
-=== Alternative ending
-
-These three factors combine to severely limit the scale and efficiency of food service.  Were it just one of them, perhaps it could be balanced out by other considerations, but the wholesale embrace of this __modus operandi__ leaves no possibility of substantive change in the industry.
-
-It is worth noting that there can be a great deal of interplay between these factors, so much so that one could quite convincingly argue that they are in fact a single phenomenon.  For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order can make sense if you have a variety of dishes and an unpredictable rate of sale.
-
-This, however, is more a statement of current food service than it is of any intrinsic relationship between these factors.  As will become apparent, each factor is very much an independent consideration despite the fact that they appear so interconnected in the industry today.
+ For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order can make sense if you have a variety of dishes and an unpredictable rate of sale.
 
 == Menu & supply chain
 
