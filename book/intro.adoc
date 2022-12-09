@@ -19,21 +19,25 @@ The trouble I found was that I was always struggling to balance three factors: t
 
 Over time, this very basic observation about home economics came to fascinate me as I realized that its effects were felt well past the personal frustrations of what to eat for dinner.  Reflecting on the state of health care, environmental sustainability and poverty (just to name a few), I was surprised to find how many of the problems that plague modern society were linked to the lack of quick, affordable and healthy food.
 
-The second and equally captivating factor is that, in the current digital, it seemed that there were more possibilities to address the issue than ever before.
+The second and equally captivating factor is that, in the current digital age, it seemed that there were more possibilities to address the issue than ever before.
 
  This little, innocent question about what to have for dinner are actually tied to some of the most serious health and environmental concerns of our day._
 
-_That in itself was not very interesting, but the fact that this problem affected so many other people and that it tied into so many serious health and environmental concerns is what really captivated me._
+ That in itself was not very interesting, but the fact that this problem affected so many other people and that it tied into so many serious health and environmental concerns is what really captivated me.
 
 == Opportunities for quick, affordable and healthy meals
 
-In a very real sense, to even suggest that a quicker, cheaper and healthier meal might be possible risks coming off as naive, even more so to suggest that it is possible without any dramatic intervention in the economy.  We all know the power of the free markets and their ability to deliver goods and services at competitive prices to meet virtually any imaginable desire.  And, surely, there is plenty of competition in today's food service industry as well as plenty of demand for quicker, cheaper and healthier food in society. Therefore, if the necessary market conditions exist and yet we do not see quicker, cheaper and healthier food being offered, then theory tells us that there is something else, some other constraint on the system, that is preventing the market from meeting the demand.
+ In a very real sense, to even suggest that a quicker, cheaper and healthier meal might be possible risks coming off as naive, even more so to suggest that it is possible without any dramatic intervention in the economy.  We all know the power of the free markets and their ability to deliver goods and services at competitive prices to meet virtually any imaginable desire.  And, surely, there is plenty of competition in today's food service industry as well as plenty of demand for quicker, cheaper and healthier food in society. Therefore, if the necessary market conditions exist and yet we do not see quicker, cheaper and healthier food being offered, then theory tells us that there is something else, some other constraint on the system, that is preventing the market from meeting the demand.
  
  For example, some may argue that is is not possible because healthy ingredients are too expensive. (This is not the case but could be mistaken as such.) 
 
-Thus, when it comes to the question of creating dramatically quicker, cheaper and healthier food, many would say it's impossible, that you could not operate a business on such margins. They would point to the sophisticated logistics of just-in-time supply chains, the competition in the industry, and the ever-expanding offerings of "light" menu items as evidence that the full weight of the industry is already behind this effort.
+ Barring any dramatic intervention in the economy, they would claim that you could not profitably operate such a business __on such margins__. 
 
-All of these things are true, but the argument is based on a flawed assumption: that (given sufficient time) the market will always find a way to supply a demand.  This is a pretty safe assumption for most things, but food is not most things.  
+When it comes to the question of creating dramatically quicker, cheaper and healthier food, many would say it's impossible.  They would point to the sophisticated logistics of just-in-time supply chains, the competition in the industry, and the ever-expanding offerings of "light" menu items as evidence that the full weight of the industry is already behind this effort.
+
+It is not that these dynamics are false, but the assumption that such industry dynamics always lead to an optimal economy is. While some commodities may be guided toward efficient production by the "invisible hand" of the free markets, food is not one. 
+
+ All of these things are true, but the argument is based on a flawed assumption: that (given sufficient time) the market will always find a way to supply a demand.  This is a pretty safe assumption for most things, but food is not most things.  
 
 For one thing, food, or more specifically, the value of food, is a highly subjective measure.  It is intertwined with culture, causing some foods to be valued higher due to tradition.  Even within the same person, the value placed on a certain type of food is far greater when they are craving it versus 20 minutes after they have eaten it. 
 
@@ -47,15 +51,17 @@ Ultimately, regardless of the forces driving it, path dependency manifests itsel
 
 == Spoiled for choice
 
-If the ultimate goal of this book is to change the reader's perception of the existing food service landscape, then there is no better way to start than to juxtapose it with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several important characteristics.
+If the ultimate goal of this book is to change the reader's outlook of the possibilities for quick, cheap and healthy food in food service, then there is no better way to start than to juxtapose conventional food-service with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several important characteristics.
 
 The foremost characteristic is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food service industry, in which each person is able to choose from many different items.
 
 The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
 
-Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have a static menu, with the same dishes on the menu for years. This is ingrained in the business model and encourages restaurants build their brand around certain dishes and types of cuisine.
+Finally, a soup kitchen freely varies its menu in response to cost and availability of ingredients. On the other hand, most restaurants have the same menu with the same dishes for years. This is ingrained in the business model and encourages restaurants build their brand around certain dishes and types of cuisine.
 
-These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  To get a better understanding of the dynamics, the following sections will consider their role in some common food service scenarios.  This will also serve as an opportunity to introduce some of the issues that have arisen as a consequence.
+These three factors, seemingly rather innocuous, shape the food service landscape in surprising and far-reaching ways.  They will be referred to as the static menu business model.  
+
+ To get a better understanding of the dynamics, the following sections will consider their role in some common food service scenarios.  This will also serve as an opportunity to introduce some of the issues that have arisen as a consequence.
 
  Moreover, in limits the number of people that can be served (rate of sale) because each dish must be prepared individually no matter how many customers are waiting.  This also drives up the labor costs because while food that can be prepared in advance  prevents the operation some foods can be prepared in large quantities  vulnerable to waste of from dishes going cold. 
 
@@ -63,10 +69,71 @@ These three factors, seemingly rather innocuous, shape the food service landscap
 
  For example, the allowance of customization is not a very big sacrifice if you are already preparing a dish to order.  And, in turn, preparing each dish to order can make sense if you have a variety of dishes and an unpredictable rate of sale.
 
+== Why static menu dislikes fresh produce
+
+This section will explore the motivating forces behind the static menu business model and how fresh produce figures into the picture.
+
+ In particular, it It has been noted that static menus do not incentivize the use of fresh produce. This section explores this phenomenon through a chain of cause-effect relationships.
+
+The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change.
+
+The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Things are predictable.
+
+Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same amount from day-to-day; Most goods behave in this manner.
+
+Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower (for a bargain) in-season and getting it from half-way around the world a few months later.
+
+In theory, there is no reason why the menu items couldn't vary in price along with the produce. However, this flies in the face of the static-menu mindset. Recall, the motivating force behind the static-menu is simplicity and predictability, but changing the price of each dish according to the market rates of its constituent ingredients is far from trivial.
+
+ It would first require calculating the price - surely entailing a spreadsheet, at minimum - then the price change must be updated on the menu, and still the customer would not know any of this until visiting. And then how often would this need to be done?
+
+One might argue that you could simply average of cost of the produce for the year and then keep the price consistent. In practice, this is likely to be rather difficult.  First off, the price cannot be perfectly predicted. A cursory look at commodities markets should convince anyone of that. Second, the more perishable and seasonal the ingredient, the more it can be affected by aberrations such as natural disasters. Finally, if there is any seasonality in the sales of the food, then that too must be predicted and incorporated in the calculation. 
+
+After all this, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year relative to the price of produce (and complicating financial analyses).
+
+Therefore, to achieve the final piece of the static menu business model, a consistent price, fresh produce is marginalized because it represents financial uncertainty and complexity. 
+
+=== Always in stock
+
+Another hallmark of the static menu business model is that all items are always in stock.  Of course, this is desirable for a consumer because they never have to worry that their favorite dish will be sold out. It can even risk giving the impression of a poorly run establishment if menu items are sold out. 
+
+But to keep all items in stock means having sufficient inventory at all times for your highest possible sales.  This may be a trivial requirement or a crushing burden depending on the model of the restaurant.  The two key factors that determine the impact are 1) how perishable the ingredients are and 2) how many items are on the menu.
+
+We have already established that the static menu almost always offers a variety of different dishes.  Therefore, the only way for it to achieve the "always available" component of the business model, is to favors meat and grains and other processed ingredients, which are less perishable than fresh produce. This translates into less waste when sales aren't at their peak. As an added benefit, meat, grains and other processed foods tend to be more nutrient dense, meaning less storage space is required for the excess inventory.
+
+== Prep times
+
+The situation gets worse when we compare fresh produce to its alternatives  in terms of preparation.  It has been noted that the static menu favors dishes that are prepared-to-order.  Moreover, the variety of dishes on the menu makes it quite difficult to predict exactly what will be ordered. Therefore, preparation time is of the utmost importance for such an establishment.
+
+Dishes that do not rely on fresh produce often can leverage processed ingredients to yield quick preparation times. This may mean pre-seasoned, pre-portioned, ready-to-cook, pre-cooked or any number of conveniences.
+
+By contrast, fresh produce can entail extensive preparation, requiring things like washing and peeling before even beginning to cook. And with cooking times that can be often be much longer. 
+
+== Processed foods more tasty
+
+A related topic to preparation time is the recipe itself. It is more difficult to prepare dishes with fresh produce than with processed foods because the latter are industrially engineered to be hyper-palatable. This is not to say such food is the pinnacle of cuisine (nor that it is healthy), but it is can certainly tantalize the taste-buds with its high levels of sugar, sodium and refined ingredients.  As noted, it's preparation time is usually quick and does not involve complicated or labor intensive steps. In this sense, processed foods offers a shortcut for establishments who are not up to the task of scratch cooking.
+
+=== Customized food
+
+A curious characteristic that is often found with the static menu is the concept of customizing one's dish.  Most establishments will allow modifications to the dish and some even encourage it.
+
+It would seem that for a business model craving simplicity and clinging to a fixed set of dishes that allowing modifications to the dishes invites unneeded complexity.  On the other hand, it is easy to rationalize that since each dish is prepared to order that it takes a negligible amount of time to add or remove a given ingredient. (Also, it allows a fixed set of dishes to appeal to a wider audience.)
+
+While this may be true, there are still other negative factors. First, it further inhibits the ability to predict what will be ordered. Second, it slows down the ordering process. Third, it opens up a minefield of issues with customers not getting the customizations they ordered (either because the staff forgot do it or perhaps because the customer thinks they asked for something they did not). Fourth, it adds cognitive overhead to the cook having to handle all the customizations.
+
+So, while some establishments serving some dishes may be able to accommodate some customizations without much suffering, it will rarely scale at the level RF aspires to.
+
+
+ At the minimum this usually means that the ingredients have been pre-portioned This may mean that they include preservatives or are pre-cooked. o meat, grains and processed ingredients often leverage processing can come directly out of the packaging, ready to cook and with a quick cook time  
+
+ Not really a tipping point
+The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
+
+ This marks the point where we are firmly on the road to healthy, affordable and convenient food service.  Up until this point, the principles discussed (e.g. efficiency) could be applied to any food service, but it is the application of these principles in order facilitate the use of fresh produce that represents the beginning of possibilities in the new paradigm. 
+
 == Menu & supply chain
 
-Most restaurants in America have a menu with a variety of items and it stays mostly the same year after year. This is what will be referred to as a static menu.  __This is the concept of the static menu that was introduced earlier.__
-- This intent is evident in fancy menus with photography and professional printing; They intend to keep the menu the same for a while.
+Most restaurants in America have a menu with a variety of items and it stays mostly the same year after year. This is what will be referred to as a static menu. 
 
 The static menu is popular because it facilitate a simple business strategy: specializing in a handful of dishes. The inventory and the recipes are always the same and customers know what to expect. It makes the business manageable at a very small scale, even with just a single person.
 
@@ -130,44 +197,5 @@ Another advantage of an RF restaurant is that is relies on prepare-in-advance di
 
  Businesses will still need a distributor for other things and the extra time it takes to arrange a separate order for a couple of local ingredients can be a deal-breaker __barrier to the entire transaction__.
 
-== Why static menu dislikes fresh produce
-
-It has been noted that static menus do not incentivize the use of fresh produce. This section explores this phenomenon through a chain of cause-effect relationships.
-
-The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change.
-
-The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Things are predictable.
-
-Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same from day-to-day; Most goods behave in this manner.
-
-Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower for a bargain in-season and getting it from half-way around the world a few months later.
-
-In theory, there is no reason why the menu items couldn't vary in price according to their constituent ingredients. However, this flies in the face of the static-menu mindset. Recall, the motivating force behind the static-menu is simplicity and predictability, but changing the price according to market rates is far from trivial. It would first require calculating the price - surely entailing a spreadsheet, at minimum - then the price change must be updated on the menu, and still the customer would not know any of this until visiting. And then how often would this need to be done?
-
-One might argue that you could simply average of cost of the produce for the year and then keep the price consistent. In practice, this is likely to be rather difficult.  First off, the price cannot be perfectly predicted. A cursory look at commodities markets should convince anyone that prices are far from predictable. Second, the more perishable and seasonal the ingredient, the more it can be affected by aberrations such as natural disasters. Finally, if there is any seasonality in the sales of the food, then that too must be predicted and incorporated in the calculation. 
-
-Finally, should the business owner succeed in perfectly averaging out the cost of ingredients over the year, all they will have achieved is consistency for the consumer.  Indeed, to the extent that they stabilize the cost to the consumer, it is their own finances that are the buffer, resulting in fluctuating profit margins throughout the year and complicating financial analyses.
-
-Therefore, to achieve the final piece of the static menu business model, a consistent price, fresh produce is marginalized because it represents financial uncertainty and complexity. 
-
-=== Always in stock
-
-Another hallmark of the static menu business model is that all items are always in stock.  Of course, this is desirable for a consumer because they never have to worry that their favorite dish will be sold out. It can even risk giving the impression of a poorly run establishment if menu items are sold out. 
-
-But to keep all items in stock means having sufficient inventory at all times for your highest possible sales.  This may be a trivial requirement or a crushing burden depending on the model of the restaurant.  The two key factors that determine the impact are 1) how perishable the ingredients are and 2) how many items are on the menu.
-
-We have already established that the static menu almost always offers a variety of different dishes.  Therefore, to achieve the "always available" component of the business model, the static menu favors meat and grains and other processed ingredients, which are less perishable than fresh produce. This translates into less waste when sales aren't at their peak. As an added benefit, meat, grains and other processed foods tend to be more nutrient dense, meaning less storage space is required for the excess inventory.
-
-== Prep times
-
-The situation gets worse when we compare fresh produce to meat and grains in terms of preparation.
-
-== The tipping point
-
- Not really a tipping point
-The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
-
 The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
-
-This marks the point where we are firmly on the road to healthy, affordable and convenient food service.  Up until this point, the principles discussed (e.g. efficiency) could be applied to any food service, but it is the application of these principles in order facilitate the use of fresh produce that represents the beginning of possibilities in the new paradigm. 
 
