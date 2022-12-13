@@ -111,6 +111,10 @@ We have already established that the static menu almost always offers a variety 
 
 The situation gets worse when we compare fresh produce to its alternatives  in terms of preparation.  It has been noted that the static menu favors dishes that are prepared-to-order.  Moreover, the variety of dishes on the menu makes it quite difficult to predict exactly what will be ordered. Therefore, preparation time is of the utmost importance for such an establishment.
 
+ Another common characteristic of the food service industry is a menu of prepared-to-order food.  Indeed, preparing food to order is often seen as a symbol of quality in the operation. Furthermore, preparing food to order often offers the opportunity to customize the dish. 
+
+ The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
+
 Dishes that do not rely on fresh produce often can leverage processed ingredients to yield quick preparation times. This may mean pre-seasoned, pre-portioned, ready-to-cook, pre-cooked or any number of conveniences.
 
 By contrast, fresh produce can entail extensive preparation, requiring things like washing and peeling before even beginning to cook. And with cooking times that can be sometimes be much longer. 
@@ -160,9 +164,6 @@ __, which is in turn passed on to the consumer__ __doesn't mean that they are in
 
 == Plan to fail or plan to scale
 
-Another common characteristic of the food service industry is a menu of prepared-to-order food.  Indeed, preparing food to order is often seen as a symbol of quality in the operation. Furthermore, preparing food to order often offers the opportunity to customize the dish. 
-
-The consequences of preparing food to order come in the form of scale and efficiency.  Because each dish must be prepared individually, there is very little drop in marginal labor cost when preparing larger quantities.  Nor is it quick to prepare such food in large quantities, sometimes leading to long waits.  This is exacerbated by consumers having the option to customize their dishes, meaning that even when multiple orders for the same dish are received, the cook may not be able to make a bigger batch due to relatively minor things like differing spice levels or protein selection.
 
 Compare this to a restaurant with a single, ready-to-serve dish. There is no comparison, so to speak. This approach is so much more efficient that it not only has the potential for massive reductions in marginal cost, it also does not suffer from long waits at peak times because, by definition, the food requires minimal prep before serving and there is no question about what will be ordered nor customizations to it. 
 
