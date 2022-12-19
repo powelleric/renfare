@@ -2,7 +2,7 @@
 id: mv7lmtq8oa91q4dbikunoqs
 title: Industrial Equipment
 desc: ''
-updated: 1670958251740
+updated: 1670966024045
 created: 1670953987330
 ---
 Food service can be construed as lacking major investment in equipment.  Many kitchens prepare food with equipment that is hardly more efficient than what the home chef might use.  The frying pan still carries the load in most.
@@ -17,7 +17,7 @@ For society, struggling against an epidemic of poor diet and down-right food ins
 
 In doing so, it is important not to naively assert that adopting industrial scale production is as simple as buying a bigger soup pot. For starters, the pot might not fit; Retails store-fronts have much smaller areas than where you would normally find such equipment.
 
-This may seem like a deal-breaker, 
+This may seem like a deal-breaker, but because ready-to-serve food does not suffer from being prepared in advance, there is no requirement that the food preparation be co-located with the serving of the food.  In other words, it is possible to move the preparation off-site to a more commercial/industrial location more suited to the equipment requirements.  This is especially attractive because industrial property is cheaper than retail store fronts.  Therefore, the business can separate its concerns and pay only for the neccessary.  
 
 Ultimately, it is the same 
 The 

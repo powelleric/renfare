@@ -1,8 +1,8 @@
 == Why it matters
 
-Thus far, the discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level. Notably, these possibilities arise not from technical innovation or government interventions, but from the design of the business model itself.
+Thus far, the discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level. Notably, these possibilities arise not from technical innovation or government interventions, but from the business model itself.
 
-Having established that quick, cheap and healthy food (at least in some form) is a possibility, the bigger question becomes why that matters. After all, there are a lot of things that we could be doing better as a society, especially if we consider them as theoretically as we are now considering food service. Is food service a worthwhile cause for this level of consideration?
+Having established that quick, cheap and healthy food (at least in some form) is a possibility, the bigger question becomes why that matters. After all, there are a lot of things that we could be doing better as a society, especially if we consider them as theoretically as we are now considering food service. Is food service a worthwhile cause?
 
 The answer is a resounding "yes". There is much more at stake than what it appears. Because the impacts are so far-reaching, you may not realize how much is at stake.
 
@@ -35,11 +35,41 @@ It is also perfect that RF acts via financial incentives because this means that
 
 === Farm economics
 
-The farmer was introduced in the context of the static menu and it was noted that transaction costs made farmer-direct produce not attractive to the static menu. What was not discussed is that high transaction costs are also incurred by the farmer in this arrangement. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
+The static menu serves the same dishes day in and day out. It was noted that, because fresh produce is seasonal, its price fluctuates throughout the year. It has been noted that this volatility discourages the use of fresh produce in the menu.
 
-Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for XX.
+This statement about business concerns is notable because of the implicit assumption that the ingredients will be available year-round despite their inherent seasonality. In effect, asserting that seasonality is only a matter of cost and not actually a question of availability. However true this may be, it is not to be taken for granted, for it carries with it tremendous ramifications.
+
+The reason we can so casually assume that ingredients will be available year-round is due to a vast network of wholesalers, distributors and other food intermediaries. By sourcing from growers in different in different geographic regions, these intermediaries can offer a consistent supply of (otherwise seasonal) ingredients.
+
+Ultimately, it is this assurance of availability that makes the concept of the static menu feasible.  However, the benefits extend well past that. Distributors also serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them. This is convenient for the static menu, which offers many dishes and hence requires many ingredients.
+
+ It was noted that the static menu is not incentivized to incorporate fresh produce into its dishes. This results in a menu with a variety of dishes, each minimally incorporating fresh produce.
+
+Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for years.
+
+With these dwindling profits now threatening the very livelihood of the farmers - and with that, the nation's food security - some have called for regulation of the markets to ensure that farmers receive a bigger portion of the proceeds.  They argue that the power dynamics of the market leave the farmer at a disadvantage against the food intermediaries they sell to. 
+
+While this assessment of a power imbalance may be well founded, the proposal to address the issue via regulation of the markets raises a second and equally valuable insight: that the farmers have no one else to sell to. For if there were, then the farmers would simply have chosen to do business with them.
+
+Within this context, it is clear that RF offers something both very powerful and unforeseen: a new buyer. While the conventional static menu cannot fathom such an arrangement, the RF principles make it significantly more feasible.
+
+
+Obviously, the conventional stat
+
+has the potential to impact the farm profit offers a d
+
+
+In regards to food service, the 
+More specifically, the reason that farmers rarely
+
+sell to  (or different incentives)
+Critically, this assessment assumenot only addresscaptures two is not based solely on the observation only implies an imbalance
+
+Notwithstanding the imbalance between the farmer and the intermediaries, the 
 
 Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
+
+The farmer was introduced in the context of the static menu and it was noted that transaction costs made farmer-direct produce not attractive to the static menu. What was not discussed is that high transaction costs are also incurred by the farmer in this arrangement. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
 
 In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes in the context of the new food paradigm, and increasing the profits of farmers is only the beginning of that.
 

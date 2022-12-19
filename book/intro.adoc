@@ -79,7 +79,7 @@ This section will explore the motivating forces behind the static menu business 
 
  Where the static menu falls short is in relation to fresh produce. 
 
- In particular, it It has been noted that static menus do not incentivize the use of fresh produce. This section explores this phenomenon through a chain of cause-effect relationships.
+
 
 The initial driver comes from the desire for a simple business model. A static menu means that the establishment can specialize in a handful of dishes. Menu-planning occurs once in the beginning, rather than being an ongoing task. By extension, the marketing and sales strategies need not change since the product does not change.
 
@@ -134,7 +134,7 @@ While this may be true, there are still other negative factors. First, it furthe
 Thus, while some establishments serving some dishes may be able to accommodate some customizations without much suffering, it will rarely scale at the level RF aspires to.
 
 
- This may mean that they include preservatives or are pre-cooked. o meat, grains and processed ingredients often leverage processing can come directly out of the packaging, ready to cook and with a quick cook time  
+ This may mean that they include preservatives or are pre-cooked. o meat, grains and processed ingredients often leverage processing can come directly out of the packaging
 
  Not really a tipping point
 The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
@@ -144,8 +144,10 @@ The previous section introduced a tipping-point, the point at which a restaurant
 == Menu & supply chain
 
 
- A given ingredient will only be in season for part of the year, so in order to keep the menu consistent, restaurants must rely on distributors that can source ingredients from different parts of the globe. 
+ Farm economics
+ A given ingredient will only be in season for part of the year, so in order to keep the menu consistent restaurants must rely on distributors that can source ingredients from different parts of the globe. 
 
+ Farm economics
 This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors often serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them.
 
 The catch is that produce sourced from a different part of the world is not the same as locally-grown produce; It is likely to be more expensive and less fresh.
@@ -154,7 +156,7 @@ __At the minimum, there are the costs of transport, sometimes called "food miles
 
 Neither is the trouble over once the produce is in hand.  Spoilage is a big factor in restaurants and the static menu prevents changing the menu or the price, leaving restaurants with little means to combat impending spoilage.
 
-In summary, fresh produce introduces variability in cost and quality into the static menu business model.  Moreover, the static menu leaves little opportunities to adapt to the variability. Thus, on a theoretical level, we would expect the role of fresh produce to be minimized/limited in static menus. This is consistent with what is observed in reality in which processed ingredients form the bulk of what is served.
+ In summary, fresh produce introduces variability in cost and quality into the static menu business model.  Moreover, the static menu leaves little opportunities to adapt to the variability. Thus, on a theoretical level, we would expect the role of fresh produce to be minimized/limited in static menus. This is consistent with what is observed in reality in which processed ingredients form the bulk of what is served.
 
 
  the convenience of obtaining an off-season ingredient comes at an added cost.  Moreover, this cost fluctuates throughout the year. Combined with concerns of spoilage, these factors discourage the use of fresh produce in a static menu.__
