@@ -79,25 +79,9 @@ Argument for illegal immigrants is that cannot pay a good wage and simultaneousl
  If the increased cost of labor translates to higher costs of fruits and vegetables then that makes it harder to provide healthy food.
 
 
-== Rehabilitating our kitchens
+include::renaissance/regenerative_agriculture.adoc[]
 
-Years of menu-based, prepared-to-order food service have ravaged our kitchens. The relentless pressure to deliver freshly prepared food as fast as possible has created a truly dysfunctional culture of stress and strain.
-
-That so many of us dine out regularly and yet take this fact for granted is a testament to the insidiousness of the culture that has taken hold. 
-
-Indeed, it is at the higher-end, gourmet restaurants that this dysfunction is most pronounced. Consider the recent peer-reviewed study entitled _Alcohol and other drug use in Michelin-starred kitchen brigades_. The highlights from the very first page of article should be enough to give everyone pause:
-
-* Alcohol and other drug (AOD) use appear to be part of the everyday life in Michelin-starred kitchen brigades in Britain and Ireland.
-
-* AOD were found to be used as a means of self-medication and as a coping strategy for most chefs regardless their ranking.
-
-* Alcohol is used to unwind after work and cope with the harsh working environment.
-
-* Drugs and other substances are mainly used to maintain or improve performance. 
-
-That these findings come from the most prestigious establishments in the world implies that this situation arises not for lack of money or expertise.  It cannot be dismissed as a symptom of the low socio-economic standing of the chefs themselves, much less the diners.  It is quite simply a dysfunctional culture of its own creation.  
-
-The idea that this arose from within industry itself is an important realization because it underscores the fact that this dysfunctional system is often rewarded and is seen as a necessary sacrifice, the price of working at the world's finest kitchens.
+include::renaissance/kitchen_rehab.adoc[]
 
 === Misc
 
@@ -111,17 +95,7 @@ The farmer was introduced in the context of the static menu and it was noted tha
 
 Yet at the same time, there are marked anomalies to this pattern. Australian study found that healthy food was 17% cheaper than unhealthy. How not to diet notes that commodities such as beans have razor-thin margins and are often sold as loss-leaders.
 
-== Intensive agricultural practices, "Mass-produced produce"
 
- Another effect of commodification is that it offers farmers an (effectively) unlimited market. They have confidence in being able to sell what they produce, even if they produce a lot of it, because they can reach consumers in other regions.
-
-To maximize their earnings potential in the commodities market, farmers are incentivized to produce ever larger quantities of a select few ingredients. As already noted, this is not consistent with the laws of nature, and in order to achieve this they must adopt intensive agricultural practices.
-
-While effective at producing high-yields, these practices are often destructive. Farms that use intensive agricultural practices have much higher rates of soil degradation. Neighboring regions can be impacted by fertilizer runoff and pesticide spray. These practices cause in soil destruction this is clearly evident in the quality of the said farmland.
-
-
-enjoy massive reductions in marginal cost per dish
-- Benefit from different equipment e.g. larger pots, ovens, etc.
 - Not as vulnerable to short-term labor fluctuations like someone calling in sick.
 
 include::home_economics.adoc[]
@@ -305,18 +279,3 @@ What follows is a business concept that aims to address this very issue and so m
 To have a variety of customizable, made-to-order meals available in under an hour at virtually all hours of the day is a luxury. It is simply not at all frugal or resourceful. 
 
 [1] Perceived variety and the idea of many items derived from one base ingredient allowing many items to be made, like with pizza.
-
-[bibliography]
-== References
-
-[[[5]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Food Spending of Middle-Income Households Hardest Hit by the Great Recession. https://www.ers.usda.gov/amber-waves/2018/september/food-spending-of-middle-income-households-hardest-hit-by-the-great-recession/
-
-[[[6]]] Clare Cho, Jessica E. Todd & Michelle Saksena. Putting Business to Work for Health - Incentive Policies for the Private Sector. ChangeLab Solutions.
-
-[[[yale]]]  The State of Regenerative Agriculture: Growing With Room to Grow More. Cortney Ahern Renton, Claire Huntley Lafave, Kathryn Sierks.  March 24, 2020. https://conservationfinancenetwork.org/2020/03/24/the-state-of-regenerative-agriculture-growing-with-room-to-grow-more
-
-[[[holden-circle]]]  Regenerating nature in a circular economy. https://youtu.be/VQaOBzBZ6us.  
-
-[[[sustain-profit]]] Unpicking food prices - Where does your food pound go, and why do farmers get so little?
-
-
