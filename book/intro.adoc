@@ -53,6 +53,15 @@ Ultimately, regardless of the forces driving it, path dependency manifests itsel
 
 If the ultimate goal of this book is to change the reader's outlook of the possibilities for quick, cheap and healthy food in food service, then there is no better way to start than to juxtapose conventional food-service with with the depression-era soup kitchen.  While this is not the vision for modern day food service, it serves to highlight several important characteristics.
 
+ In a very real sense, to even suggest that a cheaper, healthier meal might be readily available risks coming off as naive.  We all know the power of the free markets and their ability to deliver goods and services to meet virtually any imaginable desire.
+
+ The canonical value-oriented restaurant is the soup kitchen. Known from the depression years, soup kitchens are society's response to difficult times.
+
+ Perhaps it is a desire to push the memory of these difficult times into the past that keeps us from recognizing the lessons they can teach us even in more fortunate times.
+
+ The soup kitchen format is eminently efficient. Born of tough times, when food was a matter of survival, the soup kitchen was the social intervention tasked with closing the gap.
+
+
 The foremost characteristic is the fact that everyone eats the same dish at a soup kitchen.  This is not too different from how many families eat at home, but it is almost the complete opposite of the food service industry, in which each person is able to choose from many different items.
 
 The second most important characteristic of a soup kitchen is that the food is not prepared to order.  Again, this contrasts sharply with the food service industry in which there is almost an implicit expectation that the food will be prepared to order.  Indeed, some restaurants boast of how each dish is prepared-to-order, believing that it serves as a mark of quality in their operation.
@@ -132,6 +141,14 @@ It would seem that for a business model craving simplicity and clinging to a fix
 While this may be true, there are still other negative factors. First, it further inhibits the ability to predict what will be ordered. Second, it slows down the ordering process. Third, it opens up a minefield of issues with customers not getting the customizations they requested (either because the staff forgot do it or perhaps because the customer thinks they asked for something they did not). Fourth, it adds cognitive overhead to the cook having to handle all the customizations.
 
 Thus, while some establishments serving some dishes may be able to accommodate some customizations without much suffering, it will rarely scale at the level RF aspires to.
+
+- Customizations are a way of upselling, maximizing the current sale.  
+
+ These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements. 
+
+
+
+ A common theme is the food service industry is the customization of your dish.  Restaurants offer all manner of add-ons and substitutions to cater to a variety of different preferences and dietary needs.
 
 
  This may mean that they include preservatives or are pre-cooked. o meat, grains and processed ingredients often leverage processing can come directly out of the packaging

@@ -12,7 +12,31 @@ Food service is thrust into the driver's seat by RF. It must straddle two comple
 
 === Food service must rise to the occasion
 
-==== The hero we deserve
+== Homogenized food supply
+
+The static menu has a profound influence on agricultural practices. At a very fundamental level, it can be said that the static menu is at odds with nature; It seeks a steady stream of select ingredients, something that goes against the dynamic and seasonal nature of life. 
+
+Recall that a static menu demands access to certain fresh produce year-round. To efficiently provide this, the market seeks to grow the same item in various parts of the world. That way, the item can be freely traded and mixed in the wholesale and distribution channels. This is the essence of a commodities market.
+
+There can be no doubt about the efficiency of the market for those items. However, this has the side-effect of making the market for other less-commodified items appear relatively less robust. Thus, farmers will choose what to grow and even what varieties to grow based on the relative strength of the underlying commodity market. This has the effect of homogenizing of food supply because specialized or niche crops will always have a weaker (and thus riskier) market.
+
+ Another effect of commodification is that it offers farmers an (effectively) unlimited market. They have confidence in being able to sell what they produce, even if they produce a lot of it, because they can reach consumers in other regions.
+
+== Irregularities
+
+Another problem with highly commodified produce is the waste of irregularly shaped items. One might think that these identically-tasting discounted items would be a desirable commodity, but evidence suggests otherwise.
+
+First, it is important to discuss the nature of the irregular items. These are perfectly edible items that don't have the typical shape of that item. This can be undesirable from several aspects. First, the ratio of edible portion may be lower (e.g. more skin to peel off). Second, the preparation may be inconvenient or incompatible. For example, it may be difficult to cut it into cubes or to get adequately thick slices. Finally, it may be aesthetically unpleasing for the consumer, particularly if it is served in whole form. Therefore, it is clear that even though they may taste the same, irregular produce __does__ have some negative aspects.
+
+Thus, although irregularity in produce is never a desirable characteristic, exactly how bad it is is a function of the way it is prepared, with some forms of preparation not suffering in the slightest.
+
+In such a situation, the static menu leaves no opportunity for capitalizing on the discounted produce. It cannot adapt the menu to preparations that aren't affected by the irregularity nor can it adapt the menu to feature greater portions of the discounted item. 
+
+ RF is inherently opportunistic. It does not seek to control what and when, instead it recognizes that a suitably adaptable operation can make the best the best of whatever is available. 
+ 
+ Again, because the market seeks a uniform supply that can be freely traded, items with irregularities are seen as breaking the uniformity of the supply and are discarded or downgraded. This is a heavy-handed approach towards dealing with a relatively minor inconvenience.
+ - what is the problem with downgrading? waste is the issue
+
 
 Not that it is their fault or that they are somehow more responsible, it is that they are in a strategic position from which to address.  
 
@@ -29,3 +53,5 @@ In truth, the idea of a business owner perfectly gauging the tastes of their cli
 All of this is to say that the first twinklings of RF are likely to be rather anti-climatic.  And that is wonderful!  There is no real benefit for business owners to dive into uncertain waters when they could just as easily wade in slowly alongside the consumer.
 
 A model that allows evolution and dynamism in the menu planning is eminently superior to a model with rigidity in menu planning.  
+
+==== The hero we deserve
