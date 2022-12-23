@@ -83,6 +83,11 @@ include::renaissance/regenerative_agriculture.adoc[]
 
 include::renaissance/kitchen_rehab.adoc[]
 
+=== Short chains, long links
+
+It's not about local it's about short chains.  But short chains are more easily formed.
+
+
 === Misc
 
 Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
