@@ -1,10 +1,82 @@
 == Food waste 
 
-The consumer wastes much more than retail. Does that indicate there is a lot of room for improvement there? Maybe not. Means the consumer is overwhelmed.
+Food waste is a major issue in America.
 
+ It is estimated that up to 40% of food is wasted <<wasted-nrdc>>.
+
+The consequences come not just in the form of higher food prices but also environmental strain from the fertilizers and fossil fuels used in producing the unused goods.
+
+In 2012, the Natural Resources Defense Council published __Wasted__, a landmark document chronicling the food waste in the US. It systematically examined food waste in every step of the supply chain and the relative rates of waste of different food types. 
+
+ found which foods were being
+
+It found that up to 40% of food is wasted. 
+
+Along with their exhaustive food waste analysis, they provide a veritable laundry-list of food waste remedies.
+
+
+From telling your friends about the importance of food waste to standardizing food waste metrics in the federal government, opportunities to reduce food waste abound.
+
+While it provides an extensive list of remedies, it does not compare the relative merits of these remedies. In particular, several principles of RF are touched upon but their potential within RF and relative to other solutions warrants discussion.
+
+Following the same pattern of supply chain dissection as __Wasted__, 
+RF techniques to reduce food waste will be presented and contrasted with other alternative solutions.
+
+=== Consumer
+
+According to "Wasted", the consumer represents the largest source of waste in the food system. It also notes that "[b]ecause it has undergone more transport, storage, and often cooking, throwing food away at the consumer level has a larger resource footprint than at any other point of the food chain."
+
+Given the high impact of waste in this area, it is an important focus for any food waste reduction effort.  However, this does not mean that improvements in this area are readily achievable, and more importantly, it does not mean that the consumer is necessarily an effective agent of such change.
+
+The second point is critical. On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
+
+While it is certainly true that the consumer plays a principal role in consumer-level food waste, they are not the only party capable of influencing it.  In particular, RF has great potential to reduce waste.  However, before discussing the potential of RF, the potential of the existing remedies must be discussed.
+
+The trouble isn't that the consumer is blameless or even that the consumer is ignorant.  Instead, I would argue that the greatest challenge of the existing remedies is they place too great of a burden on the consumer. This point is briefly touched upon in Wasted where they note that "time constraints and inconvenience can exacerbate the problem."  However, because Wasted stops short of examining the potential of the various remedies, the significance of these time constraints may not be apparent.
+
+In reality, the cost of adopting many of the consumer-focused reduction efforts is considerable.  For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain constant during the shopping.  Notice something on sale?  Too bad.  Deviation from your plan is a risk factor for food waste.
+
+A second example of a consumer-focused food waste remedy is buying items in smaller quantities. 
+
+ The logic behind this remedy is appealing but ultimately proves too reductive. 
+
+The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of large quantities, which contributes to over-purchasing.  __Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  
+
+There are several challenges with this approach.  Finally, it is worth while to note that the greatest proportion of food waste comes from produce, which is a type of product in which consumers are often able to select items individually.  Therefore, perfectly choosing quantities is far from a silver-bullet in terms of waste reduction.
+
+
+They conclude that   impairs the ability of consumers to buy what exactly the amount they need.  these sizes can often be larger than what is actually consumed.  this consumer   overly reductive.  It notes that is simProponents of this solution note that 
+
+
+Even the framing of the matter with the term "inconvenience" seems to minimize the true cost of what is being asked of the consumer. 
+
+
+
+cost to the consumer, in  The trouble is that in deciding whether the consumer is re that the 
+
+
+Intuitively, one would expect that 
+
+is not considered.  when unified under the umbrella of RF 
+
+ effectiveness of these principles
+
+ there are opportunities at every conceivable level and with every imaginable stakeholder.  
+
+Within this list of potential remedies, several RF principles are touched upon.
+
+Also included in these remedies are several. in them are several principles of RF.  
+
+report also provides an extensive list of remedies.  
+
+ provides a near-exhaustive examination of where food is wasted, the consequences of that waste and the remedies that are available.
+
+The consumer wastes much more than retail. Does that indicate there is a lot of room for improvement there? Maybe not. Means the consumer is overwhelmed.
 
 RF could create food scraps that are not heavily processed, containing preservatives, etc.  More useful in a circular economy.
 
 Farming is too speculative. Crop prices change, etc.  A CSA model removes a great deal of the speculation.  Also, food service serves as a direct conduit of consumer preference. The intermediaries buy speculatively based on price.  Food service buys to use it directly. Better gauge of usage than commodities markets.
 
+=== Consumer bias
 
+A great benefit of seeking food waste reductions via food service is that the consumer does not reliably estimate their food waste.  They have no systematic way of tracking the multitude of items in their kitchen.
