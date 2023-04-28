@@ -9,8 +9,6 @@
 ** processed foods, subsidies and marketing
 
 
-Blank section
-
 == What to have for dinner?
 
 It all started with a question that you are probably familiar with: “What should I have for dinner?”.  I wasn’t asking it any sense of food security, like whether I would have dinner at all.  No, this was more about what to choose among a multitude of options.  On the surface, it almost seems like a dream come true (and to many less fortunate it is), but in actuality it was marked by a note of frustration, frustration that even amidst a sea of options, none seemed to offer what I was looking for.
@@ -25,7 +23,7 @@ The second and equally captivating factor is that, in the current digital age, i
 
  That in itself was not very interesting, but the fact that this problem affected so many other people and that it tied into so many serious health and environmental concerns is what really captivated me.
 
-== Opportunities for quick, affordable and healthy meals
+== Opportunities for quick, affordable and healthy meals ("The invisible hand and the blind spot")
 
  In a very real sense, to even suggest that a quicker, cheaper and healthier meal might be possible risks coming off as naive, even more so to suggest that it is possible without any dramatic intervention in the economy.  We all know the power of the free markets and their ability to deliver goods and services at competitive prices to meet virtually any imaginable desire.  And, surely, there is plenty of competition in today's food service industry as well as plenty of demand for quicker, cheaper and healthier food in society. Therefore, if the necessary market conditions exist and yet we do not see quicker, cheaper and healthier food being offered, then theory tells us that there is something else, some other constraint on the system, that is preventing the market from meeting the demand.
  
@@ -142,7 +140,7 @@ While this may be true, there are still other negative factors. First, it furthe
 
 Thus, while some establishments serving some dishes may be able to accommodate some customizations without much suffering, it will rarely scale at the level RF aspires to.
 
-- Customizations are a way of upselling, maximizing the current sale.  
+ Customizations are a way of upselling, maximizing the current sale.  
 
  These customizations can allow diners to create the perfect dish to satisfy their cravings or conform to their personal allergy requirements. 
 
@@ -154,7 +152,7 @@ Thus, while some establishments serving some dishes may be able to accommodate s
  This may mean that they include preservatives or are pre-cooked. o meat, grains and processed ingredients often leverage processing can come directly out of the packaging
 
  Not really a tipping point
-The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
+ The previous section introduced a tipping-point, the point at which a restaurant can sell enough of a single fresh produce ingredient that it becomes economical to source it directly from the grower. The defining characteristic of a tipping is not just that one side now outweighs the other, it is that the fundamental forces now also favor the other. 
 
  This marks the point where we are firmly on the road to healthy, affordable and convenient food service.  Up until this point, the principles discussed (e.g. efficiency) could be applied to any food service, but it is the application of these principles in order facilitate the use of fresh produce that represents the beginning of possibilities in the new paradigm. 
 
@@ -162,7 +160,7 @@ The previous section introduced a tipping-point, the point at which a restaurant
 
 
  Farm economics
- A given ingredient will only be in season for part of the year, so in order to keep the menu consistent restaurants must rely on distributors that can source ingredients from different parts of the globe. 
+ 
 
  Farm economics
 This is convenient not just because it makes the concept of the static menu feasible, but also because the distributors often serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them.
@@ -195,7 +193,9 @@ The previous section examined common restaurant characteristics and their shortc
 
 It has already been noted that the RF-style of restaurant will be much more efficient at preparing and serving the food. This section goes further and considers the unique opportunities that arise before the food is even delivered, opportunities in the supply chain.
 
-The supply chain of a static menu restaurant was touched upon earlier and it was noted that distributors play a critical role in their supply chains due the static menu business model. By the same token, a restaurant that does not rely on a static menu also does not need to rely as much on distributors. 
+=== Transaction costs
+
+ The supply chain of a static menu restaurant was touched upon earlier and it was noted that distributors play a critical role in their supply chains due the static menu business model.
 
 To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs requires an investment of time to arrange and execute the sale. This is the transaction cost. The amount of time it requires can vary widely. For example, getting produce direct from the grower often entails high transaction costs relative to a distributor.  Everything from availability, to ordering to billing will likely be much more streamlined with the latter.
 
@@ -220,3 +220,4 @@ Another advantage of an RF restaurant is that is relies on prepare-in-advance di
 
  The significance of this event cannot be overstated.  For once, fresh produce will represent a strategic opportunity in the business model.  Restaurants will be incentivized to use as much of the locally sourced ingredient as possible because they will be obtaining it at wholesale cost and the transaction cost is fixed.  That will result in menu items that incorporate much more produce than in the average person's current diet.
 
+ Slogan: What are you bringing to the table?

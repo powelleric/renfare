@@ -35,27 +35,46 @@ It is also perfect that RF acts via financial incentives because this means that
 
 === Farm economics
 
-The static menu serves the same dishes day in and day out. It was noted that, because fresh produce is seasonal, its price fluctuates throughout the year. It has been noted that this volatility discourages the use of fresh produce in the menu.
+It was noted that the volatility of produce prices discourages its use in the static menu. However, some __fresh__ produce is still used and this section will explore the implications of that.
 
-This statement about business concerns is notable because of the implicit assumption that the ingredients will be available year-round despite their inherent seasonality. In effect, asserting that seasonality is only a matter of cost and not actually a question of availability. However true this may be, it is not to be taken for granted, for it carries with it tremendous ramifications.
+The trouble for the static menu is two-fold: it requires the same ingredients year-round and it does not use very much of those ingredients. Under these circumstances, the static menu has almost no choice but to rely on distributors and other intermediaries.
 
-The reason we can so casually assume that ingredients will be available year-round is due to a vast network of wholesalers, distributors and other food intermediaries. By sourcing from growers in different in different geographic regions, these intermediaries can offer a consistent supply of (otherwise seasonal) ingredients.
+By sourcing from growers in different in different geographic regions, these intermediaries can offer a consistent supply of (otherwise seasonal) ingredients.  Moreover, they serve as a single point of contact for multiple ingredients, even beyond the produce that necessitates them. This is convenient for the static menu, which offers many dishes and hence requires many ingredients.
 
-Ultimately, it is this assurance of availability that makes the concept of the static menu feasible.  However, the benefits extend well past that. Distributors also serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them. This is convenient for the static menu, which offers many dishes and hence requires many ingredients.
+In essence, the role of distributors is to reduce the transaction costs of sourcing ingredients.  The establishment does not need to maintain relationships with multiple growers around the world.
 
- It was noted that the static menu is not incentivized to incorporate fresh produce into its dishes. This results in a menu with a variety of dishes, each minimally incorporating fresh produce.
+In essence, distributors reduce the transaction costs of sourcing ingredients. And they do so to such a degree that the static menu business model may not be possible without them. Their facilitation underpins the entire business model.
+
+- The establishment does not need to maintain relationships with multiple growers around the world.
 
 Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for years.
 
 With these dwindling profits now threatening the very livelihood of the farmers - and with that, the nation's food security - some have called for regulation of the markets to ensure that farmers receive a bigger portion of the proceeds.  They argue that the power dynamics of the market leave the farmer at a disadvantage against the food intermediaries they sell to. 
 
- In addition to the power imbalance between the farmer and the intermediaries, there is a second equally important factor to note. 
+Within this context, RF offers something both very powerful and unforeseen: a new buyer. And not just any buyer, but one from the retail sector instead of an intermediary.  If a favorable arrangement can be made between these two parties, then the unfair dynamics of the farmer-intermediary relationship can simply be avoided rather than policed. Moreover, there is the possibility that this new buyer could even alter the dynamics of that relationship by widening the farmers' customer base.
 
-While this assessment of a power imbalance may be well founded, the proposal to address the issue via regulation of the markets raises a second and equally valuable insight: that the farmers have no one else to sell to. For if there were, then the farmers would simply have chosen to do business with them.
+While this assessment of a power imbalance may be well founded,  the proposal to address the issue via regulation of the markets raises a second and equally valuable insight: that the farmers have no one else to sell to. For if there were, then the farmers would simply have chosen to do business with them.
 
-Within this context, it is clear that RF offers something both very powerful and unforeseen: a new buyer. While the conventional static menu cannot fathom such an arrangement, the RF principles make it significantly more feasible. It would even be fair to say that the RF principles were designed to accommodate/around such a relationship.
 
-RF establishments can adapt the menu to the ingredients. Whereas static menu's rely on meat, grains and processed ingredients, RF can make fresh produce the focal point of the menu. This is significant because one of the biggest impediments to farmer-food-service business are the transaction costs.
+While the conventional static menu cannot fathom such an arrangement, the RF principles make it significantly more feasible. It would even be fair to say that the RF principles were designed to accommodate/around such a relationship.
+
+RF establishments can adapt the menu to the ingredients. Whereas static menu's rely on meat, grains and processed ingredients, RF can make fresh produce the focal point of the menu.
+
+This is significant because one of the biggest impediments to farmer-food-service business are the transaction costs.
+
+facilitating the static menu by 
+
+ Thus, intermediaries serve two critical functions: consistent supply of produce and convenience in purchasing a variety of ingredients.
+
+ that a given ingredient will only be in season for part of the year, so in order to keep the menu consistent restaurants must rely on distributors that can source ingredients from different parts of the globe. 
+
+ This statement about business concerns is notable because of the implicit assumption that the ingredients will be available year-round despite their inherent seasonality. In effect, asserting that seasonality is only a matter of cost and not actually a question of availability. However true this may be, it is not to be taken for granted, for it carries with it tremendous ramifications.
+
+ The reason we can so casually assume that ingredients will be available year-round is due to a vast network of wholesalers, distributors and other food intermediaries. By sourcing from growers in different in different geographic regions, these intermediaries can offer a consistent supply of (otherwise seasonal) ingredients.
+
+ Ultimately, it is this assurance of availability that makes the concept of the static menu feasible.  However, the benefits extend well past that. Distributors also serve as a single point of contact for a variety of other ingredients, beyond just the produce that necessitates them. This is convenient for the static menu, which offers many dishes and hence requires many ingredients.
+
+ It was noted that the static menu is not incentivized to incorporate fresh produce into its dishes. This results in a menu with a variety of dishes, each minimally incorporating fresh produce.
 
  the new paradigm flips all of this on its head, making This dramatic shift stems from the ability of farmers to directly supply restaurants. 
 
