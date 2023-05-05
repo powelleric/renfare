@@ -14,33 +14,64 @@ It found that up to 40% of food is wasted.
 
 Along with their exhaustive food waste analysis, they provide a veritable laundry-list of food waste remedies.
 
+ From telling your friends about the importance of food waste t
 
-From telling your friends about the importance of food waste to standardizing food waste metrics in the federal government, opportunities to reduce food waste abound.
+From using a smaller dinner plate to standardizing food waste metrics in the federal government, opportunities to reduce food waste abound.
 
 While it provides an extensive list of remedies, it does not compare the relative merits of these remedies. In particular, several principles of RF are touched upon but their potential within RF and relative to other solutions warrants discussion.
 
 Following the same pattern of supply chain dissection as __Wasted__, 
-RF techniques to reduce food waste will be presented and contrasted with other alternative solutions.
+RF techniques to reduce food waste will be presented and contrasted with other remedies.
 
 === Consumer
 
-According to "Wasted", the consumer represents the largest source of waste in the food system. It also notes that "[b]ecause it has undergone more transport, storage, and often cooking, throwing food away at the consumer level has a larger resource footprint than at any other point of the food chain."
+"Wasted"'s analysis showed that the consumer represents the largest source of waste in the food system. It also notes that "[b]ecause it has undergone more transport, storage, and often cooking, throwing food away at the consumer level has a larger resource footprint than at any other point of the food chain."
 
 Given the high impact of waste in this area, it is an important focus for any food waste reduction effort.  However, this does not mean that improvements in this area are readily achievable, and more importantly, it does not mean that the consumer is necessarily an effective agent of such change.
 
-The second point is critical. On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
+The second point is critical because researchers frequently focus on influencing the shopping and eating habits of the consumer. By educating them about the environmental impact of food waste or by sharing techniques to reduce waste, they hope to encourage behaviors that lead to less food waste.
+
+A major problem with these approaches is that they place too big of a burden on the consumer. 
+ In reality, the cost of adopting many of the consumer-focused reduction efforts is considerable. 
+
+For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain constant during the shopping.  Notice something on sale?  Too bad.  Deviation from your plan is a risk factor for food waste.
+
+Tangential to this consumer burden topic is the trend towards smaller household sizes that was noted earlier.  Recipe planning and inventory management take virtually the same time regardless of how many servings are being made.  Therefore, consumers are being encouraged to adopt practices that are becoming increasingly less valuable.
+
+A conceptual problem with influencing consumer behavior is that consumers already have a direct economic consequence from it: the money lost. Economic consequences are generally accepted as some of the most effective incentives, and yet the food waste still plagues consumers.  This adds weight to the claim that food waste efforts are too burdensome: consumers would rather waste food than bear the burden of more meticulously managing their food.  Therefore, how much more influential can one hope to be knowing that the consumer already has clear incentive to avoid it themselves. Clearly, the motivations behind food waste are not trivial. To put it in economic terms, the lost money from wasted food is an internality for the consumer and the hope is to influence the consumer's behavior in relation to an externality, food waste.  
+
+Finally, we should note that zero food waste is not actually even the ideal.  It is perfectly natural that people will want extra stores of food beyond even what they have plans for.  The inconvenience of running out of food is too great that people will instinctively prefer a surplus to a deficit, even if that means waste.  One could argue about what an adequate surplus ought to be, but this is a very subjective and personal matter.
+
+=== Food speculation
+
+Woven 
+
+A second problem with these approaches i
+
+
+The trouble with these interventions is that they place too great of a burden on the consumer and/or they oppose 
+
+That is why I do not believe that the consumer is an effective agent of change, which is to say, that you cannot leave everything else the same and hope to have the consumer behave differently.
+
+"impromptu"
+
+to be less wasteful. On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
 
 While it is certainly true that the consumer plays a principal role in consumer-level food waste, they are not the only party capable of influencing it.  In particular, RF has great potential to reduce waste.  However, before discussing the potential of RF, the potential of the existing remedies must be discussed.
 
-The trouble isn't that the consumer is blameless or even that the consumer is ignorant.  Instead, I would argue that the greatest challenge of the existing remedies is they place too great of a burden on the consumer. This point is briefly touched upon in Wasted where they note that "time constraints and inconvenience can exacerbate the problem."  However, because Wasted stops short of examining the potential of the various remedies, the significance of these time constraints may not be apparent.
-
-In reality, the cost of adopting many of the consumer-focused reduction efforts is considerable.  For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain constant during the shopping.  Notice something on sale?  Too bad.  Deviation from your plan is a risk factor for food waste.
+I would argue that the greatest challenge of the existing remedies is they place too great of a burden on the consumer. This point is noted in Wasted where they note that "time constraints and inconvenience can exacerbate the problem."  However, because it does  examining the potential of the various remedies, the significance of these time constraints may not be apparent.
 
 A second example of a consumer-focused food waste remedy is buying items in smaller quantities. 
 
  The logic behind this remedy is appealing but ultimately proves too reductive. 
 
-The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of large quantities, which contributes to over-purchasing.  __Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  
+The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of larger quantities, which contributes to over-purchasing.  __Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  
+
+This particular remedy offers tremendous insight into the heart of the issue.  For on the surface, it seems nonsensical. Producers are simply offering a bulk discount and consumers are stocking up for future meals. Why discourage such transactions?
+
+Policy-makers believe that the consumer makes poor decisions in relation to bulk food purchases, that they are lured by the bulk discount into purchasing more than they can really use.  This may in fact be true. But the more important point is that this is not about bulk pricing.  It is about consumer psychology. The consumer over-estimates their commitment, therefore they are being advised to make smaller commitments.
+
+The reason this perfectly ordinary transaction is discouraged is consumers don't predict their usage
 
 There are several challenges with this approach.  Finally, it is worth while to note that the greatest proportion of food waste comes from produce, which is a type of product in which consumers are often able to select items individually.  Therefore, perfectly choosing quantities is far from a silver-bullet in terms of waste reduction.
 
