@@ -18,7 +18,7 @@ Understanding the historical progression that led us to this state helps to unde
 
 Obesity was not always a problem. A couple generations ago, the societal impact obesity was virtually non-existent.  Few Americans were obese and cause-of-death was not tied to diet.
 
-Importantly, this was not because everyone dined at RF-inspired food establishments.  Much to the contrary, they would have eaten significantly more meals at home.
+Importantly, this was not because everyone dined at RF-inspired food establishments.  Much to the contrary, they would have eaten significantly more home-cooked meals.
 
 However, over time societal changes led to greater participation of women in the work-force. In turn, this left less time at home to prepare meals. Perhaps in response to this shift, the food industry began investing heavily in processed convenience foods. These foods offered a welcome respite for the weary home maker.
 
@@ -49,13 +49,15 @@ In essence, distributors reduce the transaction costs of sourcing ingredients. A
 
 Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for years.
 
-With these dwindling profits now threatening the very livelihood of the farmers - and with that, the nation's food security - some have called for regulation of the markets to ensure that farmers receive a bigger portion of the proceeds.  They argue that the power dynamics of the market leave the farmer at a disadvantage against the food intermediaries they sell to. 
+With these dwindling profits now threatening the very livelihood of the farmers - and with that, the nation's food security - some have called for regulation of the markets to ensure that farmers receive a bigger portion of the proceeds.  They argue that the power dynamics of the market leave the farmer at a disadvantage against the intermediaries they sell to. 
+
+ Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
 
 Within this context, RF offers something both very powerful and unforeseen: a new buyer. And not just any buyer, but one from the retail sector instead of an intermediary.  If a favorable arrangement can be made between these two parties, then the unfair dynamics of the farmer-intermediary relationship can simply be avoided rather than policed. Moreover, this new buyer could even help balance the dynamics of that relationship by empowering the farmer in negotiations.
 
 The emergence of this new potential buyer owes directly to the RF ideology. The conventional static menu cannot fathom sourcing directly from the farmer.  However, because RF establishments are value-focused, have such a limited menu, and can adapt the menu based on the availability of ingredients, it provides a powerful vehicle for allocating large volumes of varying produce.
 
-Seen in this light, the shortcomings of the static menu come into clearer focus.  It is adept at producing the same dish day-in and day-out, but lacks any dynamism.  It is not adaptable, which makes it reliant on intermediaries to provide a consistent supply of the same ingredients. RF, on the other hand, embraces of inherent seasonality and variability of produce and seeks to capitalize on it by constantly adapting the menu to the best available ingredients.
+Seen in this light, the shortcomings of the static menu come into clearer focus.  It is adept at producing the same dish day-in and day-out, but lacks any dynamism, which makes it reliant on intermediaries to provide a consistent supply of the same ingredients. RF, on the other hand, embraces of inherent seasonality and variability of produce and seeks to capitalize on it by constantly adapting the menu to the best available ingredients.
 
 It is important to emphasize the aspect of transaction costs for RF. RF establishments likely face significant transaction costs relative to the static menu. However, because these costs are fixed, RF seeks large purchases in which transaction costs represent a minimal portion of the total cost. Importantly, larger purchases also lend to better prices which further offset the transaction costs. __This is significant because one of the biggest impediments to farmer-sourcing for the static menu is the transaction costs.__
 
@@ -64,6 +66,10 @@ To be clear, obtaining ingredients from a distributor would still be infinitely 
  seasonality is only a matter of cost and not actually a question of availability. 
 
 ==== Farm labor
+
+- Move section to permaculture
+- Problem with this section...Better to argue that we need higher skilled agricultural work that favors long-term employment over seasonal work. Permaculture and diversified tasks could offer that.  
+ - RF embraces the dynamic nature of agriculture and seeks to adapt to it. This means a constantly evolving set of tasks and priorities. In turn, higher skill sets are required.  Careful attention and adaptability are required. Knowledge and experience carry greater worth.
 
 A tangential topic to farm profits is farm labor.  It is well-known that the current agricultural industry in dependent on labor from undocumented immigrants.
 
@@ -89,11 +95,9 @@ It's not about local it's about short chains.  But short chains are more easily 
 
 === Misc
 
-Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
+- CSA model with farmers could offset insurance expense. Is it harder to insure a varied set of crops?
 
-The farmer was introduced in the context of the static menu and it was noted that transaction costs made farmer-direct produce not attractive to the static menu. What was not discussed is that high transaction costs are also incurred by the farmer in this arrangement. Essentially, it requires the farmer to take on many of the roles that distributors play in terms of sales, delivery, etc. Therefore, the distributor helps reduce the transaction costs of both parties and facilitates the static menu business model.
-
- In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes in the context of the new food paradigm, and increasing the profits of farmers is only the beginning of that.
+ In this sense, we see profound benefits of the new food paradigm well past the food service industry.  The agricultural industry, directly upstream of the food service industry, has the potential for many positive changes.
 
 == Cheap, healthy food
 
@@ -104,28 +108,6 @@ Yet at the same time, there are marked anomalies to this pattern. Australian stu
 
 include::home_economics.adoc[]
 
-
-One of the dangers of working on a complex problem like obesity is that we try to find solutions through a process of increasingly detailed dissection of the underlying factors.  Increasingly detailed interrogation of these factors becomes the vehicle by new which solutions are identified.  However, there is a danger...
-
-While this is eminently reasonable (and arguably even necessary/requisite), it carries with it the danger that these very same factors become absolutes in the mind of the researcher, such that the only available solutions are those seen through the window of these constraints. In other words, the framing of the issue creates (seemingly unbeknowst) limitations on how it can be addressed.
-
-In this regard, one of the implicit assumptions running through nearly every policy is the role of restaurants as purveyors of calorie-dense foods. In fairness, this is precisely what we've seen over the past several decades.  
-
-This assumption leaves no room for the possibility that the choices available to us today are not, as is widely assumed, the result of deterministic forces in the free market but instead are artifacts of history.  And by extension, there are potentially great possibilities laying dormant. 
-
-In an attempt to understand the underlying factors, those factors themselves are viewed as absolute. 
-
-It reflects a basic understanding of society that things are the way they are for a reason.  In turn, this basic understanding can trace its origins to capitalism and even back to the development of logical thinking.
-
-_While this serves to explain the rise in obesity at the end of the twentieth century, the continuing, and indeed worsening, epidemic of obesity in the twenty-first century bears further examination.  For while the previous generation had very little experience of obesity, we are consumed by it.  While households in the 1970's could not have fathomed the toll that the new processed foods would take on society, it has been documented ad-nauseum in today's society.  To declare that fast food is bad for you is trite and universally accepted.  Why then does it persist?  Is it really just that carbs are addictive, advertising frighteningly effective and government-subsidized mega-industries are omnipotent?_
-
-I contend that the situation is not as simple as that.  All of these factors are powerful but what has also contributed to the issue is the failure of society to adapt to the emerging issues.
-
-In this sense, a parallel is frequently drawn between the tobacco industry.  Both ever-present temptations driven by powerful industries. But they are not the same. While nothing can satiate a smoker quite like a cigarette, hunger and cravings can be neutralized with healthy food and cravings greatly diminish.  another way of putting this is that the risk of eating junk food is much greater when a person is hungry. the Corollary is that ensuring the availability of quick healthy and affordable food undercuts junk food.  junk food thrives in environments where there is not competition  for value.  this points to the idea that a cheaper healthier product could supplant the dominance of junk food.
-
-Most households had a single working parent who was able to provide for the entire family.
-
-Smaller families and more work.  This left less time to prepare food at home and made the benefits of doing so less.  At a similar time, the processed foods industry was gearing up.
 
 == Soup kitchen
 
@@ -146,8 +128,6 @@ Still, there is something to be said for having a reasonable amount of variety. 
 Having broadly framed the idea of menu variety as a trade-off between customer appeal[1] and production efficiency, 
 
 == Fast food
-
-The previous section looked at costs of production as a function of how many items are offered by the restaurant, with less menu items equating to lower costs of production.
 
 we will assess the costs of production in terms of three distinct factors: the ingredients, the prep time and the length of freshness.
 
@@ -201,10 +181,6 @@ _This is because the marginal benefits of more menu variety have greatly diminis
 This trade-off between selection (or variety) and value is the first key dynamic to take note of.  Generally speaking, food service caters to the selection side of the spectrum, leaving the value side of the spectrum a relatively uncharted landscape.  Indeed, the entirety of what follows could be considered an exploration of this value-oriented landscape.  Within this exploration, we will highlight new features/what factors are most prominent in this new landscape as well as value itself and what our expectations should be.
 
 One caveat is that a person only eats one meal, such that no matter how many items are on the menu, a given person will rarely ever order more than one.  
-
-Yet what I will attempt to show is that something so basic on the surface could have far-reaching implications within the context of our modern society. 
-
-I hope to convince you that this style of food service is qualitatively different than anything we have now, not just offering an incremental improvement to the issues at hand but a whole new landscape of possibility.
 
 In what follows, I will expand on this idea and attempt to paint a picture of a new food service paradigm that can not only deliver on the quick, healthy and affordable meal but also on environmental, social, and economic issues to boot.  But we’re getting ahead of ourselves now, let’s back up to that imaginary restaurant with its limited menu and talk some basic economics.
 
