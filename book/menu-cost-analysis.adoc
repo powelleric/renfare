@@ -26,6 +26,10 @@ The most obvious factor in the cost of a dish is the ingredients. A prime cut of
 
 In terms of efficiency, however, ingredient price is not very relevant.  On the other hand, the shelf life of the ingredients is a huge consideration. Ingredients that keep well result in less spoilage and can be bought in greater bulk. Notably, this favors the use of processed foods over whole foods, meat over vegetables.  Anything that can be frozen or sit for weeks on a shelf offers a distinct advantage to the restaurant in terms of streamlined operation and insulation from fluctuations in demand.
 
+=== Storage of produce
+
+Fresh produce is bulky, which is to say that after peeling, coring, slicing, etc. you are often left with considerably less volume than what you started with.  Furthermore, they often cook down due to their high water content.
+
 == Prep time
 
 Preparation time quite often follows a similar pattern as ingredients.  Namely, that ingredients with longer shelf life tend to go hand-in-hand with quicker preparation.  This is because processed foods often contain high amounts of fat, sugar and/or salt, all things that are proven to tantalize the taste buds.  Meat also follows a similar path, as it is calorie-dense and contains fat that accentuates flavors.  This allows a satisfying dish to be attained simply with a nice sear on the grill.  

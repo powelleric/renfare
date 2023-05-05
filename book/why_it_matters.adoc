@@ -108,18 +108,7 @@ Yet at the same time, there are marked anomalies to this pattern. Australian stu
 
 include::home_economics.adoc[]
 
-
-== Soup kitchen
-
 == Ready when you are - "Just-in-time" delivery and advanced logistics
-
-In earlier sections we noted that menus designed around fresh, whole foods were at a disadvantage to more calorie-dense, processed foods in terms of storage needs.  Fresh produce is bulky, which is to say that after peeling, coring, slicing, etc. you are often left with considerably less volume than what you started with.  Furthermore, they often cook down due to their high water content.
-
-A second challenge with fresh ingredients is that they are perishable.  Again, compared to calorie-dense, processed foods, this is a significant disadvantage.
-
-Taken together, this means that a restaurant with a menu designed around fresh, whole foods must have significantly greater storage area to account the bulkiness of fresh produce and must "turn over" the inventory much faster to avoid it going bad.  
-
-These seem like rather big implications, and they do.  But what I will argue here is that the implications/consequences are not absolute, that there are strategies to mitigate these issues and that those strategies play into the same overall direction as the existing strategy.
 
 === Professionalism/education
 
@@ -150,11 +139,9 @@ It is not worth peoples' time to reduce waste in the kitchen, or even necessaril
 
 Americans do not even get enough sleep. No one says they don't like sleep.
 
-== Camp for teenagers
+== Crop choice
 
-Need people to do excess work during summertime.  _Perilous Bounty_ recounts how growing an older variety of melons yields a better tasting melon, however it requires multiple passes during harvest because the melons do not all ripen at the same time.  By contrast, other growers use conventional varieties that all ripen at roughly the same time but do not taste as good.  This is just one example of a compromise due to cost constraints at the farm level.
-
-
+_Perilous Bounty_ recounts how growing an older variety of melons yields a better tasting melon, however it requires multiple passes during harvest because the melons do not all ripen at the same time.  By contrast, other growers use conventional varieties that all ripen at roughly the same time but do not taste as good.  This is just one example of a compromise due to cost constraints at the farm level.
 
 
 Americans do not want to do not want to do the work because it is too hard and pays too little.  Work is too sporadic.
@@ -179,12 +166,7 @@ This concept is easier to understand with an example.  Consider a classic, made-
 
 == Conclusion (Part 1)
 
-This section has shown that a different style of food service, one that favors a limited menu, can have dramatically different potential.  In particular, by virtue of lower production cost, such a restaurant would be capable of serving hundreds more meals.
-
 == Part 3 - Renaissance
-
-
-
 
 The benefit of RF is that an establishment does not have to perfectly embody any of the principles  hit the mark from the beginning.  
 
@@ -206,16 +188,6 @@ Scaling these concepts to the point that you have a relationship with the custom
 
 - App called Open Season for meeting farmers to buy produce from
 
-This line of reasoning 
-- is capable of explaining so much of the what goes on in the economy that it seems like a universal truth.  
--serves us very well and provides a helpful model to examine a wide variety of economic scenarios.  
-
-I am proposing a style restaurant is qualitatively different than virtually any other restaurant.  The word qualitative has particular significance in the previous sentence.  It means something with more fundamental differences, something that is bound by different rules, and something that, ultimately, has dramatically different possibilities.
-
 There is a peculiar absence of any real scale in the freshly prepared foods category.  
-
-What follows is a business concept that aims to address this very issue and so much more.  The motivating force behind this concept are the basic economic principles of specialization and scalability. 
-
-To have a variety of customizable, made-to-order meals available in under an hour at virtually all hours of the day is a luxury. It is simply not at all frugal or resourceful. 
 
 [1] Perceived variety and the idea of many items derived from one base ingredient allowing many items to be made, like with pizza.
