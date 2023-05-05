@@ -197,7 +197,7 @@ It has already been noted that the RF-style of restaurant will be much more effi
 
  The supply chain of a static menu restaurant was touched upon earlier and it was noted that distributors play a critical role in their supply chains due the static menu business model.
 
-To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs requires an investment of time to arrange and execute the sale. This is the transaction cost. The amount of time it requires can vary widely. For example, getting produce direct from the grower often entails high transaction costs relative to a distributor.  Everything from availability, to ordering to billing will likely be much more streamlined with the latter.
+To understand this more clearly it is helpful to introduce the concept of transaction costs. Each item that a restaurant needs requires an investment of time to arrange and execute the sale. This is the transaction cost. The amount of time it requires can vary widely. For example, getting produce direct from the grower often entails high transaction costs relative to a distributor.  
 
 For a static-menu restaurant, in particular, sourcing each type of fresh produce directly from the farmer would result in extremely high transaction costs relative to a distributor.  This is a combination of two factors.  
 
