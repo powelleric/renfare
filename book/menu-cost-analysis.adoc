@@ -1,0 +1,43 @@
+= Menu cost factors
+
+== Limited Menu
+
+While there are numerous facets to cover, the core concept itself is deceptively simple: a restaurant that serves only a couple dishes each day.  To be clear, a limited menu alone is not going to lead to anything revolutionary.  However, in the context of the other factors we will consider, it becomes a powerful catalyst.  First, though, let's review the concept of a limited menu and the significance it has for us moving forward.
+
+By focusing on just a few dishes, a restaurant can produce those dishes on a larger scale, and with larger scale comes lower prices for raw materials, greater efficiencies in labor, as well as a suite of other related benefits. 
+
+=== Menu size
+
+It is a straight-forward assertion that a restaurant with more items to offer will - all other things being equal - attract more customers by being able to satisfy a wider variety of preferences.  That is what theory would tell us, at least.
+
+However, in practice we know that the size of the menu rarely ever factors into our decision about whether or not to go to a particular restaurant.  This apparent disparity between theory and practice arises from the theoretical requirement that "all other things" be equal between the restaurants, a condition that is never satisfied in reality.  Quite to the contrary, in reality there are dozens of more prominent factors distinguishing one restaurant from the next, such that the relative number of items on the menu never factors highly into the decision.
+
+Still, there is something to be said for having a reasonable amount of variety.  If nothing else, the dominant restaurant model - to offer dozens of items across different courses - suggests that variety is an important factor.  
+
+Having broadly framed the idea of menu variety as a trade-off between customer appeal[1] and production efficiency, 
+
+== Fast food
+
+we will assess the costs of production in terms of three distinct factors: the ingredients, the prep time and the length of freshness.
+
+== Ingredients
+
+The most obvious factor in the cost of a dish is the ingredients. A prime cut of steak will cost significantly more than a piece of bread. In turn, menu items that are comprised of higher cost ingredients come at a higher cost to the consumer.
+
+In terms of efficiency, however, ingredient price is not very relevant.  On the other hand, the shelf life of the ingredients is a huge consideration. Ingredients that keep well result in less spoilage and can be bought in greater bulk. Notably, this favors the use of processed foods over whole foods, meat over vegetables.  Anything that can be frozen or sit for weeks on a shelf offers a distinct advantage to the restaurant in terms of streamlined operation and insulation from fluctuations in demand.
+
+== Prep time
+
+Preparation time quite often follows a similar pattern as ingredients.  Namely, that ingredients with longer shelf life tend to go hand-in-hand with quicker preparation.  This is because processed foods often contain high amounts of fat, sugar and/or salt, all things that are proven to tantalize the taste buds.  Meat also follows a similar path, as it is calorie-dense and contains fat that accentuates flavors.  This allows a satisfying dish to be attained simply with a nice sear on the grill.  
+
+Furthermore, the same dynamics of shelf-life again present themselves in terms of preparation.  You wouldn't want to make a salad the day before because the vegetables would wilt and get soggy. However, you wouldn't have any qualms about making dough or marinating meat the day before.
+
+== Freshness (Optimal serve time)
+
+Having laid out the overwhelming advantages of processed foods, and knowing that these ingredients are ubiquitous in modern food service, the issue of freshness (or optimal serve time) surprisingly runs almost completely counter to what we've seen earlier.
+
+We would expect that the same restaurants that adopted processed foods and streamlined prep would also favor menu items that can be prepared in advance.  However, this is the distinct opposite of what we observe.  To an almost pathological degree, such restaurants favor items that must be served almost immediately lest their appeal be lost.
+
+Consider a typical burger restaurant. The fries, although cheap and easy to prepare, quickly lose their crispiness as they sit and cool.  The burgers are an even bigger challenge, with each ingredient posing a threat to the next: The ketchup and other condiments make the bun soggy, the warm patty wilts the lettuce. Such are challenges in the high-stakes game of made-to-order food.
+
+
