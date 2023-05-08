@@ -1,5 +1,6 @@
 
 include::intro.adoc[]
-include::why_it_matters.adoc[]
-include::references.adoc[]
+include::dark-ages/why_it_matters.adoc[]
+include::dark-ages/regenerative_agriculture.adoc[]
 include::renaissance/intro.adoc[]
+include::references.adoc[]

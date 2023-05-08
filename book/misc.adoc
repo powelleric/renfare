@@ -1,0 +1,96 @@
+=== Short chains, long links
+
+It's not about local it's about short chains.  But short chains are more easily formed.
+
+== Cheap, healthy food exists
+
+Yet at the same time, there are marked anomalies to this pattern. Australian study found that healthy food was 17% cheaper than unhealthy. How not to diet notes that commodities such as beans have razor-thin margins and are often sold as loss-leaders.
+
+
+- Not as vulnerable to short-term labor fluctuations like someone calling in sick.
+
+include::home_economics.adoc[]
+
+== Ready when you are - "Just-in-time" delivery and advanced logistics
+
+=== Professionalism/education
+
+FDR's cabinet was composed of people who had not been professionals. The new deal had a "heavy reliance upon organizer labor and its tendency to see issues through the lens of social class".
+
+=== Diet
+
+"I can't stress enough is becoming overweight is a normal, natural response to the abnormal, unnatural ubiquity of calorie dense, sugary, and fatty foods."
+
+=== Policy
+
+" *Link private sector action to incentives.*
+Each incentive policy should include a private sector action paired with an incentive, or package of incentives, that reduces the cost to businesses to implement it. For example, to offer fresh produce, corner store owners may need to purchase refrigeration equipment and pay higher utility bills to run that equipment. Store owners will also need to advertise the fresh produce to customers. Local agencies could offer loans or grants to help purchase refrigeration equipment, or offer tax credits or reduced fees for business licenses. The economic development agency or public health department could provide free advertising materials, such as signs or advertisements in local media, to help promote the new healthy selections." <<6>>
+
+== Ideas
+
+_This is because the marginal benefits of more menu variety have greatly diminishing returns.  That is to say, a restaurant has a strong incentive to offer a baseline level of variety in their offerings. Yet on the other hand, there is very little to be gained by exceeding that threshold._
+
+This trade-off between selection (or variety) and value is the first key dynamic to take note of.  Generally speaking, food service caters to the selection side of the spectrum, leaving the value side of the spectrum a relatively uncharted landscape.  Indeed, the entirety of what follows could be considered an exploration of this value-oriented landscape.  Within this exploration, we will highlight new features/what factors are most prominent in this new landscape as well as value itself and what our expectations should be.
+
+One caveat is that a person only eats one meal, such that no matter how many items are on the menu, a given person will rarely ever order more than one.  
+
+In what follows, I will expand on this idea and attempt to paint a picture of a new food service paradigm that can not only deliver on the quick, healthy and affordable meal but also on environmental, social, and economic issues to boot.  But we’re getting ahead of ourselves now, let’s back up to that imaginary restaurant with its limited menu and talk some basic economics.
+
+== Home economics
+
+It is not worth peoples' time to reduce waste in the kitchen, or even necessarily to eat healthy; the costs are too high and the other demands of life too great.
+
+Americans do not even get enough sleep. No one says they don't like sleep.
+
+== Crop choice
+
+_Perilous Bounty_ recounts how growing an older variety of melons yields a better tasting melon, however it requires multiple passes during harvest because the melons do not all ripen at the same time.  By contrast, other growers use conventional varieties that all ripen at roughly the same time but do not taste as good.  This is just one example of a compromise due to cost constraints at the farm level.
+
+
+Americans do not want to do not want to do the work because it is too hard and pays too little.  Work is too sporadic.
+
+If work is sporadic then points to the ability of internet to bridge the gap.  If pay is too little, then trim waste downstream and increase pay upstream.
+
+== New frontier of ethics
+
+Unions are part of the new frontier. Would you trust a company to not cut corners and to be honest with you as a consumer if they are not honest with their employees.
+
+== Efficiency of food service
+
+Perhaps one of the most important questions for any restaurant is what food they are going to serve.  And for a restaurant with a limited menu that question is arguably even more relevant.
+
+We have already noted that one of the shortcomings of the existing food service industry is that more nutritious food tends to be more expensive.  To that end, one of the first concerns ought to be efficiency, and even more specifically, the marginal cost of the menu items.
+
+== My way or the highway
+
+This brings us to one of the first realizations of the food industry: made-to-order menu items restrict opportunities for greater efficiency, creating a “floor” that the marginal cost cannot go below.
+
+This concept is easier to understand with an example.  Consider a classic, made-to-order item such as a burger as compared to a prepare-ahead food such as soup.  The first apparent difference is that the made-to-order food tends to suffer in quality the longer it sits, hence why it was made-to-order in the first place.  In the case of the burger, it is a veritable train wreck of diminishing quality.  Starting with the toasted bun that arrives warm and toasty only to begin cooling and hardening.  The condiments that make that very same bun soggy the longer they sit.  The delicate lettuce that is sandwiched between the warm bun and the meat, beginning the wilting process almost on contact.  And let us not forget the accompanying side, which is almost certainly french fries and which begin to lose their crispy delicious texture as they cool.  Nearly every single aspect of the unassuming burger and fries is actually a precarious combination of ingredients that rapidly change in texture and desirability as they sit.  If that weren’t enough, it also happens that mitigating or recovering some of the desirability is near impossible.  You can't just toss it in the microwave and make it more appetizing.  
+
+== Conclusion (Part 1)
+
+== Part 3 - Renaissance
+
+The benefit of RF is that an establishment does not have to perfectly embody any of the principles  hit the mark from the beginning.  
+
+Rather than worry about perfectly designing a restaurant  the mark of
+Could we perfectly hit the mark of something that we have never  and focused on the potential for benefits from RF, it is an open question athe expectations for what RF looks like in practice
+
+== Opportunity at large
+
+Scaling these concepts to the point that you have a relationship with the customer so you can use reusable metal packaging and have an account with them.
+
+
+== Brainstorming
+
+- Encouraging the consumer to customize ("Have it your way")
+
+- Ordinary restaurants seek to woo you when you are craving food. "Love me and leave me".  Value-based food looks to build a relationship such that you are inclined to dine there long before hunger sets in.
+
+- App called Food Bank, a payment provider for many restaurants. Skip credit card fees.
+
+- App called Open Season for meeting farmers to buy produce from
+
+There is a peculiar absence of any real scale in the freshly prepared foods category.  
+
+[1] Perceived variety and the idea of many items derived from one base ingredient allowing many items to be made, like with pizza.

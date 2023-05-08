@@ -1,0 +1,70 @@
+== Why it matters
+
+Thus far, the discussion has been centered on the economics of a food service establishment. This was intended to show the possibilities for quick, cheap and healthy food at a fundamental level. Notably, these possibilities arise not from technical innovation or government interventions, but from the business model itself.
+
+Having established that quick, cheap and healthy food (at least in some form) is a possibility, the bigger question becomes why that matters. After all, there are a lot of things that we could be doing better as a society, especially if we consider them as theoretically as we are now considering food service. Is food service a worthwhile cause?
+
+The answer is a resounding "yes". There is much more at stake than what it appears. Because the impacts are so far-reaching, you may not realize how much is at stake.
+
+=== Health impacts "Yesterday's Dinner"
+
+The most easily foreseeable impact of the RF ideology is in healthier eating. This follows directly from the fact that the healthier food is being made cheaper and more convenient.
+
+Healthier eating alone stands to change society significantly. The most common cause of death is from diet and lifestyle factors. Millions are invested in curbing this trend to no avail.
+
+ __While the consequences of so-called unhealthy eating are certainly sobering,__ 
+
+Understanding the historical progression that led us to this state helps to understand why quick, cheap and healthy food has the potential to be a game-changer.
+
+Obesity was not always a problem. A couple generations ago, the societal impact obesity was virtually non-existent.  Few Americans were obese and cause-of-death was not tied to diet.
+
+Importantly, this was not because everyone dined at RF-inspired food establishments.  Much to the contrary, they would have eaten significantly more home-cooked meals.
+
+However, over time societal changes led to greater participation of women in the work-force. In turn, this left less time at home to prepare meals. Perhaps in response to this shift, the food industry began investing heavily in processed convenience foods. These foods offered a welcome respite for the weary home maker.
+
+A second factor is that family-size has shrunk over time. This discourages cooking at home because it can be so inefficient to do in small quantities.  Recalling the lessons from the first section, we know that the marginal labor cost can decrease dramatically when cooking for larger numbers. However, smaller families often find themselves stuck on the high-end of the cost curve, devoting significant portions of time to prepare a few servings. 
+
+Likely in response to these factors, we have observed an increasing percentage of FAFH consumption. People are increasingly choosing food service over cooking themselves. Studies like the one citing divorces due to washing dishes indicate that people view it as a chore.
+
+In this context, RF offers a perfect antidote because it offers the convenience that people are seeking but with healthier and more affordable offerings than currently available.  What's more, it does not rely on any government involvement.
+
+It is also perfect that RF acts via financial incentives because this means that lower socio-economic people will be more incentivized to choose RF.  (Not so) coincidentally, lower socio-economic people are disproportionately affected by obesity.  Therefore, the people who stand to benefit the most are also incentivized the most. This is a very desirable quality in any proposed solution.
+
+ Finally, I would add that due to our relatively high standard of living our expectations for cuisine have increased to the point that many may not be willing (to devote the time) or able (to execute the recipe) to cook to their own satisfaction once becoming accustomed to FAFH.
+
+ The average meal in the old paradigm is heavy on carbohydrates and proteins. It would greatly increase the fresh produce intake for the average person's meal.
+
+
+=== Farm economics
+
+It was noted that the volatility of produce prices discourages its use in the static menu. However, some __fresh__ produce is still used and this section will explore the implications of that.
+
+The trouble for the static menu is two-fold: it requires the same ingredients year-round and it does not use very much of those ingredients. Under these circumstances, the static menu has almost no choice but to rely on distributors and other intermediaries.
+
+By sourcing from growers in different geographic regions, these intermediaries can offer a consistent supply of (otherwise seasonal) ingredients.  Moreover, they serve as a single point of contact for multiple ingredients, even beyond the produce that necessitates them. This is convenient for the static menu, which offers many dishes and hence requires many ingredients.
+
+In essence, distributors reduce the transaction costs of sourcing ingredients. And they do so to such a degree that the static menu might not be possible without them. Their facilitation underpins the entire business model.
+
+- The establishment does not need to maintain relationships with multiple growers around the world.
+
+Financially speaking, the price for this facilitation is enormous. A study in the UK found that apple farmers received only one percent of the retail sales price in profit <<sustain-profit>>.  This marks a new low in a worrying trend of declining farm profits that has been impacting the industry for years.
+
+With these dwindling profits now threatening the very livelihood of the farmers - and with that, the nation's food security - some have called for regulation of the markets to ensure that farmers receive a bigger portion of the proceeds.  They argue that the power dynamics of the market leave the farmer at a disadvantage against the intermediaries they sell to. 
+
+ Worse yet, farmers income has been trending downward for years now.  Therefore, the farmer has an increasingly urgent need to increase profitability and selling directly to food service would be just the opportunity needed.  
+
+Within this context, RF offers something both very powerful and unforeseen: a new buyer. And not just any buyer, but one from the retail sector instead of an intermediary.  If a favorable arrangement can be made between these two parties, then the unfair dynamics of the farmer-intermediary relationship can simply be avoided rather than policed. Moreover, this new buyer could even help balance the dynamics of that relationship by empowering the farmer in negotiations.
+
+The emergence of this new potential buyer owes directly to the RF ideology. The conventional static menu cannot fathom sourcing directly from the farmer.  However, because RF establishments are value-focused, have such a limited menu, and can adapt the menu based on the availability of ingredients, it provides a powerful vehicle for allocating large volumes of varying produce.
+
+Seen in this light, the shortcomings of the static menu come into clearer focus.  It is adept at producing the same dish day-in and day-out, but lacks any dynamism, which makes it reliant on intermediaries to provide a consistent supply of the same ingredients. RF, on the other hand, embraces of inherent seasonality and variability of produce and seeks to capitalize on it by constantly adapting the menu to the best available ingredients.
+
+It is important to emphasize the aspect of transaction costs for RF. RF establishments likely face significant transaction costs relative to the static menu. However, because these costs are fixed, RF seeks large purchases in which transaction costs represent a minimal portion of the total cost. Importantly, larger purchases also lend to better prices which further offset the transaction costs. __This is significant because one of the biggest impediments to farmer-sourcing for the static menu is the transaction costs.__
+
+To be clear, obtaining ingredients from a distributor would still be infinitely more convenient. Everything from the ordering to billing will likely be much more streamlined. The point is that these conveniences become less significant the larger transaction, eventually amounting to a minor consideration.
+
+ seasonality is only a matter of cost and not actually a question of availability. 
+
+include::renaissance/kitchen_rehab.adoc[]
+
+
