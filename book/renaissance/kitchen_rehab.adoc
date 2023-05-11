@@ -1,33 +1,6 @@
-== Rehabilitating our kitchens
+= Rehabilitating our kitchens
 
 Years of static menu, prepared-to-order food service have ravaged our kitchens. The relentless pressure to deliver freshly prepared food as fast as possible has created a truly dysfunctional culture of stress and strain.
-
-The first piece of the problem is the static menu itself.  Preparing the same dishes day-in and day-out is monotonous. This dulls creativity. In an RF establishment, the menu is constantly adaptable so ideas can be incorporated into the dish the next time it is prepared. This encourages employees to think critically about the dishes they are preparing.
-
-The dynamic nature of the RF establishment rewards employees with greater culinary knowledge. When preparing a new dish, these employees conceptually examine the task rather than approaching it rotely.  They are able to understand the significance of the ingredients in the recipe. Perhaps they are even able to propose of replacement ingredients in the case that one is in short supply.  The establishment stands to benefit greatly from such employees, and in turn, has the incentive to reward and cultivate deeper culinary knowledge in its employees.
-
-=== Demand volatility
-
-The second issue is prepared-to-order food.  This has two pernicious effects.  First, because the establishment has no control on when customers walk in the door, it is vulnerable to spikes of business.  In fact, one might even say that spikes are the norm, as most people eat at similar times of the day. 
-
-No one likes to wait, least of all a hungry person for their food. Management understands this and places an emphasis on timely service in order to keep their customers happy.  Effectively, management uses the work force as a buffer for this volatility, they absorb the spike in demand in the form of stress.  For this reason, spikes in customers translate into spikes of stress for the kitchen. 
-
-=== Labor volatility
-
-Second, prepared to order food leaves kitchens more vulnerable to labor volatility. If a staff member calls in sick, establishments have little means of closing that gap. This translates into additional stress for the remaining kitchen staff as they try to uphold the service expectations. 
-
-For an RF establishment that does the bulk of preparation in advance, there is likely to be more time to fill the gap before it impacts the customer.  Moreover, the RF establishment may be able to cover the gap with additional labor on a different shift, whereas the static menu must find someone to cover the exact shift of the sick employee.  In essence, the RF establishment can average out labor shortfalls with additional labor at a different time.  (Employees may be more likely to be pressured to work when sick due to static menu rigidity.)
-
-=== Blast radius
-
-A final factor in the prepared to order business model is that because each dish is prepared individually, if an employee makes a mistake, only a single dish is affected. What is more, the customer can catch that mistake almost immediately. These dynamics enable the static menu establishment to maintain chronically stressful labor conditions because the impact of mistakes is relatively contained.
-
-For an RF establishment, because many dishes are prepared in bulk in advance, a mistake in preparation will likely affect many more servings and has the potential to go unnoticed for longer.  Ironically, the fact that mistakes are costlier for RF is ultimately a harmonizing factor in food service labor practices.  Because mistakes are more frequent in stressful situations, it means that the worker and the establishments are aligned in their incentives: both want to avoid stressful working conditions. Therefore, business will be strongly incentivized to maintain low-stress working conditions in order to avoid disruptive mistakes.
-
-
-In effect, the static menu reduces food service to a basic labor commodity and then uses that very same quality to provide further value to the business model.
-
-Establishments seek so desperately to appeal to consumers that they have used unrealistic levels of service and and  cater to the It is important to pause and consider that the 
 
 That so many of us dine out regularly and yet take this fact for granted is a testament to the insidiousness of the culture that has taken hold. 
 
@@ -47,6 +20,30 @@ The idea that this arose from within industry itself is an important realization
 
 - Quote Anthony Bourdain
 
+
+== Monotony of the static menu
+
+The first piece of the problem is the static menu itself.  Preparing the same dishes day-in and day-out is monotonous. This dulls creativity. In an RF establishment, the menu is constantly adaptable so ideas can be incorporated into the dish the next time it is prepared. This encourages employees to think critically about the dishes they are preparing.
+
+The dynamic nature of the RF establishment rewards employees with greater culinary knowledge. When preparing a new dish, these employees conceptually examine the task rather than approaching it rotely.  They are able to understand the significance of the ingredients in the recipe. Perhaps they are even able to propose of replacement ingredients in the case that one is in short supply.  The establishment stands to benefit greatly from such employees, and in turn, has the incentive to reward and cultivate deeper culinary knowledge in its employees.
+
+=== Demand volatility
+
+The second issue is prepared-to-order food.  This has two pernicious effects.  First, because the establishment has no control on when customers walk in the door, it is vulnerable to spikes of business.  In fact, one might even say that spikes are the norm, as most people eat at similar times of the day. 
+
+No one likes to wait, least of all a hungry person for their food. Management understands this and places an emphasis on timely service in order to keep their customers happy.  Effectively, management uses the work force as a buffer for this volatility, they absorb the spike in demand in the form of stress.  For this reason, spikes in customers translate into spikes of stress for the kitchen. 
+
+=== Labor volatility
+
+Second, prepared to order food leaves kitchens more vulnerable to labor volatility. If a staff member calls in sick, establishments have little means of closing that gap. This translates into additional stress for the remaining kitchen staff as they try to uphold the service expectations. 
+
+For an RF establishment that does the bulk of preparation in advance, there is likely to be more time to fill the gap before it impacts the customer.  Moreover, the RF establishment may be able to cover the gap with additional labor on a different shift, whereas the static menu must find someone to cover the exact shift of the sick employee.  In essence, the RF establishment can average out labor shortfalls with additional labor at a different time.  (Employees may be more likely to be pressured to work when sick due to static menu rigidity.)
+
+=== Blast radius
+
+A final, more insidious factor in the prepared-to-order business model is that because each dish is prepared individually, if an employee makes a mistake, only a single dish is affected. What is more, the customer can catch that mistake almost immediately. These dynamics enable the static menu establishment to maintain chronically stressful labor conditions because the impact of mistakes is relatively contained.
+
+For an RF establishment, because many dishes are prepared in bulk in advance, a mistake in preparation will likely affect many more servings and has the potential to go unnoticed for longer.  Ironically, the fact that mistakes are costlier for RF is ultimately a harmonizing factor in food service labor practices.  Because mistakes are more frequent in stressful situations, it means that the worker and the establishments are aligned in their incentives: both want to avoid stressful working conditions. Therefore, business will be strongly incentivized to maintain low-stress working conditions in order to avoid disruptive mistakes.
 
 == Gratuity culture
 
