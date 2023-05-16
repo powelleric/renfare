@@ -23,7 +23,7 @@ The idea that this arose from within industry itself is an important realization
 
 == Monotony of the static menu
 
-The first piece of the problem is the static menu itself.  Preparing the same dishes day-in and day-out is monotonous. This dulls creativity. In an RF establishment, the menu is constantly adaptable so ideas can be incorporated into the dish the next time it is prepared. This encourages employees to think critically about the dishes they are preparing.
+The first piece of the problem is the static menu itself.  Preparing the same dishes day-in and day-out is monotonous. This dulls creativity. In an RF establishment, the menu is constantly adaptable, so ideas can be incorporated into the dish the next time it is prepared. This encourages employees to think critically about the dishes they are preparing.
 
 The dynamic nature of the RF establishment rewards employees with greater culinary knowledge. When preparing a new dish, these employees conceptually examine the task rather than approaching it rotely.  They are able to understand the significance of the ingredients in the recipe. Perhaps they are even able to propose of replacement ingredients in the case that one is in short supply.  The establishment stands to benefit greatly from such employees, and in turn, has the incentive to reward and cultivate deeper culinary knowledge in its employees.
 
@@ -41,17 +41,21 @@ For an RF establishment that does the bulk of preparation in advance, there is l
 
 === Blast radius
 
-A final, more insidious factor in the prepared-to-order business model is that because each dish is prepared individually, if an employee makes a mistake, only a single dish is affected. What is more, the customer can catch that mistake almost immediately. These dynamics enable the static menu establishment to maintain chronically stressful labor conditions because the impact of mistakes is relatively contained.
+A final, more subtle factor in the prepared-to-order business model is that because each dish is prepared individually, if an employee makes a mistake, only a single dish is affected. What is more, the customer can catch that mistake almost immediately. These dynamics enable the static menu establishment to maintain chronically stressful labor conditions because the impact of mistakes is relatively contained.
 
-For an RF establishment, because many dishes are prepared in bulk in advance, a mistake in preparation will likely affect many more servings and has the potential to go unnoticed for longer.  Ironically, the fact that mistakes are costlier for RF is ultimately a harmonizing factor in food service labor practices.  Because mistakes are more frequent in stressful situations, it means that the worker and the establishments are aligned in their incentives: both want to avoid stressful working conditions. Therefore, business will be strongly incentivized to maintain low-stress working conditions in order to avoid disruptive mistakes.
+For an RF establishment, because many dishes are prepared in bulk in advance, a mistake in preparation will likely affect many more servings and has the potential to go unnoticed for longer.  Ironically, the fact that mistakes are costlier for RF is ultimately a harmonizing factor in food service labor practices.  Because mistakes are more frequent in stressful situations, it means that the worker and the establishments are aligned in their incentives: both want to avoid stressful working conditions. Therefore, business will be strongly incentivized to maintain low-stress working conditions in order to avoid these more costly bulk mistakes.
 
 == Gratuity culture
 
 Many restaurants with higher-quality dishes tend to pay servers with gratuity.  This has the advantage that it offloads some of the business risk associated with sales volatility onto the staff because the servers receive a significant portion of their compensation from the customers. Again, we see the theme of the workforce acting as buffer for the businesses' sales volatility.
 
-This arrangement is already dubious but the worst thing is that gratuity is completely left up to the customer. This opens the door to all sorts of unjust outcomes in which the server is docked on their gratuity based on a customers dissatisfaction with the kitchen.  In turn, tensions between the kitchen and the servers arise. Effectively, the customer is able to use the gratuity as a proxy attack against the kitchen or some other shortcoming of the establishment.
+This arrangement is already dubious but the worst thing is that gratuity is completely left up to the customer. This opens the door to all sorts of unjust outcomes in which the server is docked on their gratuity based on a customers dissatisfaction with the kitchen.  In turn, tensions between the kitchen and the servers arise. Effectively, the customer is able to use the gratuity as a proxy attack against the kitchen (or the greater establishment itself).  This manifests in highly nuanced interactions between the server and the customer.  For example, if the customer requests a modification to a dish and it is not done, in their apology the server may note that the kitchen forgot to do it. This "pointing the finger" is the server defensively signaling to the customer that they put in the request and it was someone else's fault therefore the customer should not use this as a reason to dock their gratuity.  This drama does not help in serving food to customers.  It is baggage that the industry clings to.
 
-Neither of these things is a concern for the business and so overall it is a popular business choice.  In some cases, the entire aspect of service is a pretense.  You receive effectively the same exact thing but instead of placing the order at the counter, 
+The arguments in favor of gratuity are so weak as to be nonexistent.  Virtually any argument can be dismissed by simply questioning why, if gratuity is so useful, doesn't it make up the bulk of one's income in any other industry. It is truly a practice as peculiar as it is dysfunctional and it only serves to exacerbate the many other ills facing the industry.
+
+In some cases, the entire aspect of service is a pretense.  You receive effectively the same exact treatment but instead of placing the order at the counter, someone takes your order at the table.  The point being, the only clear expectation of gratuity seems to be that someone takes your order and brings your food to your table.  Whether that person intends to be available for any other requests is entirely unclear, yet the expectation of gratuity of at least 15% is clear.  Simply put, gratuity if it ever held any merit, has now simply been reduced to a business strategy, not an actual quantifiable service.
+
+If things were not bad enough, gratuity culture also dictates that each table gets one dedicated server.  Making requests to any other staff member is frowned upon.  This is because that person won't get compensated with gratuity for helping with your request.  Accordingly, one can expect that for any given request, many employees who are otherwise perfectly capable of helping will likely walk right past them while they vigilantly wait to catch the eye of their server (who hopefully hasn't just gone on a break). Notice how this fragile model is stressed even in time it takes the server to use the bathroom.
 
 - More efficient to use apps
 - Why table dedicated to one server? Why pretense of being so personal? Then they completely disregard this with food-runners who you are not supposed to ask other things of.
@@ -59,13 +63,4 @@ Neither of these things is a concern for the business and so overall it is a pop
 - Old dysfunctional model, resisting technology because it is less profitable
   - If everything was through app, harder to ask for gratuity, meaning restaurants would have to pay a standard wage to servers.
 
-There are several things wrong with this.  
 Arguably, the servers are getting the short end of the For the servers, however, this arrangement 
-For the servers, however, it 
-
-- More stress on the kitchen staff
-- Unfairness to servers
-
-
-
-
