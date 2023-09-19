@@ -18,7 +18,7 @@ Along with their exhaustive food waste analysis, they provide a veritable laundr
 
 From using a smaller dinner plate to standardizing food waste metrics in the federal government, opportunities to reduce food waste abound.
 
-While it provides an extensive list of remedies, it does not compare the relative merits of these remedies. In particular, several principles of RF are touched upon but their potential within RF and relative to other solutions warrants discussion.
+While it provides an extensive list of remedies, it does not compare the relative merits of these remedies. In particular, several principles of RF are touched upon individually but their combined potential within the context of RF warrants further discussion.
 
 Following the same pattern of supply chain dissection as __Wasted__, 
 RF techniques to reduce food waste will be presented and contrasted with other remedies.
@@ -36,9 +36,9 @@ A major problem with these approaches is that they place too big of a burden on 
 
 For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain constant during the shopping.  Notice something on sale?  Too bad.  Deviation from your plan is a risk factor for food waste.
 
-Tangential to this consumer burden topic is the trend towards smaller household sizes that was noted earlier.  Recipe planning and inventory management take virtually the same time regardless of how many servings are being made.  Therefore, consumers are being encouraged to adopt practices that are becoming increasingly less valuable.
+Tangential to this consumer burden topic is the trend towards smaller household sizes that was noted earlier.  Recipe planning and inventory management take virtually the same time regardless of how many servings are being made.  Therefore, consumers are being encouraged to adopt practices that are becoming increasingly less valuable as household size continues to shrink.
 
-A conceptual problem with influencing consumer behavior is that consumers already have a direct economic consequence from it: the money lost. Economic consequences are generally accepted as some of the most effective incentives, and yet the food waste still plagues consumers.  This adds weight to the claim that food waste efforts are too burdensome: consumers would rather waste food than bear the burden of more meticulously managing their food.  Therefore, how much more influential can one hope to be knowing that the consumer already has clear incentive to avoid it themselves. Clearly, the motivations behind food waste are not trivial. To put it in economic terms, the lost money from wasted food is an internality for the consumer and the hope is to influence the consumer's behavior in relation to an externality, food waste.  
+A conceptual problem with influencing consumer behavior is that consumers are already have a direct economic consequence from food waste: the money lost. Economic consequences are generally accepted as some of the most effective incentives. Therefore, how effective can public messaging hope to be if the consumer already ignores direct economic consequences? Moreover, the public messaging is in relation to an externality, whereas the lost money from wasted food is an internality for the consumer. Public messaging is not likely to sway behavior where economic incentives have already failed. 
 
 Finally, we should note that zero food waste is not actually even the ideal.  It is perfectly natural that people will want extra stores of food beyond even what they have plans for.  The inconvenience of running out of food is too great that people will instinctively prefer a surplus to a deficit, even if that means waste.  One could argue about what an adequate surplus ought to be, but this is a very subjective and personal matter.
 
@@ -67,7 +67,7 @@ A second example of a consumer-focused food waste remedy is buying items in smal
 
 The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of larger quantities, which contributes to over-purchasing.  __Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  
 
-This particular remedy offers tremendous insight into the heart of the issue.  For on the surface, it seems nonsensical. Producers are simply offering a bulk discount and consumers are stocking up for future meals. Why discourage such transactions?
+This particular remedy offers tremendous insight into the heart of the issue.  For on the surface, it seems nonsensical. Producers are simply offering a bulk discount and consumers are stocking up for future meals. Volume discounts are commonplace in most industries, so why discourage them in relation to food?
 
 Policy-makers believe that the consumer makes poor decisions in relation to bulk food purchases, that they are lured by the bulk discount into purchasing more than they can really use.  This may in fact be true. But the more important point is that this is not about bulk pricing.  It is about consumer psychology. The consumer over-estimates their commitment, therefore they are being advised to make smaller commitments.
 
@@ -83,11 +83,6 @@ Even the framing of the matter with the term "inconvenience" seems to minimize t
 
 
 
-cost to the consumer, in  The trouble is that in deciding whether the consumer is re that the 
-
-
-Intuitively, one would expect that 
-
 is not considered.  when unified under the umbrella of RF 
 
  effectiveness of these principles
@@ -95,10 +90,6 @@ is not considered.  when unified under the umbrella of RF
  there are opportunities at every conceivable level and with every imaginable stakeholder.  
 
 Within this list of potential remedies, several RF principles are touched upon.
-
-Also included in these remedies are several. in them are several principles of RF.  
-
-report also provides an extensive list of remedies.  
 
  provides a near-exhaustive examination of where food is wasted, the consequences of that waste and the remedies that are available.
 
