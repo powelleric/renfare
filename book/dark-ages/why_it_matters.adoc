@@ -64,7 +64,3 @@ It is important to emphasize the aspect of transaction costs for RF. RF establis
 To be clear, obtaining ingredients from a distributor would still be infinitely more convenient. Everything from the ordering to billing will likely be much more streamlined. The point is that these conveniences become less significant the larger transaction, eventually amounting to a minor consideration.
 
  seasonality is only a matter of cost and not actually a question of availability. 
-
-include::renaissance/kitchen_rehab.adoc[]
-
-
