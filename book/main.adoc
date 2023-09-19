@@ -2,5 +2,6 @@
 include::intro.adoc[]
 include::dark-ages/why_it_matters.adoc[]
 include::dark-ages/regenerative_agriculture.adoc[]
+include::dark-ages/kitchen_rehab.adoc[]
 include::renaissance/intro.adoc[]
 include::references.adoc[]
