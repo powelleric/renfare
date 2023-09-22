@@ -40,39 +40,21 @@ Intertwined with the consumer burden topic is the trend towards smaller househol
 
 Finally, a conceptual problem with influencing consumer behavior is that consumers are already have a direct economic consequence from food waste: the money lost. Economic consequences are generally accepted as some of the most effective incentives. Therefore, waste clearly has very strong drivers and public messaging is not likely to budge the entrenched behavior. Moreover, the public messaging is in relation to an externality, whereas the lost money from wasted food is an internality for the consumer.
 
- - hope to be if the consumer already ignores direct economic consequences? Public messaging is not likely to sway behavior where economic incentives have already failed. 
+==== The RF approach
 
-It is not simply coincidence that the report proposes measures that place a heavy burdey on the consumer.  This is because the consumer is seen as a malleable entity in the food system, whereas the industry is seen as rigid and difficult to change.  The field has arrived at this conclusion after failed attempts to influence industry either by way of regulation or moral suasion.  However, RF represents a paradigm shift that encompasses the entire system, not seeking to infuence just one entity in the system. It is also driven by the markets, not requiring regulation or intevention.  It affords a vast scope of possibilities that prompt a complete reassessment of the landscape.
+From the viewpoint of RF, consumer food waste is simply a side-effect of a much bigger issue. The real question is not how the consumer can optimize their food preparation but why the consumer is doing so much food preparation in the first place.  The reason is that food service has failed to meet society's needs to such a dramatic extent that people have given up on the expertise, economies of scale, etc that food service can offer and instead take on the task themselves. This behavior is contrary to every expectation of the capitalist model.
 
-With this new outlook in hand, a critical insight becomes apparent: that food waste at the consumer level is driven by speculation.  Because healthy, affordable and convenient food is not readily available, the consumer is forced to take on (some of) the task of food preparation themselves.  Naturally, the consumer attempts to purchase enough food for multiple meals on a single trip to the store, lest they find themself going to the supermarket each day.  Thus, they speculate on what they will eat the next few days.  When they get home, they prepare the food and likely make extra servings, speculating on how long the leftovers will keep and how fast they will eat it.  These two speculations open the door to the majority of the consumer food waste problem.
+On the other hand, if healthy, affordable and convenient food were readily available, the consumer would take on less food preparation thereby generating less waste.  The key is that the consumer doesn't need to plan several days ahead when eating from food service.  On the other hand, preparing one's own food often involves planning meals for several days and that leads to waste when plans change or prove incorrect.  This is especially true because the threat of having too little food trumps the consequences of wasting food, thus people err on the side of waste.  RF means less waste-prone speculative decisions for the consumer.
 
-Like most speculations, the consumer speculations on food are an attempt to optimize resources. By accurately predicting what you eat for several days, you can do it with less trips to the store and less time in the kitchen. This makes sense if you feel that it the only means to healthy and affordable food.  However, there is no reason to think that. Food service is infinitely more capable than the consumer will ever be.  In any other industry, this fact is painfully obvious.  Mechanics work in a garage.  Doctors work in hospitals.  You wouldn't expect to replicate those services at home with the same efficiency (if at all).  Yet, when it comes to food service, the industry has failed to meet society's needs to such a dramatic extent that the consumer behaves contrary to every expectation of the capitalist model.
+One could argue that this only shifts the burden of planning to food service.  This is true, but food service is much more capable of planning than the consumer and also more adaptable.  For one, if food is going to expire in your own fridge, then only you can prevent that. But for food service, there is an entire world of people to potentially sell that food to.
 
-- The problem is that it is based on a false notion of scarcity. Why go to the store or cook the food at all (if you don't want to)? If it is a question of saving time and money, food service can prepare food much more efficiently than the consumer could ever dream.  RF contends that healty, affordable and convenient food need not be scarce at all.
+In conclusion, RF advocates for people getting their food from food service as close as possible to the time it is eaten. This is the ultimate in efficiency and waste reduction.  In contrast, buying all of one's food for the week at a supermarket to then prepare it at home is the ultimate burden and opportunity for waste. 
 
-RF advocates for people getting their food from food service as close as possible to the time it is eaten. This is the ultimate in convenience and waste reduction.  In contrast, buying all of one's food for the week at a supermarket to then prepare it at home is the ultimate burden and opportunity for waste. 
+- the consumer cannot prepare food as effectively as food service, and poor inventory management leading to food waste is simply one example of that.
 
- - (Notably, the design of our cities and our shops means that a supermarket is not necessarily near one's home nor is it convenient to stop in for a single item.) This speculative shopping opens the door to virtually all of the ills of food waste.  It is all too easy to see an item on sale and to rationalize that it can be used in the coming days.  Purchases driven by cravings and bulk-savings can be similarly justified.
-
-- To appreciate the toxic nature of this speculation it is first important to note that it serves no value to the consumer.  It is a task of resource allocation under a false sense of scarcity.  Who would choose to store a week's worth of food if they knew that healthy, affordable and convenient food was readily available? There is no benefit to hoarding food in that manner.  Not only does it risk the food going to waste, but it is simply inconvenient to have to store it in one's house. 
-
-Thus, it can be seen that the scarcity of quality food service pushes the consumer into a game of speculation which results (quite predictably) in waste because the threat of having too little food trumps the consequences of wasting food.  
-
-- An excellent analogy is that of gasoline.  It is perfectly possible to buy gasoline in bulk and store it at one's home to reduce the number of trips that one makes to the gas station. However, such behavior is virtually unheard of because consumers trust that they can obtain gas quickly, conveniently and at a fair price whenever they need it.  Consumers do not share the same feelings about food, however. 
-
-- at a supermarket is is to the time)  Reducing the threat of food reduces the need to engage in such speculationas the time-starved, emotionally-inflenced, and advertising-susceptible consumer struggles to navigate their daily dietary requirements.
-
-- conceivably And because food preparation is complex, this  and confronts the consumer with numerous considerations, This is a complex task In tu
-
-- Finally, we should note that zero food waste is not actually even the ideal.  It is perfectly natural that people will want extra stores of food beyond even what they have plans for.  The inconvenience of running out of food is too great that people will instinctively prefer a surplus to a deficit, even if that means waste.  One could argue about what an adequate surplus ought to be, but this is a very subjective and personal matter.
+- It is not simply coincidence that the report proposes measures that place a heavy burdey on the consumer.  This is because the consumer is seen as a malleable entity in the food system, whereas the industry is seen as rigid and difficult to change.
 
 === Food speculation
-
-A second problem with these approaches i
-
-That is why I do not believe that the consumer is an effective agent of change, which is to say, that you cannot leave everything else the same and hope to have the consumer behave differently.
-
-"impromptu"
 
 to be less wasteful. On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
 
