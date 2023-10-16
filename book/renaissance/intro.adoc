@@ -12,7 +12,7 @@ Efficiency gains such as these are compelling because they are readily apparent 
 
 The first intangible benefit is that RF is flexible and adaptable to ingredient availability.  Whereas the static menu requires specific ingredients in exact proportions, RF is flexible.  To put it another way, the static menu starts from its own menu requirements and seeks farmers that can accommodate them.  RF starts with the farmer and tries to adapt the menu to accommodate the ingredients available from the farmer. This greatly increases the possibility that a farmer can supply their ingredients.  Moreover, it increases the possibility of sourcing multiple ingredients from the same farmer.  In this way RF facilitates deeper relationship with farmers.
 
-Building relationships between farmers and food service is paramount in RF.  So much so that RF encourages establishments to design their menu around the ingredients available from the farmer.  This mindset is important because it gives the farmer the latitude to focus on improvements to soil health rather than catering to the whims of the static menu.
+ Building relationships between farmers and food service is paramount in RF.  So much so that RF encourages establishments to design their menu around the ingredients available from the farmer.  This mindset is important because it gives the farmer the latitude to focus on improvements to soil health rather than catering to the whims of the static menu.
 
 == Ugly vegetables
 
@@ -41,22 +41,23 @@ Fragmentation of the inventory relates to food recall outbreaks.  Can't trace or
 
 ASIDE - Organic is an example of gradation but is abused and is susceptible to many of same issues as conventional
 
-== Guiding principles
+== Meat-centric
 
-The guiding principle of RF is the embrace of nature. This means designing around the resources that are abundant and renewable in the system.  This principle has been largely discarded by the modern food system, however it has sustained our species for countless generations prior to this.  it sustained humanity.
+A defining characteristic of the static menu is it's use of meat.  In particular, the static menu makes meat the showcase of its menu.  Often this comes in the form of a filet of meat.
 
-Only in relatively recent history could humans even conceive of reshaping the environment to yield the foods of their choosing.  In this sense, one could say that previous generations had no choice but to live within the constraints of their environment.
+There are several reasons that the static menu does this.  The first is that meat is not seasonal nor as perishable as fresh produce.  This means that it can be obtained year-round for a relatively consistent price.  This fits well with the static menu because it serves the same dishes year-round.
 
-Comparing the eating habits of earlier civilizations to our own, the most prominent distinction is their reliance on perennials as compared to our widespread use of annuals.  This is perfectly understandable because perennials do not require replanting each year.  In fact, many perennials grow larger, more resilient and have greater yields with each passing year.  Annuals, as the name implies, must be replanted each year, entailing enormous effort.
+A more subtle factor driving meat consumption is the inefficiency of the static menu.  Because it cannot serve a large volume of customers, it must make a relatively larger profit from each customer.  Meat is a more expensive ingredient that pushes up the price of a dish.  In turn, higher prices make it easier to extract higher profits.
 
-Despite the current preference for annuals, there is an abundance of knowledge regarding the use of perennials by people in a wide variety of environments.  Moreover, the integration of perennials into agricultural system that includes annuals has been studied extensively.  This approach can be broadly grouped under the heading of permaculture, which stands for "permanent agriculture".
+Finally, meat has a cooking time that is in keeping with the time customers are willing to wait for their food.  This means that meat-centric dishes can be prepared-to-order, as is characteristic of the static menu.
 
-Despite the fact that permaculture offers a more efficient way to produce food, it plays a meager role in the modern food system.  Instead, consumers are conditioned to rely on annual crops.  The exact reasons for this phenomenon are complex and interwoven, spanning everything from historical considerations to modern business models.  What can be said, however, is that in the context of our current knowledge and capabilities,the emphasis on annual crops is not warranted.  
+RF is revolutionary in its ability to buck the trend of meat dominance in food service.  The environmental benefits of reduced meat consumption are worthwhile on their own, but RF is equally motivated by frugality.  That produce is a more economical ingredient than meat should be an obvious fact to anyone.  Estimates suggest that it requires X as many resources to produce an equivalent amount of calories from meat than produce.  This is easy to understand when you consider that you must feed the livestock produce to eventually get the desired meat.
 
-An example of a historical driver for annual crop production is the role of wheat in ancient civilization.  Wheat offered a relatively nutrient dense food source that could be stored for months at a time.  This allowed the formation of larger cities and cultural hubs.  Conversely, modern society enjoys means of rapid transport of goods and instantaneous communication.  These factors completely supersede the benefits that humans once derived from being near one another.  In fact, these factors have proven so effective that in some places we now witness an migration from cities to less populated areas. 
+This very basic observation is not always reflected in the current food system due to the deep dysfunction and inefficiency of the food supply chain.  Intermediaries are so inefficient, greedily exploiting power dynamics and seeking to supply the same ingredients that the consumer may often find that fresh produce is relatively expensive.  RF deftly cuts through this gross distortion of the markets by sourcing ingredients directly from the farmer or by choosing only ingredients that are plentiful in the present moment.  This means that RF can obtain its raw ingredients significantly cheaper than the static menu.
 
+Secondly, RF is efficient in serving and preparation.  It seeks profit by offering value to the consumer.  In effect, it seeks a small profit from each dish but to serve a high-volume of customers.  This is the opposite mindset that tries to squeeze as much from each customer as it can.  In this sense, RF has nothing to gain from higher price points in the same way as the static menu.
 
- I hope to convince you that this style of food service is qualitatively different than anything we have now, not just offering an incremental improvement to the issues at hand but a whole new landscape of possibility.
+Lastly, because RF prepares food in advance, the relatively longer preparation times of fresh produce are irrelevant. 
 
 == Something entirely new
 
