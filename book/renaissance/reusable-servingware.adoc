@@ -1,10 +1,12 @@
-If society were to adopt RF and consumers increasingly got their meals from food service, it could lead to a proliferation of packaging waste.  The principles of RF do nothing to deter food service from using disposable containers.  Increasing numbers of food service establishments use disposable containers for all their orders, even people dining in.  This keeps the preparation for every order the same and can even be cheaper than cleaning/maintaining reusable servingware. Arguably, disposable containers are only cheaper for the restaurant because it does not bear the externalities of the waste: Increasing evidence suggests that plastic waste is harming our ecosystems and our bodies.
+If society were to adopt RF and consumers increasingly got their meals from food service, it could lead to a proliferation of packaging waste.  The principles of RF do nothing to deter food service from using disposable containers.  Increasing numbers of food service establishments use disposable containers for all their orders, even people dining in.  This keeps the preparation for every order the same and can even be cheaper than cleaning/maintaining reusable servingware. Arguably, disposable containers are only cheaper for restaurants because they do not bear the externalities of the waste: Increasing evidence suggests that plastic waste is harming our ecosystems and our bodies.
 
 Even though RF is susceptible to the appeal of disposable containers, it enables some advanced developments in food service that could curb the use disposable containers. The challenge with reusable servingware is in the consumer returning it when they are finished.  In the worst case, this ends up being an errand on the other side of town that the consumer must do.
 
 Even in the worst case, one way to lighten this burden is simply by taking more containers on each trip.  In other words, to eat more RF meals.  Because RF is focused on value to the consumer, this is a much more reasonable proposition than increasing consumption of static menu food service.
 
 Increasing the amount of meals a person eats can also facilitate other developments, such as delivery/pick-up.  Milk delivery offers insight into how this could work.  Local dairies sometimes offer delivery service to their customers and use reusable glass containers.  This arrangement requires that the consumer signs up for a regular delivery schedule, which is not unreasonable for a staple ingredient like milk.  On each visit, the driver will deliver the new order and pickup any empty containers left outside. (This is usually facilitated by a designated cooler/box that the customer keeps on their doorstep.) Sometimes the consumer will pay a deposit for the container that is refunded when it is returned.  Additionally, there may be a delivery fee if the order does not meet a minimum size.  Regardless, the key is that the consumer has an ongoing relationship with the dairy.
+
+ The customer is not required to clean the milk jar before returning it. They are simply asked to dump out any remaining milk. The residue after dumping it out still collects at the bottom and sours and turns brown. The dairy does not have a problem with this. Perhaps food containers could be returned "scraped clean", like if they were being loaded into a dishwasher.
 
 RF could conceivably follow a similar model, perhaps even more easily than the dairies because for many the desire for prepared meals will be greater than for milk.  This is especially true for smaller households that are increasingly becoming the norm.
 
@@ -46,6 +48,10 @@ Recognizing that more frequent purchases facilitate more possibilities
 
 - Standardized servingware facilitates comparisons between food offerings.
 
-- Automat removes the retail requirement from food serviceLP6008246-DNA_B12.
+- Automat removes the retail requirement from food service
 
 This can easily turn into a burden for the consumer and deter them from choosing it.  
+
+== 3rd party returns
+
+Apart from a delivery/pickup service, there could be deposit locations to return the servingware, like mailboxes.  They couldn't be installed on the public sidewalk like mailboxes.  But certain private businesses that have no competing food interest might find the increased traffic desirable. For example, a car wash might get extra customers. 
