@@ -20,8 +20,7 @@ From using a smaller dinner plate to standardizing food waste metrics in the fed
 
 While it provides an extensive list of remedies, it does not compare the relative merits of these remedies. In particular, several principles of RF are touched upon individually but their combined potential within the context of RF warrants further discussion.
 
-Following the same pattern of supply chain dissection as __Wasted__, 
-RF techniques to reduce food waste will be presented and contrasted with other remedies.
+Following the same pattern of supply chain dissection as __Wasted__, RF techniques to reduce food waste will be presented and contrasted with other remedies.
 
 === Consumer
 
@@ -34,7 +33,7 @@ The second point is critical because researchers frequently focus on influencing
 A major problem with these approaches is that they place too big of a burden on the consumer. 
  In reality, the cost of adopting many of the consumer-focused reduction efforts is considerable. 
 
-For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to careful inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain unwavering during the shopping.  Notice something on sale?  Too bad.  Deviation from your plan is a risk factor for food waste.
+For example, the report cites "[l]ack of meal planning and shopping lists" as a driver in food waster. However, such planning can be complex and time-consuming.  Selecting recipes, tallying the required ingredients and checking your current stock of these ingredients must all be done before going to the store.  Do you have half a bottle of sauce that is on the brink of spoilage? Then you must tailor your recipe selection to include that item.  Ultimately, reducing waste by this route translates to careful inventory management and requires knowing (at least roughly) how much you have of each ingredient and what its expiration is.  Last but not least, all of this planning must occur prior to going shopping and must remain unwavering during the shopping.  Notice something on sale?  Too bad.  Deviation from your shopping list is a risk factor for food waste.
 
 Intertwined with the consumer burden topic is the trend towards smaller household sizes that was noted earlier.  Recipe planning and inventory management take virtually the same time regardless of how many servings are being made.  Therefore, consumers are being encouraged to adopt practices that are becoming increasingly less valuable as household size continues to shrink.
 
@@ -56,24 +55,31 @@ In conclusion, RF advocates for people getting their food from food service as c
 
 === Food speculation
 
-to be less wasteful. On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
+ On the surface, it would seem that the consumer is perhaps the only one capable of reducing waste at the consumer level. After all, if it the same consumer that throws away the food that they purchased only days earlier, then who else is to intervene.
 
-While it is certainly true that the consumer plays a principal role in consumer-level food waste, they are not the only party capable of influencing it.  In particular, RF has great potential to reduce waste.  However, before discussing the potential of RF, the potential of the existing remedies must be discussed.
+ While it is certainly true that the consumer plays a principal role in consumer-level food waste, they are not the only party capable of influencing it.  In particular, RF has great potential to reduce waste.  However, before discussing the potential of RF, the potential of the existing remedies must be discussed.
 
-I would argue that the greatest challenge of the existing remedies is they place too great of a burden on the consumer. This point is noted in Wasted where they note that "time constraints and inconvenience can exacerbate the problem."  However, because it does  examining the potential of the various remedies, the significance of these time constraints may not be apparent.
+ I would argue that the greatest challenge of the existing remedies is they place too great of a burden on the consumer. This point is noted in Wasted where they note that "time constraints and inconvenience can exacerbate the problem."  
+
+ However, because it does  examining the potential of the various remedies, the significance of these time constraints may not be apparent.
+
+=== Buy less
 
 A second example of a consumer-focused food waste remedy is buying items in smaller quantities. 
 
+The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of larger quantities, which contributes to over-purchasing.  
+
+This particular remedy offers tremendous insight into the challenges of the issue.  For on the surface, it seems nonsensical. Producers are simply offering a bulk discount and consumers are stocking up for future meals. Volume discounts are commonplace in most industries, so why discourage them in relation to food?
+
+The reason is that policy-makers believe that consumers makes poor decisions in relation to bulk food purchases, that they are lured by the bulk discount into purchasing more than they can really use.  This may in fact be true. But the more important point is that this is not about bulk pricing.  It is about consumer psychology. The consumer over-estimates their commitment, therefore they are being advised to make smaller commitments.  What a slippery slope to navigate! Advocating that consumers forego bulk discounts is implicitly insulting to the consumer.
+
+==== Bulk food
+
+__Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  Theoretically, there are undeniable benefits to this, but in practice its application proves disappointingly limited.  There are simply not enough food items that are available in this format.  There is also the extra burden of having to weigh each item.  In general, if the same quantity of goods were available in a packaged format versus a bulk format, the former would offer a more streamlined shopping experience (e.g. less weighing and manual data entry of item codes), better protection for the goods while in transit and better communication of information regarding the ingredient (e.g. origin, nutrition).
+
+Finally, it is worth while to note that the greatest proportion of food waste comes from produce, which is a type of product in which consumers are often able to select items individually.  This demonstrates that perfectly choosing quantities is far from a silver-bullet in terms of waste reduction.
+
  The logic behind this remedy is appealing but ultimately proves too reductive. 
-
-The idea is that if the consumer wastes a portion of an item then they would have been better off buying less of that item. Proponents of this solution further note that producers often incentivize purchases of larger quantities, which contributes to over-purchasing.  __Wasted__ cites bulk food grocers as a potential remedy because consumers can purchase exactly what they need.  
-
-This particular remedy offers tremendous insight into the heart of the issue.  For on the surface, it seems nonsensical. Producers are simply offering a bulk discount and consumers are stocking up for future meals. Volume discounts are commonplace in most industries, so why discourage them in relation to food?
-
-Policy-makers believe that the consumer makes poor decisions in relation to bulk food purchases, that they are lured by the bulk discount into purchasing more than they can really use.  This may in fact be true. But the more important point is that this is not about bulk pricing.  It is about consumer psychology. The consumer over-estimates their commitment, therefore they are being advised to make smaller commitments.
-
-There are several challenges with this approach.  Finally, it is worth while to note that the greatest proportion of food waste comes from produce, which is a type of product in which consumers are often able to select items individually.  Therefore, perfectly choosing quantities is far from a silver-bullet in terms of waste reduction.
-
 
 Even the framing of the matter with the term "inconvenience" seems to minimize the true cost of what is being asked of the consumer. 
 
