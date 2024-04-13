@@ -10,7 +10,7 @@ Increasing the amount of meals a person eats can also facilitate other developme
 
 RF could conceivably follow a similar model, perhaps even more easily than the dairies because for many the desire for prepared meals will be greater than for milk.  This is especially true for smaller households that are increasingly becoming the norm.
 
-== Standardized servingware and RF distributors
+== "Food trucks", Standardized servingware and RF distributors
 
 The preceding section assumes that the delivery is being handled by the RF establishment itself.  However, delivery could be much more efficient if meals from multiple establishments could be handled by a single entity.  Essentially, this would be a local ready-to-serve food distributor that could sell meals from multiple establishments.
 
@@ -28,19 +28,21 @@ This format means that the consumer could order from multiple establishments whi
 
 The introduction of the third-party RF distributor encourages free-market competitiveness.  It means that each individual establishment does not have to invest in servingware and delivery operations.  This offers a more level playing field in which new-comers can offer the same benefits without large upfront investments.  Effectively, this means the competition between establishments rests on the value of the food and reduces the ability of larger entities to leverage their investment in servingware/delivery to undercut smaller establishments.
 
-Outsourcing the distribution opens up some other interesting benefits for small establishments. In the conventional model, food service is located in retail settings where the cost of property can be quite high.  It pays for restaurants to have locations in dense areas where many people are. The consumer, of course, bears this cost. A distributor would allow establishments to have no retail store front at all, operating solely out of industrial kitchen space. Taking this further, RF distribution allows for pop-up/seasonal food service in which commercial kitchen space is rented for a short period of time ("cloud kitchen").  RF gives society the adaptability to take advantage of any situation.
+Outsourcing the distribution also opens up some other interesting benefits. In the conventional model, food service is located in retail storefronts where the cost of property can be quite high.  The consumer, of course, bears this cost. A distributor would allow establishments to have no retail store front at all, operating solely out of industrial kitchen space. Taking this further, RF distribution allows for pop-up/seasonal food service in which commercial kitchen space is rented for a short period of time ("cloud kitchen").  RF gives society the adaptability to take advantage of any situation.
 
 == Less miles, more meals
 
 The idea of local ready-to-serve food distributor is topical because of the recent emergence of the food-delivery industry.  This industry piggybacked on the ride-share industry.  It allows many restaurants to share one pool of delivery drivers and for meals from different establishments to be delivered by the same driver. In these respects it is a great efficiency improvement.
 
-Unfortunately the state of static menu food delivery is so horribly inefficient that these efficiency improvements still offer nothing comparable to an RF distributor.
+Unfortunately the state of static menu food delivery is so horribly inefficient that these efficiency improvements still offer nothing comparable to an RF distributor.  
 
-- Prepared-to-order foods require complex real-time communication between customers, establishments and drivers.  In turn, this requires complex software that drives up the price of this service.
+- Meals are still prepared individually and often delivered individually.  With RF distributors, dozens of meals could be picked up at a time.  Delivery services would make many trips back and forth to achieve the same volume.  
+
+- Food delivery services require real-time communication between customers, establishments and drivers.  In turn, this requires complex software that drives up the price of this service.  With RF distributors, the pickup from the restaurant could be scheduled well in advance and potentially so could the deliveries to the customers (much like the milk delivery).  This reduces complexity allowing distributors compete on the actual distribution of food and reducing the ability of large entities to leverage sophisticated software against competitors. Further, some food delivery services require that the establishments keep a dedicated device/tablet to communicate with their data center.  This tactic, while ostensibly providing a helpful means of facilitation, also serves to ensure market dominance by increasing the transaction costs of an establishment wishing to change delivery services (e.g. vendor lock-in) and also increases the investment required for competitors to enter the market.  Both of these factors limit market competitiveness and hurt the consumer.
 
 - Specialized vehicles cannot be utilized.
 
-- The food delivery industry, like the ride-share industry, is gig work. This form of employment is prone to worker exploitation.  On the other hand, an RF distributor would offer better employment because it is more highly-skilled labor to operate/load/unload a specialized vehicle.  Gig work has the advantage that the labor pool can be easily scaled up at peak times.  RF on the other hand seeks to flatten the peak with wider delivery windows and relies on its greater efficiency to meet peak demands.
+- The food delivery industry, like the ride-share industry, is gig work. This form of employment is prone to worker exploitation.  It is essentially low-skill labor that almost anyone can do;  If you have ever picked up takeout for your family, then you are qualified to be a driver for a food delivery service. On the other hand, an RF distributor would offer better employment because it is more highly-skilled labor to operate/load/unload a specialized vehicle.  While gig work has the advantage that the labor pool can be easily scaled up at peak times.  RF on the other hand seeks to flatten the peak with wider delivery windows and relies on its greater efficiency to meet peak demands.
 
 The following are several ways that RF delivery is more efficient.
 
@@ -55,8 +57,6 @@ First of all, there is the increased efficiency of the deliveries.  If food from
 
 
 The discussion of specialized 
-It is clear that 
-Recognizing that more frequent purchases facilitate more possibilities
 
 - Delivery and pickup
 
