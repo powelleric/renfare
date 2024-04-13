@@ -2,10 +2,6 @@
 
  Part 1 "Dark ages" showed the flaws of the current system and compared it with a few of the possibilities of the RF paradigm.  This section will continue to explore the RF paradigm and possibilities that arise from comprehensively re-imagining our food system.
 
-The previous section focused a great deal on efficiency. In particular, it identified that a very limited menu of ready-to-serve dishes was more efficient in terms of preparation and distribution than a menu with wide array of prepared-to-order items.  It also noted that this design is capable of processing large quantities of a given ingredient, and that this makes it possible to purchase directly from the farmer rather than a distributor.  
-
-These are key insights because the savings reaped from these practices allows more resources to be invested in  areas that have become chronically deprived.  For example, it may be true that processed ingredients are quicker and easier to prepare than whole foods. However, if whole foods were attainable at a fraction of the current cost, then this could offset the extra labor required for preparation.  Similarly, regenerative agriculture practices may require more labor than conventional agriculture, however, if the produce can be obtained directly from the farmer, then the extra cost of labor is offset by the savings of avoiding a distributor.  In essence, efficiencies gained in one area are used to pave the way for others.  More specifically, RF looks for more efficient business processes at the micro-economic level and then reinvests the savings in more ethical and sustainable (but albeit less profitable) practices at the societal level. 
-
 Efficiency gains such as these are compelling because they are readily apparent and can be easily calculated on a balance sheet.  Other less-tangible benefits also arise from farmer relationships.
 
 == Diverse purchases
@@ -26,10 +22,11 @@ Another reason that the static menu is more averse to irregular produce is becau
 
 Ultimately, it is the deep reliance of distributors that precludes any true embrace of diversity in ingredients.  However, the static menu itself is content with the situation due to its deep-seated vanity.
 
-Moreover, they could not accommodate the irregular produce on an occasional basis. They seek consistency of price of ingredients in order to offer consistent prices.  This shows the depth of the pathology of the static menu.  If it could put aside its vanity and agree to use the irregular produce, it would then ask to be given the same irregularities in the same proportions each day.  It cannot handle variability. 
-
+Moreover, they could not accommodate the irregular produce on an occasional basis. This shows the depth of the pathology of the static menu.  If it could put aside its vanity and agree to use the irregular produce, it would then ask to be given the same irregularities in the same proportions each day.  It cannot handle variability. 
 
  ironically those savings come at a great cost.   can  Technically, this is less of a distinction of the static menu and more of a side-effect of it.  The static menu m  In the same veinFarmer-food-service relationships are better able to use produce of multiple grades.
+
+ They seek consistency of price of ingredients in order to offer consistent prices.  
 
 == Agricultural practices
 
@@ -40,24 +37,6 @@ If, for example, a farmer adopted drip-line irrigation in order to improve water
 Fragmentation of the inventory relates to food recall outbreaks.  Can't trace origin
 
 ASIDE - Organic is an example of gradation but is abused and is susceptible to many of same issues as conventional
-
-== Meat-centric
-
-A defining characteristic of the static menu is it's use of meat.  In particular, the static menu makes meat the showcase of its menu.  Often this comes in the form of a filet of meat.
-
-There are several reasons that the static menu does this.  The first is that meat is not seasonal nor as perishable as fresh produce.  This means that it can be obtained year-round for a relatively consistent price.  This fits well with the static menu because it serves the same dishes year-round.
-
-A more subtle factor driving meat consumption is the inefficiency of the static menu.  Because it cannot serve a large volume of customers, it must make a relatively larger profit from each customer.  Meat is a more expensive ingredient that pushes up the price of a dish.  In turn, higher prices make it easier to extract higher profits.
-
-Finally, meat has a cooking time that is in keeping with the time customers are willing to wait for their food.  This means that meat-centric dishes can be prepared-to-order, as is characteristic of the static menu.
-
-RF is revolutionary in its ability to buck the trend of meat dominance in food service.  The environmental benefits of reduced meat consumption are worthwhile on their own, but RF is equally motivated by frugality.  That produce is a more economical ingredient than meat should be an obvious fact to anyone.  Estimates suggest that it requires X as many resources to produce an equivalent amount of calories from meat than produce.  This is easy to understand when you consider that you must feed the livestock produce to eventually get the desired meat.
-
-This very basic observation is not always reflected in the current food system due to the deep dysfunction and inefficiency of the food supply chain.  Intermediaries are so inefficient, greedily exploiting power dynamics and seeking to supply the same ingredients that the consumer may often find that fresh produce is relatively expensive.  RF deftly cuts through this gross distortion of the markets by sourcing ingredients directly from the farmer or by choosing only ingredients that are plentiful in the present moment.  This means that RF can obtain its raw ingredients significantly cheaper than the static menu.
-
-Secondly, RF is efficient in serving and preparation.  It seeks profit by offering value to the consumer.  In effect, it seeks a small profit from each dish but to serve a high-volume of customers.  This is the opposite mindset that tries to squeeze as much from each customer as it can.  In this sense, RF has nothing to gain from higher price points in the same way as the static menu.
-
-Lastly, because RF prepares food in advance, the relatively longer preparation times of fresh produce are irrelevant. 
 
 == Something entirely new
 
