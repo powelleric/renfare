@@ -1,3 +1,5 @@
+= Reusable servingware
+
 If society were to adopt RF and consumers increasingly got their meals from food service, it could lead to a proliferation of packaging waste.  The draw of disposable containers is great and the principles of RF do nothing to deter food service from using disposable containers.  In fact, increasing numbers of food service establishments use disposable containers for all their orders, even dine-in orders.  This keeps the preparation for every order the same and can even be cheaper than cleaning/maintaining reusable servingware. Arguably, disposable containers are only cheaper for restaurants because they do not bear the externalities of the waste: Increasing evidence suggests that plastic waste is harming our ecosystems and our bodies.
 
 Even though RF is susceptible to the appeal of disposable containers, it enables some advanced developments in food service that could curb the use disposable containers. The challenge with reusable servingware is in the consumer returning it when they are finished.  In the worst case, this ends up being an errand on the other side of town that the consumer must do.
@@ -12,7 +14,7 @@ RF could conceivably follow a similar model, perhaps even more easily than the d
 
 == "Food trucks", Standardized servingware and RF distributors
 
-The preceding section assumes that the delivery is being handled by the RF establishment itself.  However, delivery could be much more efficient if meals from multiple establishments could be handled by a single entity.  Essentially, this would be a local ready-to-serve food distributor that could sell meals from multiple establishments.
+The preceding section assumes that the delivery is being handled by the RF establishment itself.  However, delivery could be much more efficient if meals from multiple establishments could be handled by a single entity.  Essentially, this would be a local ready-to-serve food distributor.
 
 The emphasis that RF places on ready-to-serve food makes this concept much more feasible than with the conventional static menu.  Food that must be prepared-to-order or is subject to customization is not amenable to this format.
 
@@ -38,11 +40,11 @@ Unfortunately the state of static menu food delivery is so horribly inefficient 
 
 - Meals are still prepared individually and often delivered individually.  With RF distributors, dozens of meals could be picked up at a time.  Delivery services would make many trips back and forth to achieve the same volume.  
 
-- Food delivery services require real-time communication between customers, establishments and drivers.  In turn, this requires complex software that drives up the price of this service.  With RF distributors, the pickup from the restaurant could be scheduled well in advance and potentially so could the deliveries to the customers (much like the milk delivery).  This reduces complexity allowing distributors compete on the actual distribution of food and reducing the ability of large entities to leverage sophisticated software against competitors. Further, some food delivery services require that the establishments keep a dedicated device/tablet to communicate with their data center.  This tactic, while ostensibly providing a helpful means of facilitation, also serves to ensure market dominance by increasing the transaction costs of an establishment wishing to change delivery services (e.g. vendor lock-in) and also increases the investment required for competitors to enter the market.  Both of these factors limit market competitiveness and hurt the consumer.
+- Food delivery services require real-time communication between customers, establishments and drivers.  In turn, this requires complex software that drives up the price of this service.  With RF distributors, the pickup from the restaurant could be scheduled well in advance and potentially so could the deliveries to the customers (much like the milk delivery).  This reduces complexity allowing distributors to compete on the actual distribution of food instead of on sophisticated software. Further, food delivery services often require that the establishments keep a dedicated device/tablet to communicate with their data center.  This tactic, while ostensibly providing a helpful means of facilitation, also serves to ensure market dominance by increasing the transaction costs of an establishment wishing to change delivery services (e.g. vendor lock-in).  Both of these factors limit market competitiveness and hurt the consumer.
 
 - Specialized vehicles cannot be utilized.
 
-- The food delivery industry, like the ride-share industry, is gig work. This form of employment is prone to worker exploitation.  It is essentially low-skill labor that almost anyone can do;  If you have ever picked up takeout for your family, then you are qualified to be a driver for a food delivery service. On the other hand, an RF distributor would offer better employment because it is more highly-skilled labor to operate/load/unload a specialized vehicle.  While gig work has the advantage that the labor pool can be easily scaled up at peak times.  RF on the other hand seeks to flatten the peak with wider delivery windows and relies on its greater efficiency to meet peak demands.
+- The food delivery industry, like the ride-share industry, is gig work. This form of employment is prone to worker exploitation.  It is essentially low-skill labor that almost anyone can do;  If you have ever picked up takeout for your family, then you are qualified to be a driver for a food delivery service. On the other hand, an RF distributor would offer better employment because it is more highly-skilled labor to operate/load/unload a specialized vehicle.  While gig work has the advantage that the labor pool can be easily scaled up at peak times, RF seeks to flatten the peak with wider delivery windows and relies on its greater efficiency to meet peak demands.
 
 The following are several ways that RF delivery is more efficient.
 
@@ -50,24 +52,12 @@ The following are several ways that RF delivery is more efficient.
 
 - Conventional delivery is based on the idea that the food is delivered ASAP.  That is, as soon as it can be prepared and brought to your doorstep.  Ironically, this does not mean that the food will arrive quickly or in a predictable time-frame.  Thus, the consumer does not know exactly when they will get their food even though it is all designed around their convenience.  RF certainly could compete on quickest delivery but prefer to leverage its business model to focus on efficiency and value rather than convenience.  This means that customers would be offered the ability to order their food well in advance of their intended meal time and would receive a delivery window of a couple hours that included their ideal meal time.  This allows RF the best opportunity to deliver multiple meals on the same route.
 
-, longer than what you would expect if you ordered from the static menu.  
-
-
 First of all, there is the increased efficiency of the deliveries.  If food from multiple establishments can be delivered on the same trip, this will reduce the number of trips being made.
-
-
-The discussion of specialized 
-
-- Delivery and pickup
 
 - Standardized servingware facilitates comparisons between food offerings.
 
 - Automat removes the retail requirement from food service
 
-This can easily turn into a burden for the consumer and deter them from choosing it.  
-
 == 3rd party returns
 
 Apart from a delivery/pickup service, there could be deposit locations to return the servingware, like mailboxes.  They couldn't be installed on the public sidewalk like mailboxes.  But certain private businesses that have no competing food interest might find the increased traffic desirable. For example, a car wash might get extra customers. 
-
-== Static menu participation
