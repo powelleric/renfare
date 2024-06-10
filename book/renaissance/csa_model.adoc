@@ -1,10 +1,50 @@
 = The Community Supported Agriculture (CSA) model
 
+A fascinating aspect of RF is that is borrows from so many familiar business models while managing to accentuate the positives.  Community Supported Agriculture (CSA) is a prime example of this.
+
+CSA is a business model in which the consumer buys "shares" of the output of a farm.  The key aspects are that:
+
+* The shares cover a period of several months.
+* Each week the consumer receives their share of the farm's output.
+* What the consumer receives each week is completely variable.
+
+The term "shares" implies that the consumer is investing in the farm, much like shares in the stock market. If the season is bountiful, then the consumer will receive more than if the season is meager. This model is particularly interesting because the consumer absorbs some of the risk of the agricultural production.
+
+Unfortunately, the CSA model has enormous transaction costs. It forces the farmer to take on some responsibilities of a retailer. Marketing, billing and packaging are just some of the tasks they are faced with.  Often, the arrangement is extremely rigid in the distribution: consumers are expected to report at a certain time on a certain day of the week to pick up their share. 
+
+As mentioned earlier, the contents of each weeks share is highly variable.  This can make it hard for the consumer to plan their meals in advance.  Effectively, this forces the consumer to scramble to plan their meals once they see what they received that week.  Also, it is not as though the ingredients in your share are all you need for the week.  You will almost certainly need to go to the grocery to get supplemental ingredients.  Finally, because this model is tied to the farms output, the quantities of ingredients can be far different than what the consumer would normally buy.  These factors all increase the risk of food waste. Having to commit months in advance is also a waste-prone factor. It is great for someone that enjoys a challenge in the kitchen, but can easily become a burden for anyone that already has busy schedule. 
+
+ The arrangement is high stakes.  Because you must get your share at a predetermined time, you must clean out your fridge in the days prior and to be ready to to plan your coming meals around it. 
+
+== RF - CSA
+
+The CSA model perfectly captures all the values and preferences people want in their food but can also be inconvenient and inefficient.  If instead, people purchased prepared food from an RF establishment that, in turn, buys shares of farm output, the whole arrangement would be greatly improved.
+
+First, RF establishments would purchase much greater quantities, reducing the number of transactions. The farmer would be able to drop the role of the retailer and simplify their operations.
+
+In the hands of RF, the produce would be less likely to be wasted.  An RF establishment could adjust the price to sell higher quantities when ingredients are more abundant, whereas consumers have a relatively fixed amount they can consume.
+
+Specialty ingredients would also be more welcome in the context of RF.  While the consumer may appreciate dishes with exotic ingredients, having to use a new ingredient in a recipe can be challenging, or worse, frustrating, when things don't go to plan. RF is better equipped with culinary expertise and preparing larger quantities make it worthwhile to learn new preparation techniques. 
+
+The farm share model powered by RF is a unique opportunity to improve the market for specialty ingredients and, in turn, improve crop diversity.  Ordinarily, this market struggles with weak demand due to the homogenizing forces of intermediaries and the static menu.  By purchasing shares in advance, the farmer does not have to worry about bringing their product to market; Instead, RF brings the market to the farmer and shares in the risk.  RF is also better at accommodating seasonal ingredients than the static menu.  
+
+It is also significant that the farm share model transfers risk from the farmer.  This lessens the need for crop insurance.  This is another potential cost savings and streamlines the food system. This also provides an extra boost to specialized crops because these are more difficult to insure. The farm share model provides the best approach to risk management of specialized crops. 
+
+In summary, with the farm share model:
+* the buyer agrees to the purchase in advance.  Freeing the farmer from the risk of selling the product in a weak market.  This is especially important for specialty crops. 
+* The buyer pays for the product in advance, helping to finance the production.
+* The buyer is also the insurer, absorbing the risk of production.
+
+By alleviating the pressure and uncertainty of these financial considerations, the farm is empowered to invest in more environmentally-driven choices.
+
 == Food service investing in the farmer
 
+In conclusion, the farm share model offers an unprecedented opportunity to deepen the connection between food-service and the farmer.  The importance of this relationship cannot be overstated.  It holds the power to 
  The importance of this new connection between food-service and the farmer cannot be overstated.  Indeed, nearly everything in the book hinges on it.  The closer the relationship that can be forged between these two parties, the more benefits there are to be reaped.
 
-The regenerative agriculture section noted how RA farms often struggle bringing their product to market. RF offers a new approach that eliminates the problem entirely.  By purchasing shares in advance, the farmer does not have to worry about bringing their product to market.  Instead RF brings the market to the farmer, which is to say the RF invests in in the product before the seeds are sown. Rather than waiting until the harvest in reaped.
+The regenerative agriculture section noted how RA farms often struggle bringing their product to market. RF offers a new approach that eliminates the problem entirely.  
+
+ which is to say the RF invests in in the product before the seeds are sown. Rather than waiting until the harvest in reaped.
 
 == More diverse crops
 
