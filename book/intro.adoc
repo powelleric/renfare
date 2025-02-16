@@ -94,7 +94,7 @@ The initial driver for the static menu comes from the business owner's desire fo
 
 The consistency offered by the static menu means that customers have a clear expectation of what is offered.  Things are predictable.
 
-Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural for the customer to expect the same item to cost the same amount from day-to-day; Most goods behave in this manner.
+Within this context, it is obvious that having a constant price for the dishes perfectly completes the model.  It would be a shame if a customer came for their favorite dish only to find that it was too expensive that day. Furthermore, it is natural (though not entirely correct) for the customer to expect the same item to cost the same amount from day-to-day; Most goods behave in this manner.
 
 Fresh produce availability, on the other hand, can vary widely over the course of the year.  The more perishable the ingredient and the more seasonal it is, the greater the variability.  This can be the difference between getting an item directly from a nearby grower (for a bargain) in-season and getting it from half-way around the world a few months later.
 
