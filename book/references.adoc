@@ -12,3 +12,4 @@
 
 [[[wasted-nrdc]]] Wasted: How America Is Losing Up to 40 Percent of Its Food from Farm to Fork to Landfill. NRDC. August, 2017.
 
+[[[claude-constraints-in-art]]] Conversation with AI https://claude.ai/chat/454c0999-f42c-4777-8280-dbccadc45a93
